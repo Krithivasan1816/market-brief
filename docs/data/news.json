@@ -1,0 +1,250 @@
+{
+ "date": "2026-10-20",
+ "updated": "2026-10-20T12:20:09.051666+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 22888.95,
+   "change_pct": 0.73
+  },
+  {
+   "name": "Sensex",
+   "price": 73852.9,
+   "change_pct": 1.12
+  },
+  {
+   "name": "S&P 500",
+   "price": 7690.73,
+   "change_pct": -1.49
+  },
+  {
+   "name": "Nasdaq",
+   "price": 26430.89,
+   "change_pct": -2.99
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.93,
+   "change_pct": -0.37
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4131.7,
+   "change_pct": -0.92
+  }
+ ],
+ "india": [
+  {
+   "title": "SpaceX IPO vs upcoming Anthropic IPO: Will Claude maker beat Elon Musk’s $75 bn record?",
+   "link": "https://www.livemint.com/market/stock-market-news/spacex-ipo-vs-upcoming-anthropic-ipo-will-claude-maker-beat-elon-musk-s-75-bn-record-11792493013233.html",
+   "source": "Mint",
+   "published": "2026-10-20T06:33:15+00:00",
+   "snippet": "SpaceX raised $75 billion in its June 2026 IPO, setting a record with a $1.77 trillion valuation. Anthropic is reportedly considering a November listing targeting up to $100 billion at a $2 trillion valuation, but its pl..."
+  },
+  {
+   "title": "Titan Q2 results 2026 date: Check Rekha Jhujhunwala portfolio stock returns, target, support - Should you buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/titan-q2-results-2026-date-check-rekha-jhujhunwala-portfolio-stock-returns-target-support-should-you-buy-11792495713454.html",
+   "source": "Mint",
+   "published": "2026-10-20T06:30:15+00:00",
+   "snippet": "Titan Company will review and approve its unaudited Q2 and first-half FY27 results at a November 5 board meeting. No dividend consideration has been announced. Investors will focus on jewellery margins, demand, and perfo..."
+  },
+  {
+   "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T06:02:11+00:00",
+   "snippet": "Meta's upcoming third-quarter results will reflect its significant investments in artificial intelligence technologies and products. The company's revenue is expected to grow by 23.8%, despite intense competition from ri..."
+  },
+  {
+   "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T06:00:10+00:00",
+   "snippet": "PRISM is set to scale back its initial public offering from Rs 6,650 crore to Rs 3,350 crore in light of its robust cash flow and enhanced balance sheet. The majority of the newly structured funds will focus on repaying..."
+  },
+  {
+   "title": "French bond yields near 24-year high as new protests loom",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T05:57:57+00:00",
+   "snippet": "As ongoing protests grip France, the yields on government securities, known as OAT, have surged to a peak not seen in over 24 years. Both Marine Le Pen and Jean-Luc Melenchon lead polling efforts, presenting hurdles for..."
+  },
+  {
+   "title": "Number of branded housing projects in India set to jump over 2-fold in 6 years: Savills",
+   "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/number-of-branded-housing-projects-in-india-set-to-jump-over-2-fold-in-6-years-savills/articleshow/135068870.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T05:54:17+00:00",
+   "snippet": "Real estate firms in India are anticipating a significant increase in branded residences by 2032. A report suggests nearly 25 ultra-luxury housing projects will be completed in this period. Major developers have partnere..."
+  },
+  {
+   "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T05:52:09+00:00",
+   "snippet": "3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial demand and sales in..."
+  },
+  {
+   "title": "US Stocks: GE Aerospace raises 2026 profit forecast as services strength drives growth",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ge-aerospace-raises-2026-profit-forecast-as-services-strength-drives-growth/articleshow/135068763.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T05:49:35+00:00",
+   "snippet": "GE Aerospace has increased its 2026 adjusted earnings forecast due to continued demand for engine maintenance. The demand for spare parts remains high, which supports their financial outlook. Airlines are facing rising f..."
+  },
+  {
+   "title": "US Stocks: GM's core profit rises 22% on strength of pickup-truck business",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-gms-core-profit-rises-22-on-strength-of-pickup-truck-business/articleshow/135068643.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T05:47:32+00:00",
+   "snippet": "General Motors exceeded analyst expectations in third-quarter earnings, driven by robust demand for their pickups and SUVs. The company reported an adjusted EBIT of $4.1 billion, marking a 22% year-over-year increase. De..."
+  },
+  {
+   "title": "What's the future of AI stock? SK Hynix shares crash to lowest level since Apr as sell-off deepens; down 31% in Oct 2026",
+   "link": "https://www.livemint.com/market/stock-market-news/whats-the-future-of-ai-stock-sk-hynix-shares-crash-to-lowest-level-since-apr-as-sell-off-deepens-down-31-in-oct-2026-11792493870676.html",
+   "source": "Mint",
+   "published": "2026-10-20T05:41:53+00:00",
+   "snippet": "SK Hynix shares fell 4.23% to their lowest level since April, extending a seven-session slide that has erased 31% of their value. Jitters over AI spending, Chinese competition and upcoming corporate earnings have pressur..."
+  },
+  {
+   "title": "Artha Bharat to shift two GIFT City funds to Abu Dhabi over tax hurdles",
+   "link": "https://www.business-standard.com/markets/news/artha-bharat-to-shift-two-gift-city-funds-to-abu-dhabi-over-tax-hurdles-126102000508_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-20T05:37:16+00:00",
+   "snippet": "he fund manager cites uncertainty over tax deductions, compliance requirements and investor restrictions as reasons for relocating two funds to Abu Dhabi Global Market"
+  },
+  {
+   "title": "Reliance Jio IPO: Massive bids top $25 bn amount for anchor book! How Mukesh Ambani firm attracted top-notch investors",
+   "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+   "source": "Mint",
+   "published": "2026-10-20T05:06:29+00:00",
+   "snippet": "Reliance Jio Platforms’ ₹30,213 crore IPO drew anchor bids exceeding 30 times the available shares, attracting major global and domestic investors. The company plans to use up to ₹27,500 crore of proceeds to repay Relian..."
+  },
+  {
+   "title": "Sensex and Nifty Slip as Financials Drag Market; Sector Breadth Weakens",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0JnZ25VQ3Y5ejVJX0NkZXVvZXFqYXpVRUd5TkpjMGdCdkpScF9YeFQ3bUdZR3VMOGdraXFTcld0U3I0akt0M1licFIzQkNLamx6Q1hIdWNSRnZ6Wm8tT0pCaDRJSTljWXN3WWN4T2FrWFVmZ2VyamdUWlZ2RXkwaHZzVUtDU2pxSDF0bjIwMkxFLXVRejZPOERlLXdFWmlqRkctOUJlY1plVHJQcmJ5WDR3ZE1rbE40S2pLT3Vha3EzUVBkUF9BaQ?oc=5",
+   "source": "MarketsMojo",
+   "published": "2026-10-20T05:00:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
+   "source": "Economic Times",
+   "published": "2026-10-20T04:48:27+00:00",
+   "snippet": "Indian equities weakened amid negative global cues and selling in private banks and IT stocks, pushing the Nifty below 23,000. Choice Equity Broking’s Sachin Gupta recommends four stocks—Federal Bank, ACME Solar, Dr Redd..."
+  },
+  {
+   "title": "Alive News Faridabad - राजनीति, मनोरंजन, खेल और व्यापार की नई खबरें",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVzJ1OEZnTVU1WS1QeEhtV1c4R2ZyMHhRaklWbmpLLUVKT2x2OW04Y1lGTWRYLXJSeHVWelpPOGFxblFPeFBHc1p1TFFPOEl3Z0lZa3lWNnM4OHRmbXE3NEs5bkpmZDBuS3B6dGw3VlZib2d3TUE2aEU5Y1pfa28?oc=5",
+   "source": "alivenews.co.in",
+   "published": "2026-10-20T04:43:51+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-20T06:45:00+00:00",
+   "snippet": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”"
+  },
+  {
+   "title": "Why Tesla bull Cathie Wood thinks the stock is headed to $5,000",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUxrWnRnOHN0VmUzLUZRTFZPVjQyUF9WY0tJeE1kTkpRZUhfbnJHYjRISjFBaFNKazI5aC1NejBaNmhueGhIR2xYS0FhYkwxQkJiYXE4TW8xWUJ2WjdYaEtvNFNYSHFKZ0d0WXNMY2hPMl9mRFRBZzZJeEFrVWdLWVdneHg2ZC01Q1VmYlVRb3k0VXc1UDk3X3kyQ2c4U2xVWkl4Qjg1SHBPbDFOdTR5SFJ2Qk52RkxKc1VUdVR2YjRfYXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:41:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
+   "link": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-20T06:40:00+00:00",
+   "snippet": "Call it a sign of the times: A JPMorgan analyst is looking into the exposure banks will have if CoreWeave defaults on its debts."
+  },
+  {
+   "title": "NVIDIA Keeps Falling and Wall Street Won’t Move Its Target. Is It Time To Buy?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXdRTEZ3b2xDdW96M2hORTVLZkcweW5wcHh1NWpZWWg5SWU0QU1PYkNpYl9HV2JXcExUUl9tWnQyX0VHU3RoMVZmWk9PUHRFbENVVlMwQmNrdzF1ZkZzOWpkNTR2a3pDSFVJQnc5aHpPbWF6aERzUVFJWFhTbmRoOVMzckIxQXJzbEtseU1BVlQ4cGpCZWZfV0tQQ3FzQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:30:11+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Wall Street Gave Micron Back Its $1 Trillion Crown Just One Session Later",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnlaU2tIdXQ3YWV3YzV1NGFad3ZFbjI1QUNIOEUzUUtiZF9aaDhHRXNpQUFjOGZVUEh1YTFUVy1ITGxzN1FndVRuSEJPbGlnNmN3VklXWDNsVS13blhFdnBsVloxOWFGXzRJaElhcUJRUDNDcnVRbjlQaDNTSEpEZThKS2tZOW5sd3BFdEJKY3BIajZhaEh4Wg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:25:30+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Target Stock Is Up 61%. Is Its 3% Dividend Still Worth Buying?",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3E0ZEl3eTFnakJFZi1aNmw4RmExRXZVN3NlWWtzU1hGZEJyazBfdkl0dkpJMkY2bWNvSVRXaWxCUXNQSklIN3NOTmg0MmZFeDV1OFd5NkN3akJCVnByRDZERFZhdTdWSjdqLWRISHZMWll5TWhHMlhKQ2xGMFZQVmtaT0dBVTlpTC1uTGJOWGxfU3FVaHc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:15:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDJMbFYyRDRHa3ZlRHdRZFlVZmlYeFpRNzhrOVdQRVlJb2NabkN1RDYxa25FOGVKSG9IRC1rcUQtc21fVjgtQU5UeFFrMkVucGFHaGIxRlBPWkR3aExsRUJWSnBZb3Mzd1phOXBXbm43SjhvaUtQWi1zUWg1SG1UYQ?oc=5",
+   "source": "Barron's",
+   "published": "2026-10-20T06:12:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-20T06:11:00+00:00",
+   "snippet": "“Ill-timed circumstances can change our financial future in unexpected ways.”"
+  },
+  {
+   "title": "Why CoreWeave earnings estimates are wildly too optimistic, warns HSBC",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUpock9zSkF1WWliclVuY19LNnpYYnV2QTdHdmhhR0J6LTl1VzRHbWR3QWNkTDlaamVMU0FwUmc3bjFSa3ZtcHZlM3FiSkVDd1A0VXJMYzF3TDVsenJaUGtVQ0d3cHA5R09FZnBfSlRobC03WTh0VXBfSXBfcWNJLUltWm9mc2lNWFlLY0ttZDVkbmdBOUxKeHhCUU1IVkJZeUhiTEpQMGVEeHVMNmMxUDFFTUVHdm04LXZBVXRUdEowTkw1V2YtSUJDMUczQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:08:48+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "RTX stock climbs on strong earnings beat and raised outlook",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDltWG5qd2c0R1BtMGlNQzE5azhWVWh1SUZLY01LYmIzdjhWRXJFVDF3R3IxcUNDWlFQNURQOS1hLUREYmh2aXU0cDROVVhZRFRzcW51dGp5US1ab3NkQThXeUpOWHpVc2tYY095QThpNERVbHdIZGdLVXNLcjdTUTRTUXp6YlU5V29VX0JsN3hSREJYN0dGWThsd2R6QQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T06:04:44+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RTmgzcWZUb3pvR3p6eW00aEFZZGd2NEdSSTZkY1dud2JGRl9NQU05dnZreXNkWjhLY2RIRXF5Z0V1aVBJeEk1V1l6RERQQmZDMFZ2aWZGWE12WXdsTFN3U3F4aU5HVXVtZkdyT2NETHNwQUh3WnfSAXtBVV95cUxOQV9Zc2lkTFhfeDFCbF9PTG9rUTk1ajY3cnRlUUJ4NnAyMDFjMGdfUFc1WlRlTF94bHdYN1ZjMktqQ1ItSU5hWmlPUGhvSThSNGt4MzhyakR6c3ZXRzVmSHlUa2hkVDMyWUh3NmFYbUFNSjFBcWd6SmFjMWM?oc=5",
+   "source": "CNBC",
+   "published": "2026-10-20T06:04:03+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+   "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-20T06:00:00+00:00",
+   "snippet": "Earnings season shifts into higher gear, with fresh clues about consumer spending and the health of corporate America beyond the tech sector."
+  },
+  {
+   "title": "Nasdaq futures fall as oil prices jump, key earnings loom",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-20T05:56:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Cramer warns SanDisk and Western Digital are worst stocks if data center capacity shrinks",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTRNV0xOOHp2QXRUVE1RWG92aTFrajQ3M2hLS2paSGg4RU5lZHMxdmFOTnhDaHlIMlZjeG1GNlc0U1VURmF3VUQ3MDN2TF9qR0R2bjI1V3BMQXllRURiM3FFYmp1QTFFSzlFUW5UVGZJTXBpUk1NQnlfaUo5MjN0UG5oU1ZLa1hCYVd0VURVb1VOemYzeTM1Si1VS0hrX3RYZ05z?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T05:55:21+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Tech in focus as stock markets retreat; oil surges",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFYydDJYaGYzR3VsMlNBTi14a19Ec1R6MGJPU2haaFJTRDBCaEF3WkxGQ3A4RFRRRGtTYmdTb2pLUDBhTl9uVTU4Tm84WHBmSHoyZHpJNHBBZlEydDNsTGJCbmIxTjNRRFZkRm04MUJGYUxnZmNueFpkOFdCY2RNNVRlZjRfRXlrY0xFcmZsNWtFc1pOcU9zb3RB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T05:53:51+00:00",
+   "snippet": ""
+  }
+ ]
+}

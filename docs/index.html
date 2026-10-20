@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Market Brief</title>
+<meta name="description" content="Daily India + US market news and an investing guide.">
+<meta name="theme-color" content="#0f1720">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Market Brief">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Market Brief</h1>
+  <div id="updated" class="muted"></div>
+</header>
+<main id="view" aria-live="polite"></main>
+<nav id="tabs">
+  <button data-tab="today" class="active">Today</button>
+  <button data-tab="invest">Invest</button>
+  <button data-tab="learn">Learn</button>
+  <button data-tab="archive">Archive</button>
+</nav>
+<script src="app.js"></script>
+</body>
+</html>

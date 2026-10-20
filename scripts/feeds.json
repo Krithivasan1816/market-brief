@@ -1,0 +1,22 @@
+{
+  "india": [
+    {"source": "Economic Times", "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"},
+    {"source": "Moneycontrol", "url": "https://www.moneycontrol.com/rss/marketreports.xml"},
+    {"source": "Mint", "url": "https://www.livemint.com/rss/markets"},
+    {"source": "Business Standard", "url": "https://www.business-standard.com/rss/markets-106.rss"},
+    {"source": "Google News", "url": "https://news.google.com/rss/search?q=Sensex+Nifty+when:1d&hl=en-IN&gl=IN&ceid=IN:en"}
+  ],
+  "usa": [
+    {"source": "CNBC", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
+    {"source": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+    {"source": "Google News", "url": "https://news.google.com/rss/search?q=stock+market+when:1d&hl=en-US&gl=US&ceid=US:en"}
+  ],
+  "quotes": [
+    {"name": "Nifty 50", "symbol": "^NSEI"},
+    {"name": "Sensex", "symbol": "^BSESN"},
+    {"name": "S&P 500", "symbol": "^GSPC"},
+    {"name": "Nasdaq", "symbol": "^IXIC"},
+    {"name": "USD/INR", "symbol": "INR=X"},
+    {"name": "Gold (USD)", "symbol": "GC=F"}
+  ]
+}
