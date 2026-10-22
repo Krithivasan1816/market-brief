@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated": "2026-10-22T17:24:29.021956+00:00",
+ "updated": "2026-10-22T17:25:03.936499+00:00",
  "quotes": [
   {
    "name": "Nifty 50",
@@ -14,13 +14,13 @@
   },
   {
    "name": "S&P 500",
-   "price": 7654.37,
-   "change_pct": -1.16
+   "price": 7655.74,
+   "change_pct": -1.14
   },
   {
    "name": "Nasdaq",
-   "price": 26053.92,
-   "change_pct": -2.47
+   "price": 26057.51,
+   "change_pct": -2.45
   },
   {
    "name": "USD/INR",
@@ -29,8 +29,8 @@
   },
   {
    "name": "Gold (USD)",
-   "price": 4054.7,
-   "change_pct": -2.53
+   "price": 4055.7,
+   "change_pct": -2.51
   }
  ],
  "india": [
@@ -163,13 +163,6 @@
    "snippet": ""
   },
   {
-   "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWNkVXNVNFRfaXJHQUFEbWpsTjRLLWR2SkJxc1ZyZTJ5RVkxS2Y0SDl0aWNrbEZCTkJTYXN3VW5tYm01WU0tSkhjRTNpamRLRFV5dUF6N1NXVmJTU2hmbkExdGx1MVdreG84M18zMGR4VnZtcUVKZkZhaGJWT3djWVhiSERhSHlEYUgyUVotcE5fanRFb1lOQ1RUTQ?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-22T17:07:02+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3%",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkNBeVRqYVRfaUlRTDI0TjF2YXJfaDVBY2dqMVFiX2t2bUxLWmY2NG5UOUx6Y0pkeEV5ejhnclhSVGEyRWRHZVBWc2xGSjVVUFF6NWhXeUhFTEFFM29yckJEQkkwQTRRMHdwNjZUbTdCYzltRGxBRGd4b05KWHJ5bHFmckR3aWh4S2VEUDJPUTlhSGFnZ0RCNzhnczM?oc=5",
    "source": "Yahoo Finance",
@@ -244,6 +237,13 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGtQelRMekozZzIwYUktWUlXWDRhdVpGQWxuUU8zandDYXJtOHZZbTZnOThpV1BtQVdScVRuaFFKS1U1VE1yM3VVaEJXdlB0OG5iU01yMzJpYkp3ak9ael9qNGdSa3pLb1V4RGtqdS1BMlZXQTlXLU94SFdkbzBNUHdKeWdpbkhiN2wxMU9HelY?oc=5",
    "source": "Yahoo Finance",
    "published": "2026-10-22T16:41:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "SEC Attempts to Undo Stock Market Rules with Unlawful, Poorly Reasoned Order",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXFJRDdoVDBzYlZNSE15N3JFZ2RkY0J5amxiYzNXZGppTmthSm1XakFNWFRTU1Z5RXRFcmZhdUhPaVNmUWF5RENacFQySm5RT1c5ZU1RWG04TXFPRnlEME9OdzkxN3ZtUkxJWkJfWDhXU2wybmgycWlLbUlDRXo5ZUxNSG5YMklLTWx1cWpLVS1NSVB4RFB2aENrQ0hSRjFiUTFyZVdnSENhY1ZabTZ6bQ?oc=5",
+   "source": "Better Markets",
+   "published": "2026-10-22T16:39:33+00:00",
    "snippet": ""
   }
  ]
