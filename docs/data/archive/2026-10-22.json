@@ -1,0 +1,250 @@
+{
+ "date": "2026-10-22",
+ "updated": "2026-10-22T17:24:29.021956+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 22687.65,
+   "change_pct": -1.35
+  },
+  {
+   "name": "Sensex",
+   "price": 73249.39,
+   "change_pct": -1.43
+  },
+  {
+   "name": "S&P 500",
+   "price": 7654.37,
+   "change_pct": -1.16
+  },
+  {
+   "name": "Nasdaq",
+   "price": 26053.92,
+   "change_pct": -2.47
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.81,
+   "change_pct": 0.3
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4054.7,
+   "change_pct": -2.53
+  }
+ ],
+ "india": [
+  {
+   "title": "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
+   "link": "https://www.livemint.com/market/stock-market-news/apple-stock-rises-28-in-2026-as-ai-stocks-wobble-why-investors-are-betting-on-the-iphone-maker-11792687241486.html",
+   "source": "Mint",
+   "published": "2026-10-22T17:08:13+00:00",
+   "snippet": "Apple shares have risen 28% in 2026, outperforming other Magnificent Seven stocks as investors seek Big Tech exposure without the volatility of heavy AI infrastructure spending.&nbsp;"
+  },
+  {
+   "title": "Sensex tanks 460 points as Nifty slips below 22,700; media stocks lead losses",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWdRaHd1LWNNUExNSV9SUnloU1hhWFVmLTYxM21oenpsNTlTZUFqcU43YlFCUlRRR2ZtU3NUQlgyZWlvLXRHc29kRnozcEpQc0diYkJURTZHbGo4WlRQaV83czZoNVRyWGdWR1d3a2I3ay1pX0FOUUxBa0JZY2g3am1nVWlzZ2hQV3ZrM1E1LW5MVFJZeDZyLXFOSEFoaUktM1VqZVZR?oc=5",
+   "source": "prameyanews.com",
+   "published": "2026-10-22T17:03:45+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Pershing's Ackman sees a $1 trillion Israeli company within a decade",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pershings-ackman-sees-a-1-trillion-israeli-company-within-a-decade/articleshow/135123317.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T16:56:49+00:00",
+   "snippet": "Billionaire investor Bill Ackman said he remained bullish on Israel’s economy and financial markets, predicting the country could produce a $1 trillion company within a decade. He highlighted Israel’s technology ecosyste..."
+  },
+  {
+   "title": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/average-long-term-us-mortgage-rate-eases-to-7-32-in-first-pullback-since-late-august/articleshow/135123287.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T16:52:07+00:00",
+   "snippet": "US mortgage rates eased for the first time since late August, with the average 30-year fixed rate falling to 7.32% from 7.40% last week, Freddie Mac said. The decline offers some relief to homebuyers, but borrowing costs..."
+  },
+  {
+   "title": "Top Stories: Markets extend losing streak, Jio IPO subscription soars, eMudhra CEO on security flaw",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3IyY3pGdFotN0JEMEkxTzl5Zzl3WHljNzBBSll5ZExCY050b1E4S3RhTjV5Vk5hRi1HcE4wb0RBUXBleUQ2ekY3ZzlTczc3OXRWcWxPaVJkZVhzSEV4RnUxUzlRWWljTF9HX0V1TURaQWRESVNrUVdCNFJqMDUxWUxMZ0RtT3ZSWFdSWlE2b0VuM015LW1YZC1qa3kwN0xXdWxzTi1HdkFqNFVodE1lZlRTdGZ0dU12VnBOM1hPejZSQ2FkZGVtT3pldDhES05LcjRtT0JoZUh4ODDSAeABQVVfeXFMUDQxZDYydXltX1oyQjZDcnZnM3hkNnRGc01LUmhNeFdxaWR6TVVhVUhtZ1NnandtWWZjcVJ6VWRsWTBxbWFJUkVaYkN5TFpTaDQ3TGpJSmRXNFh2TWJZeGRIRTVlMm1CeDJublhpeUMxclY4cTduOUZ3bkViR0IzS0ZDLUVKc0tjWFRrT3p5NE04LUswYXNMREhYUTBjSU8yR1UxMGRiWVN4bFRKZHZ0alRjcmUtMUxzeDhZRDhyQ2IzRW1STDhaRUVhYjZtNTFOQ2psWWhid0plWDRJRlMtdEU?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-10-22T16:30:16+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Oct.22: Sensex Falls 460 Pts for Third Day as Oil Risks Weigh; Nifty Slips Below 22,700",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JUSXIyMDFuTk9fZG1tTm1pazNWTmFUQ3VvLU9kT3lSVC1yUXh2UHpMRDFRS25EUlc0dmtseFRKM0k4X3BySURXdkpZTllLUkEybzYtV3ZNXzhUdTNNODZYa0tfdWxDeVRvOGw4SlRMVkZIcGRoazItWmF0N2RtSU52Wm5sclE5a1owNzhPTzRTNUpxVFFLdnlzOElWRkJub3JVTnJCckxKM3Rxa3NyMkFR?oc=5",
+   "source": "The Indian Awaaz",
+   "published": "2026-10-22T16:21:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids",
+   "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-22T16:19:53+00:00",
+   "snippet": "Qualified institutional buyers bid 13.29 times the quota reserved for them, while retail investors subscribed 1.54 times"
+  },
+  {
+   "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T16:03:41+00:00",
+   "snippet": "Indian equities fell sharply as rising crude prices, rupee weakness and global uncertainties pressured sentiment. Sensex lost over 460 points, Nifty declined 124 points, and BSE-listed companies lost Rs 3 lakh crore in m..."
+  },
+  {
+   "title": "Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?",
+   "link": "https://www.livemint.com/market/stock-market-news/calliope-capital-ola-electric-investment-how-many-rights-entitlements-has-the-firm-applied-for-11792681740296.html",
+   "source": "Mint",
+   "published": "2026-10-22T16:02:51+00:00",
+   "snippet": "Motilal Oswal Financial Services and Calliope Capital Advisors applied for about 2.39 crore shares in Ola Electric’s ₹1,000 crore rights issue after receiving transferred rights entitlements. The offer is priced at ₹27 p..."
+  },
+  {
+   "title": "Yes Bank unlikely to pay AT1 bond coupons despite bond holders demand, sources say",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-unlikely-to-pay-at1-bond-coupons-despite-bond-holders-demand-sources-say/articleshow/135122504.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T16:01:43+00:00",
+   "snippet": "Yes Bank has announced potential non-payment of coupons on additional tier-1 bonds this fiscal year following a Supreme Court decision that annulled the previous write-off of these bonds. Bondholders are advocating for r..."
+  },
+  {
+   "title": "Sebi warns investors against WhatsApp stock tips. Here's how you can avoid such traps",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T15:17:48+00:00",
+   "snippet": "SEBI has cautioned investors against exclusive WhatsApp groups spreading unauthorised stock tips and fake profit claims. The regulator flagged astroturfing, overseas numbers, replacement groups and suspicious trading app..."
+  },
+  {
+   "title": "Anthropic IPO stands alone as AI market jitters sideline others",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
+   "source": "Economic Times",
+   "published": "2026-10-22T15:16:29+00:00",
+   "snippet": "Anthropic plans to move forward with its initial public offering next month, navigating a challenging IPO landscape. While many companies in the AI field have delayed their public listings due to fluctuating interest rat..."
+  },
+  {
+   "title": "Sebi warns investors against fraudulent WhatsApp stock tip groups",
+   "link": "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-22T15:15:23+00:00",
+   "snippet": "The market regulator warned that unregistered entities use invitation-only WhatsApp groups, fabricated profit testimonials and overseas numbers to lure unsuspecting investors"
+  },
+  {
+   "title": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
+   "link": "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-22T15:03:06+00:00",
+   "snippet": "Nifty fell 0.54 per cent to 22,687.65 as Brent crude climbed above $112 a barrel, with oil-sensitive stocks dragging markets lower amid renewed tensions in West Asia."
+  },
+  {
+   "title": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnVBOFBMd2JkeEpUdWhNWWFuS3ZsQXJBbkpLVEgzQ3lOcVlxc1YyUTZlaHotRzhqZEFqRmtXd21YTFJrWlVhaVduTWVWckNjSHJLS2pLSUM4eHhlOXRzUVpUZWt3bWZiWTl4Q205eGV1akprWXBwTXUya0RmWjJhWUJMWnN5WndPZnJEcTNDdnZuUnVyX19fVGZremtpUWxzaXQ5VlowakM3UWNidG05Y1pnUzc5UmE3Njh6N1VsUkRlcW1lMVNOdTA1OHRQekI0d2w00gHYAUFVX3lxTE5iNml4WGQ1ZFpidzd3OGNzREdxZzZaUlhUSlRWMG1PY1Z5c2JKSUVYaEFsSFJzSVN5TktuM0trVEdNdDF3MlhrdWNGUl9Gd3JBWkhoNWctNVRjb2ROUnVxRXp6REJGamFNay1RYWZmVzdwRk9kWVN2alJibGRDa1dtWm9KU09ZN2RreVN2dHJrR2Y2ZVNfTktPdEhjQlhhMldsS1J1U3BoT29TZTF0UXhOc05GNEZjNG5iWERDaEl0LWQ2bnJBMU40Z3NVd1Nqd19MaVpSM0w2eA?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-22T15:03:06+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+   "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-22T17:21:00+00:00",
+   "snippet": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first."
+  },
+  {
+   "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+   "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-22T17:16:00+00:00",
+   "snippet": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets."
+  },
+  {
+   "title": "1 Wall Street Analyst Sees the S&P 500 Climbing to 8,000 by Year-End. Is It Time to Buy Stocks?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkJPWkFmRTdleGNHRGpLanUxYTd2S1FpeTB0bjBLX1YxS2JJLVJPSElKWk5vM3FjemZNRzNiWXNBN1VreFF4ek1laWhDbUcwdjZUVFZDVzlzRzM3NGt5ZzJGV2l1WVNITnlaSmp5VFlPOGJKNE5LMl9sUU5PV0ljWXMtaWRtRy1meUo3VXRjQVZsU1RHcXlr?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-22T17:10:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWNkVXNVNFRfaXJHQUFEbWpsTjRLLWR2SkJxc1ZyZTJ5RVkxS2Y0SDl0aWNrbEZCTkJTYXN3VW5tYm01WU0tSkhjRTNpamRLRFV5dUF6N1NXVmJTU2hmbkExdGx1MVdreG84M18zMGR4VnZtcUVKZkZhaGJWT3djWVhiSERhSHlEYUgyUVotcE5fanRFb1lOQ1RUTQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T17:07:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3%",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkNBeVRqYVRfaUlRTDI0TjF2YXJfaDVBY2dqMVFiX2t2bUxLWmY2NG5UOUx6Y0pkeEV5ejhnclhSVGEyRWRHZVBWc2xGSjVVUFF6NWhXeUhFTEFFM29yckJEQkkwQTRRMHdwNjZUbTdCYzltRGxBRGd4b05KWHJ5bHFmckR3aWh4S2VEUDJPUTlhSGFnZ0RCNzhnczM?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T17:05:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "PepsiCo Stock Could Be a Contrarian Opportunity if This One Thing Improves",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkxqNzVLZ0YtNnZxQ254MDBZdkpmTmZMWEtJSVJaREhRVXZ1WW9Lek9DWXZLWWRGUVJ5eUNrR1MxdXVmZTVqVWZ5c0hQTFd4RXVGbVVFejFsbkE5Q1FhWjVWcDg0VVpJQmM0SGN3eE9MQ21hUmgwQU14VXpfOG45Zks4VDJoXzB4VDZ5Tm5BaEtLbmRUcmVSLXNNVDRzTFhVejQtZ2RBdV9pbVk?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T17:00:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The S&P 500 Rose 27.6% in the First 20 Months of President Trump's Second Term, Close to the 28.5% Gain Over the Same Stretch of His First Term. Here's Why That Comparison Matters for Investors Headin...",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkw1ZDllekM3ZUl3X0RicDlKLWhZOVpzSFJaamRoTm5OZTZwUmlPMTdndGdkdTRiYkhiWFhDdGc2bzZmLWR3VC1qZzd3UjZmOGpHWDluV0Q4Y1prZl9GNmh5MWtoV0tNWnBCdjQ2QXVLc3gteFExWGdnTjY2Uk1UdUtPQWdkeE0?oc=5",
+   "source": "Google News",
+   "published": "2026-10-22T17:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The Stock Market Usually Excels After Midterm Elections, But Maybe Not This Year.",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQkpqUk51dUE5UTJWUGx6SVU2aTFhVnlnbngwYnBQQkRNdV8zMTRiVmdhVEJIZmEyYmo2N2gxMVF5UmxBX0EwQnZKd0trMW8tUVQzc3hCT2dWVldqdFNzc29TM0ZJOEtUYlJUU1RFbkpsOHdMN1lodDBPSVhBR2oxdWRYa2pyUQ?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-10-22T16:59:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "A breakdown of Meta's stock split & what it means",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV21iZkx4QVpNelpWeU91R2pWcjdCUkxzaEl4b1hJSGRYMGhCUzN1QkMwYkR5YnU2dlVGSGhhQTllXzdvZzJ5OS0tVndnX0lsRzJGWE1KUWRtdGZpaGVrQnlYZU9RNUdFZlR2YTlFNkg0N0pnc0hSZ0U4VlJjRklUTUdqYjhmMDAtaDJuaTV4cVk3VTFUOWZ4UEh3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T16:58:55+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-22T16:48:00+00:00",
+   "snippet": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things"
+  },
+  {
+   "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
+   "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-10-22T16:48:00+00:00",
+   "snippet": "He has bought some good PR and gets to live and work where he wants."
+  },
+  {
+   "title": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMnItNWNxNTBTV2J0NmhXYXNYS2R2cEZJUzkwbUZlMG92SHFzcDA4ZGlxY0h6NkZFZnlyeThHVlMySk5aa0R0MmFBM2tlbUpwQmVhOVVJalJTTmxrUGotUVVld0k1Q29kZF92RnBRbFR0TWRwbWlfRlFEcXlsajJfYWtNR2tFQVBUSjJwUU1ENHRPMG9yeFE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T16:47:14+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "LSEG Goes Shopping for Private Credit Growth",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVFZRlh2VkY1dFg3bTBnb0ZLVV95em5rSFJDczQ2NmR1U2taODgwN2pKUUN1ekJzZWZDRkJyZ3J0Rl8tZFlkU095RTV2dzlBU0FCb3BsX3V6ckNXYlFGN2tzMG55RDFqSWxTeXp3YnRZSFIzSmpYX0d3eFAtSUs4bEtHV05FcWpvMGtNYmJjQU9DQnM5a1lFM3N2d2ZLWTg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T16:44:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "UK’s FTSE 100 falls as banks, miners drag; Barclays slides on job cuts",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDQwcEVFMHRuT3dQMkdaSlhraExsN3RuZ1RoX056UkRUSWRCTDVHWUVjRVhRdzJUVVVMRl9zM1dwSDl1WXh3ZTBmdkhkTk5kam5IeHlyN0JuX0RMTTdneWdkMk83WC1GREhLaGgwUlJDQm1RWXlOOHBBT2RfX0dobTk1dlZwT0RhV0NMQ1V2NDZIWUlSbHFKQw?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-22T16:42:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "L’Oréal stock jumps as third-quarter sales beat estimates",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGtQelRMekozZzIwYUktWUlXWDRhdVpGQWxuUU8zandDYXJtOHZZbTZnOThpV1BtQVdScVRuaFFKS1U1VE1yM3VVaEJXdlB0OG5iU01yMzJpYkp3ak9ael9qNGdSa3pLb1V4RGtqdS1BMlZXQTlXLU94SFdkbzBNUHdKeWdpbkhiN2wxMU9HelY?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22T16:41:06+00:00",
+   "snippet": ""
+  }
+ ]
+}
