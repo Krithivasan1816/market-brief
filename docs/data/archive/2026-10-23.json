@@ -1,0 +1,250 @@
+{
+ "date": "2026-10-23",
+ "updated": "2026-10-23T06:16:17.245521+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 22461.6,
+   "change_pct": -2.96
+  },
+  {
+   "name": "Sensex",
+   "price": 72747.99,
+   "change_pct": -2.65
+  },
+  {
+   "name": "S&P 500",
+   "price": 7663.43,
+   "change_pct": -1.04
+  },
+  {
+   "name": "Nasdaq",
+   "price": 26008.86,
+   "change_pct": -2.64
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.93,
+   "change_pct": -0.05
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4034.5,
+   "change_pct": -3.02
+  }
+ ],
+ "india": [
+  {
+   "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
+   "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:54:56+00:00",
+   "snippet": "In the past month, the BSE capital goods index slipped 12% as against a 2.8% decline in the BSE Sensex."
+  },
+  {
+   "title": "Small-caps likely to do well over the next year: 360 ONE's Mayur Patel",
+   "link": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:50:16+00:00",
+   "snippet": "Earnings of small-cap companies in the current financial year (FY27) may grow at a 30 per cent rate compared to the mid-teens for large caps, said Mayur Patel of 360 ONE Asset."
+  },
+  {
+   "title": "Rs 9,000 crore wiped out in a day: Why Swiggy investors are losing patience with Instamart",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:49:34+00:00",
+   "snippet": "Swiggy shares plunged on Friday, wiping out around ₹9,000 crore in market value as widening Instamart losses overshadowed food delivery growth. Following Q2 results, brokerages cut their price targets, citing deteriorati..."
+  },
+  {
+   "title": "Silver ETFs fall up to 5% as oil surge, inflation fears hit bullion markets",
+   "link": "https://www.business-standard.com/markets/news/silver-etfs-fall-up-to-5-as-oil-surge-inflation-fears-hit-bullion-markets-126102300376_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:43:52+00:00",
+   "snippet": "Silver and Gold prices dipped in the last two sessions, with yellow metal dipping 2 per cent and silver down 1 per cent intraday on Friday."
+  },
+  {
+   "title": "Sensex plunges 1,100 pts from day's high, Nifty below 22,450. Key factors behind Rs 10 lakh crore wipeout",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-600-points-nifty-below-22450-4-key-factors-behind-rs-10-lakh-crore-wipeout/articleshow/135135895.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:40:02+00:00",
+   "snippet": "The Sensex and Nifty extended losses on Friday as crude oil prices surged and foreign investor selling resumed. The selloff wiped out nearly Rs 10 lakh crore in market value, with smallcap and midcap stocks leading decli..."
+  },
+  {
+   "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
+   "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:39:32+00:00",
+   "snippet": "Gold and silver prices fall on the MCX as rising oil prices fuel inflation concerns and expectations of higher interest rates for longer. Investors track the US Federal Reserve meeting, dollar movements and geopolitical..."
+  },
+  {
+   "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
+   "source": "News18",
+   "published": "2026-10-23T05:36:09+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Swiggy shares hit 52-week low, down 35% in 1 month- should investors buy the stock after Q2 results? Expert view",
+   "link": "https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html",
+   "source": "Mint",
+   "published": "2026-10-23T05:34:06+00:00",
+   "snippet": "Swiggy share price opened at ₹204.90 against its previous close of ₹211.30 and crashed 17.2% to a 52-week low of ₹174.90."
+  },
+  {
+   "title": "Nippon Life AMC shares crash 9%, down 19% in 5 days - Why? Dividend, record date, Q2 results, Yes Bank bond settlement",
+   "link": "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-crash-9-down-19-in-5-days-why-dividend-record-date-q2-results-yes-bank-bond-settlement-11792732703770.html",
+   "source": "Mint",
+   "published": "2026-10-23T05:31:46+00:00",
+   "snippet": "Nippon Life India Asset Management shares fell 9% on Friday, extending a five-session decline to 19%. Investors weighed a 36% sequential drop in September-quarter profit, a ₹96.76 crore settlement payment over Yes Bank A..."
+  },
+  {
+   "title": "Cyient shares snap 3-day losing streak, jump 10% post Q2, ₹12 dividend",
+   "link": "https://www.business-standard.com/markets/news/cyient-shares-snap-3-day-losing-streak-jump-10-post-q2-results-12-dividend-126102300341_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:29:46+00:00",
+   "snippet": "MOFSL has reiterated a Sell rating on Cyient Ltd, with SoTP-based target price of ₹1,020, implying an 11 per cent downside from the previous close of ₹1,144."
+  },
+  {
+   "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400",
+   "link": "https://www.business-standard.com/markets/news/market-crash-sensex-sinks-1-279-pts-from-day-s-high-nifty-tests-22-400-126102300346_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:27:38+00:00",
+   "snippet": "With Brent at $114, high crude prices remain a key headwind for oil-sensitive sectors, making a broad-based equity recovery difficult, says Hariselvan Radhakrishnan of HST Wealth"
+  },
+  {
+   "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHE2eXQySVVQU2tHU3hBYXNRaDlKZ2VDN0MzLTRNYkhjSXhZUXN3M1k2aHJvbGpfU21KTHc0dlh1LXN5WktJdDZERXpZcEs3a0FMVEx2TldTWmdHLUhvZWRMa2J3aUpfaENNNGV4S3VzZVBBSFBiU2dITTRUNVkxOGtHcXNMMHVOX2dHU2JJSGRiZ0I0dFpOMk94TEM4ZTdQdGlvYmhEdzNPTC1JclUwSmJNWGQ4Y0w2a1pBUldzVmlZQ0VzRGhKN2J4SEVNMnd5R0k00gHYAUFVX3lxTE0xQ1pqOHZHWlJNc3h0c2ZtanRqMU9xU09wYm9lenZCQ2tpelhKb0NKSFVwNTVzeG5ycFFEazJaM1pBR1BBMEY2Z2NvamJZWW8wcDJub3BHVDBwWERYbDl3WkxnaHExclJGb1A2cVFiQjJ2WF9sb044OVY4VzVJeTdrdkhLZUM1VC1SekVQOWtwR0pfME53YjFydk9pTTlQbVA3ZXdBdUw2cGpaSFJaMEktUjBuLXNuNjR2REt4dURWTm10OV9VX04yS2JWeFdHY3FiTFJuVTk3VA?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:27:05+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Indigo Q2 results 2026 date & time: Interglobe Aviation Quarterly earnings preview, announcement schedule | Details here",
+   "link": "https://www.livemint.com/market/stock-market-news/indigo-q2-results-2026-date-time-interglobe-aviation-quarterly-earnings-preview-announcement-schedule-details-11792729454353.html",
+   "source": "Mint",
+   "published": "2026-10-23T05:26:55+00:00",
+   "snippet": "Indigo Q2 results 2026 date &amp; time: The airline said in a stock exchange filing on Thursday that its board will review the unaudited standalone and consolidated financial results for the September quarter and first h..."
+  },
+  {
+   "title": "Bansal Wire Industries Q2 net profit jumps 38% to Rs 53 crore",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bansal-wire-industries-q2-net-profit-jumps-38-to-rs-53-crore/articleshow/135135690.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:26:44+00:00",
+   "snippet": "Bansal Wire Industries reported a remarkable consolidated net profit of Rs 52.9 crore for the quarter ending in September, marking a substantial 38 percent growth compared to the previous year. The company's revenue surg..."
+  },
+  {
+   "title": "Hindustan Zinc shares drop 4% as India allows large silver imports despite weak demand",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-drop-4-as-india-allows-large-silver-imports-despite-weak-demand/articleshow/135135402.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:23:20+00:00",
+   "snippet": "Hindustan Zinc shares fell sharply on Friday after India issued permits to import 6,500 metric tonnes of silver over the next six months to meet festive-season demand. The move could ease domestic premiums amid weak dema..."
+  }
+ ],
+ "usa": [
+  {
+   "title": "If the AI Bubble Bursts, These Stocks Will Be Winners",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGVZNWFpVXNZc210RVZDZDZLemlEdHhuU0o2X0ltTnRpcXo4VjFLOWtmRDRlaHJNZ1hJNU9LcndnZzlFR3B6ZWhFR2Q5SHFlMnNlVWdPWXZVTjhnSkRwZnBCbzQ1bHVXc0VMaVlrdzBaZXIta3Qtc2hGckN5X0gtTGYtcUcwUzJsV3J3RFNMLUlISktrYlFrdmcyVjU?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:50:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "If the AI Bubble Bursts, These Stocks Will Be Winners",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2dPeHJlTkEwMWlOLThXd0UxZWN0N2c1S2ZCM29kWjI2LWsxS3FxLTZoRTJDZklVaWFXcE5CWHJlV0pOYUNYQkw5ZGRyNnFiemZnNk5tTndrLVhUbXVOZWxIOGxFWHpsbVk5TURyWW9INEh4VDJoTVZnRzJNWThOUms4VjhsWGpQT0gwYWE2U2NoLVNIaWxDQjRoVQ?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-23T05:45:10+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Japan Gold Announces Results of Annual General Meeting",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTVWQkJuYXlCZXhEaFBMbF9US2tIbTdiRFpwc3FNTzR2RUFORG9aT3hiTmM2M1Ftcjl0bDBnT19WbEZvelZINkZ5cERINGVJUTI2ZnhWWmpDNTZhME5SY1ZqNmtjdkJTWjA3UkN3VWR0TTYxNXZPSXVuTnhQa0RTcnFqNXRObDROa25hTllqVnlmM2VTY0tIZFM3OV9Qc0J2bWc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:42:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Indonesia’s Stock Market Crisis Is Self-Inflicted",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzNyUVJrYm8tcE40MW5lOFItZ2ZaOUtndV8waGZtQTRVRjY0dFhVM0ppN1ZaeGxZSkozQlZvb3c2MndqeTBJVE9fa3FJQWYwWTVIVXlPemo1QTg5UWNQQ01UNVFYTm5mWXpCY2V3QjlxY18zd2d2cFBYbkZRTFFWd3JncFh5VTFk?oc=5",
+   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "published": "2026-10-23T05:30:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Carrefour (ENXTPA:CA) Stock Fair Value Edges Lower After Profit Warning And Analyst Downgrades",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYk04LVNaTU1WSFl5ajBkMHBLYTVKS0I3M1BXQWFFYWpaNGhwRFd5YUZLNy1DTHdueXhBeHVpa2lmMjlha2F3b0xRR1VQLWZQTW5RVG5kY0xaNmZXbzB1b2tHUzE3TmxGNnlfQnc2aHVoV3BHdFNpQjVRaE1abVRiVzE2T21XUnM4TGxEYjZMS2h1ZWx0cFFpZW9rUQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:19:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Pool (POOL) Beat Expectations And Kept Guidance, Is The Stock Still Below Fair Value?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOE5MNk9JaFhSdTVNbXpLLW8tbVJ2MnY2QU5FQzZlWkdoemRVTWZmblN4NjRENHdVU05YS2FjSVZqX1Flbm1OR0xjdHZ1OE9DSEl5eGMtTndGVG5oOHZ6Y0kzRzNkUTRBa05WNGIzRVI4akx3eG0yRjc3bHJBQTJVenZPTVBVTmVBTG1MazZFbG1CSlZXUXZINFllN21kQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:16:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Norfolk Southern (NSC) Stock Looks Expensive On Future Cash Flow",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHlwTmtYYWgxcW1nYVdWYzZITEVoblFwcVZKZTY3MTBpLXZKQWwyc3U1Q0pRdFZOa2NLRE5mQ1dpc25ZcGFGckcwU2xjdkE4OUhTOHgyc18zR2VSWjlRWFlLOUxIZG9Hb25KdVIzTkVGMDN1Y2pOblBYWGZsQzZjQVVVSUc1X3g0bkRackJSSDlZVldtZ2MyOFVEaFM1QQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:15:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 Japanese Bank Stocks In Focus As Inflation Tops The Bank Of Japan Target",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXRYUU9QRXhNUjBRalpBdzEwei03Y1BKWF9Vb0FKekZ0VGZrckd4Nm5ldm4xU0p5UHdSbkZZMW1VMk9aMVRKbWFxTzBla2IxZmd3YXlrczRqLUtCdVlnUlpSeHhpOWxGWEhMRmpBb0FOMDhfQjVfMmJjSUhkaVBCdDRoMHp3dlJtYlRpanFoTVN2SmdIQnU1Mw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:15:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "First Merchants (FRME) Shares Just Moved, So What Is Driving Attention Today?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGFZaUU0QW41NzM1SDJIcUduclg5VXVYWXhnWWx2NlZwSVdIcmM5VUhSR3FaZC16X2lIbXV3dW5vOVNZODhJVDhtalpldjIxUXJvSTJTWlJ6ZXhoa2tVSDBOMFpta1BPYWpjZjVoWGpKSHZnXy1pMDVZYVFudDViT1Y2RXhJSUYxQlJSNVpXQ1dCVlJmOWJYWGN1WTVLdw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:15:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ChronoScale (CHRN) Stock May Be Fairly Priced Despite AI Compute Win",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDBGUU50d2UxUld6UkpUWFpOb2lZNzBZYTdac0s2SjdCSnJ2OXdrNE1vYk50bUtmczhTcWVWWHEwbk0yYTVhbGd1b1ZDcWgzd1FmLTQwNGlhRFNxU0xUXzJ1WUE3WEYxTURfTVBSODg4S0wzLTJTWm02M19Kb3lHWTVYZXNGYmVqYncxUlZXRG50ZFpnSkF6aHM3RnZ2LVE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Has WD-40 (WDFC) Moved Above Fair Value After Its 8% Rise?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjd2R2t0d01mVXE2QTRWUFBja0R6MUlrYVhxb1c2UVhDbFBRWHF5NVBJZzdQdUZyaE9sQkk1WGhRamgtUjRmWGJlR0lXMHZJYU9JNXhPd1JKQlFpbXU0NDdzSGZKUEk2bE1KUWhYcXdzQlpBZnB5Mno5ekdNMFBQSTVuYUNBYmFXS0h4MlRsMHk?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "American Express (AXP) Expands Airbnb Rewards, Is The Stock Still Undervalued?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclJHOTFCNWFrRUFNZG5HSjQ1YnlXUDd6b2NIRjllWUY4ckJoUW91dTFNLWp3S0JDa1NTWkc3eXRkRnN5SEN0UWRkRFFocWM4TnFNVm9RNTNPV2xRdXRsU0ItbUUwTnNFS0pHRGtwTUFBdmJBMUtJeUsyMDdrTXBIQjFfLTlqQkcwTkRtQlJCWVpaQ00tOXBfenVuY0k5UU1mOWc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Telia (OM:TELIA) Stock Faces Dividend Strain After Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUV9iTVZSUjl6c0oyYWdUWWdGdTBOeEtVY1VjcUJ4azJET01wVTQzc2dkMmdUREJCWlJhNXVvdGl5TG9URkRDQjY4d0xBTFNKX0lMOFVNN19adjBGbF9uR3NyUWJ5STgyaFdZdEhDM3hqN3pGMllISnZBb0JCbG9EYzNBQldVM1QtUWdsRHdMcER5QkRYTXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:13:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What Marvell Technology Holders Bought Into Before A 170% Run",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Q5N0VZX2FxT2puUHpSeFJOai1YcUdPcGVoQUlBbFJ1WU1IT0l6ZHZWWFl1OFBTbzFfRXQ2MU1QWHZSZEIwSDdkVVh5OFoxYjBlUE5LNnFtSUpyaGh4NU5GQ2hCY2x3aW1teFQyTjFzd2ZTbkViS2p1MjdLckttRXpaRDA0MXppSWNMUnpiYkdLSHowa3FPTTIyOUozVjBQZDJuZg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:12:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bankinter (BME:BKT) Stock Price Slides Despite Solid Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUdvY05lcWNuV2EzX2EyVW5VRDl1WlgxejFqR09BR1d5VlFRek9BT0N6U1V6dVoxSWlRX3VRSE1VRjJKSUJJcmxJbnl4eGp6M3FSNEVhNUdLeFJ0NEhmU214WWlkS3lHeHJQWXJDZFMteDJsdjhhTHRVeGMtNVM5b18zaDhwbnc3UGJVNGZMVURWZnFTV3dPTmd3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:12:00+00:00",
+   "snippet": ""
+  }
+ ]
+}

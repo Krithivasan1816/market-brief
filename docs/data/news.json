@@ -1,249 +1,249 @@
 {
- "date": "2026-10-22",
- "updated": "2026-10-22T17:25:03.936499+00:00",
+ "date": "2026-10-23",
+ "updated": "2026-10-23T06:16:17.245521+00:00",
  "quotes": [
   {
    "name": "Nifty 50",
-   "price": 22687.65,
-   "change_pct": -1.35
+   "price": 22461.6,
+   "change_pct": -2.96
   },
   {
    "name": "Sensex",
-   "price": 73249.39,
-   "change_pct": -1.43
+   "price": 72747.99,
+   "change_pct": -2.65
   },
   {
    "name": "S&P 500",
-   "price": 7655.74,
-   "change_pct": -1.14
+   "price": 7663.43,
+   "change_pct": -1.04
   },
   {
    "name": "Nasdaq",
-   "price": 26057.51,
-   "change_pct": -2.45
+   "price": 26008.86,
+   "change_pct": -2.64
   },
   {
    "name": "USD/INR",
-   "price": 94.81,
-   "change_pct": 0.3
+   "price": 94.93,
+   "change_pct": -0.05
   },
   {
    "name": "Gold (USD)",
-   "price": 4055.7,
-   "change_pct": -2.51
+   "price": 4034.5,
+   "change_pct": -3.02
   }
  ],
  "india": [
   {
-   "title": "Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker",
-   "link": "https://www.livemint.com/market/stock-market-news/apple-stock-rises-28-in-2026-as-ai-stocks-wobble-why-investors-are-betting-on-the-iphone-maker-11792687241486.html",
+   "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
+   "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:54:56+00:00",
+   "snippet": "In the past month, the BSE capital goods index slipped 12% as against a 2.8% decline in the BSE Sensex."
+  },
+  {
+   "title": "Small-caps likely to do well over the next year: 360 ONE's Mayur Patel",
+   "link": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:50:16+00:00",
+   "snippet": "Earnings of small-cap companies in the current financial year (FY27) may grow at a 30 per cent rate compared to the mid-teens for large caps, said Mayur Patel of 360 ONE Asset."
+  },
+  {
+   "title": "Rs 9,000 crore wiped out in a day: Why Swiggy investors are losing patience with Instamart",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:49:34+00:00",
+   "snippet": "Swiggy shares plunged on Friday, wiping out around ₹9,000 crore in market value as widening Instamart losses overshadowed food delivery growth. Following Q2 results, brokerages cut their price targets, citing deteriorati..."
+  },
+  {
+   "title": "Silver ETFs fall up to 5% as oil surge, inflation fears hit bullion markets",
+   "link": "https://www.business-standard.com/markets/news/silver-etfs-fall-up-to-5-as-oil-surge-inflation-fears-hit-bullion-markets-126102300376_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-23T05:43:52+00:00",
+   "snippet": "Silver and Gold prices dipped in the last two sessions, with yellow metal dipping 2 per cent and silver down 1 per cent intraday on Friday."
+  },
+  {
+   "title": "Sensex plunges 1,100 pts from day's high, Nifty below 22,450. Key factors behind Rs 10 lakh crore wipeout",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-over-600-points-nifty-below-22450-4-key-factors-behind-rs-10-lakh-crore-wipeout/articleshow/135135895.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:40:02+00:00",
+   "snippet": "The Sensex and Nifty extended losses on Friday as crude oil prices surged and foreign investor selling resumed. The selloff wiped out nearly Rs 10 lakh crore in market value, with smallcap and midcap stocks leading decli..."
+  },
+  {
+   "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
+   "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:39:32+00:00",
+   "snippet": "Gold and silver prices fall on the MCX as rising oil prices fuel inflation concerns and expectations of higher interest rates for longer. Investors track the US Federal Reserve meeting, dollar movements and geopolitical..."
+  },
+  {
+   "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
+   "source": "News18",
+   "published": "2026-10-23T05:36:09+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Swiggy shares hit 52-week low, down 35% in 1 month- should investors buy the stock after Q2 results? Expert view",
+   "link": "https://www.livemint.com/market/stock-market-news/swiggy-shares-hit-52-week-low-down-35-in-1-month-should-investors-buy-the-stock-after-q2-results-expert-view-11792732293505.html",
    "source": "Mint",
-   "published": "2026-10-22T17:08:13+00:00",
-   "snippet": "Apple shares have risen 28% in 2026, outperforming other Magnificent Seven stocks as investors seek Big Tech exposure without the volatility of heavy AI infrastructure spending.&nbsp;"
+   "published": "2026-10-23T05:34:06+00:00",
+   "snippet": "Swiggy share price opened at ₹204.90 against its previous close of ₹211.30 and crashed 17.2% to a 52-week low of ₹174.90."
   },
   {
-   "title": "Sensex tanks 460 points as Nifty slips below 22,700; media stocks lead losses",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWdRaHd1LWNNUExNSV9SUnloU1hhWFVmLTYxM21oenpsNTlTZUFqcU43YlFCUlRRR2ZtU3NUQlgyZWlvLXRHc29kRnozcEpQc0diYkJURTZHbGo4WlRQaV83czZoNVRyWGdWR1d3a2I3ay1pX0FOUUxBa0JZY2g3am1nVWlzZ2hQV3ZrM1E1LW5MVFJZeDZyLXFOSEFoaUktM1VqZVZR?oc=5",
-   "source": "prameyanews.com",
-   "published": "2026-10-22T17:03:45+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Pershing's Ackman sees a $1 trillion Israeli company within a decade",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pershings-ackman-sees-a-1-trillion-israeli-company-within-a-decade/articleshow/135123317.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T16:56:49+00:00",
-   "snippet": "Billionaire investor Bill Ackman said he remained bullish on Israel’s economy and financial markets, predicting the country could produce a $1 trillion company within a decade. He highlighted Israel’s technology ecosyste..."
-  },
-  {
-   "title": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/average-long-term-us-mortgage-rate-eases-to-7-32-in-first-pullback-since-late-august/articleshow/135123287.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T16:52:07+00:00",
-   "snippet": "US mortgage rates eased for the first time since late August, with the average 30-year fixed rate falling to 7.32% from 7.40% last week, Freddie Mac said. The decline offers some relief to homebuyers, but borrowing costs..."
-  },
-  {
-   "title": "Top Stories: Markets extend losing streak, Jio IPO subscription soars, eMudhra CEO on security flaw",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3IyY3pGdFotN0JEMEkxTzl5Zzl3WHljNzBBSll5ZExCY050b1E4S3RhTjV5Vk5hRi1HcE4wb0RBUXBleUQ2ekY3ZzlTczc3OXRWcWxPaVJkZVhzSEV4RnUxUzlRWWljTF9HX0V1TURaQWRESVNrUVdCNFJqMDUxWUxMZ0RtT3ZSWFdSWlE2b0VuM015LW1YZC1qa3kwN0xXdWxzTi1HdkFqNFVodE1lZlRTdGZ0dU12VnBOM1hPejZSQ2FkZGVtT3pldDhES05LcjRtT0JoZUh4ODDSAeABQVVfeXFMUDQxZDYydXltX1oyQjZDcnZnM3hkNnRGc01LUmhNeFdxaWR6TVVhVUhtZ1NnandtWWZjcVJ6VWRsWTBxbWFJUkVaYkN5TFpTaDQ3TGpJSmRXNFh2TWJZeGRIRTVlMm1CeDJublhpeUMxclY4cTduOUZ3bkViR0IzS0ZDLUVKc0tjWFRrT3p5NE04LUswYXNMREhYUTBjSU8yR1UxMGRiWVN4bFRKZHZ0alRjcmUtMUxzeDhZRDhyQ2IzRW1STDhaRUVhYjZtNTFOQ2psWWhid0plWDRJRlMtdEU?oc=5",
-   "source": "CNBC TV18",
-   "published": "2026-10-22T16:30:16+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Oct.22: Sensex Falls 460 Pts for Third Day as Oil Risks Weigh; Nifty Slips Below 22,700",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JUSXIyMDFuTk9fZG1tTm1pazNWTmFUQ3VvLU9kT3lSVC1yUXh2UHpMRDFRS25EUlc0dmtseFRKM0k4X3BySURXdkpZTllLUkEybzYtV3ZNXzhUdTNNODZYa0tfdWxDeVRvOGw4SlRMVkZIcGRoazItWmF0N2RtSU52Wm5sclE5a1owNzhPTzRTNUpxVFFLdnlzOElWRkJub3JVTnJCckxKM3Rxa3NyMkFR?oc=5",
-   "source": "The Indian Awaaz",
-   "published": "2026-10-22T16:21:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids",
-   "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-subscribed-5-57x-on-day-2-qibs-led-with-13-29x-bids-126102201448_1.html",
-   "source": "Business Standard",
-   "published": "2026-10-22T16:19:53+00:00",
-   "snippet": "Qualified institutional buyers bid 13.29 times the quota reserved for them, while retail investors subscribed 1.54 times"
-  },
-  {
-   "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T16:03:41+00:00",
-   "snippet": "Indian equities fell sharply as rising crude prices, rupee weakness and global uncertainties pressured sentiment. Sensex lost over 460 points, Nifty declined 124 points, and BSE-listed companies lost Rs 3 lakh crore in m..."
-  },
-  {
-   "title": "Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?",
-   "link": "https://www.livemint.com/market/stock-market-news/calliope-capital-ola-electric-investment-how-many-rights-entitlements-has-the-firm-applied-for-11792681740296.html",
+   "title": "Nippon Life AMC shares crash 9%, down 19% in 5 days - Why? Dividend, record date, Q2 results, Yes Bank bond settlement",
+   "link": "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-crash-9-down-19-in-5-days-why-dividend-record-date-q2-results-yes-bank-bond-settlement-11792732703770.html",
    "source": "Mint",
-   "published": "2026-10-22T16:02:51+00:00",
-   "snippet": "Motilal Oswal Financial Services and Calliope Capital Advisors applied for about 2.39 crore shares in Ola Electric’s ₹1,000 crore rights issue after receiving transferred rights entitlements. The offer is priced at ₹27 p..."
+   "published": "2026-10-23T05:31:46+00:00",
+   "snippet": "Nippon Life India Asset Management shares fell 9% on Friday, extending a five-session decline to 19%. Investors weighed a 36% sequential drop in September-quarter profit, a ₹96.76 crore settlement payment over Yes Bank A..."
   },
   {
-   "title": "Yes Bank unlikely to pay AT1 bond coupons despite bond holders demand, sources say",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-unlikely-to-pay-at1-bond-coupons-despite-bond-holders-demand-sources-say/articleshow/135122504.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T16:01:43+00:00",
-   "snippet": "Yes Bank has announced potential non-payment of coupons on additional tier-1 bonds this fiscal year following a Supreme Court decision that annulled the previous write-off of these bonds. Bondholders are advocating for r..."
-  },
-  {
-   "title": "Sebi warns investors against WhatsApp stock tips. Here's how you can avoid such traps",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T15:17:48+00:00",
-   "snippet": "SEBI has cautioned investors against exclusive WhatsApp groups spreading unauthorised stock tips and fake profit claims. The regulator flagged astroturfing, overseas numbers, replacement groups and suspicious trading app..."
-  },
-  {
-   "title": "Anthropic IPO stands alone as AI market jitters sideline others",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
-   "source": "Economic Times",
-   "published": "2026-10-22T15:16:29+00:00",
-   "snippet": "Anthropic plans to move forward with its initial public offering next month, navigating a challenging IPO landscape. While many companies in the AI field have delayed their public listings due to fluctuating interest rat..."
-  },
-  {
-   "title": "Sebi warns investors against fraudulent WhatsApp stock tip groups",
-   "link": "https://www.business-standard.com/markets/news/sebi-warns-investors-against-fraudulent-whatsapp-stock-tip-groups-126102201541_1.html",
+   "title": "Cyient shares snap 3-day losing streak, jump 10% post Q2, ₹12 dividend",
+   "link": "https://www.business-standard.com/markets/news/cyient-shares-snap-3-day-losing-streak-jump-10-post-q2-results-12-dividend-126102300341_1.html",
    "source": "Business Standard",
-   "published": "2026-10-22T15:15:23+00:00",
-   "snippet": "The market regulator warned that unregistered entities use invitation-only WhatsApp groups, fabricated profit testimonials and overseas numbers to lure unsuspecting investors"
+   "published": "2026-10-23T05:29:46+00:00",
+   "snippet": "MOFSL has reiterated a Sell rating on Cyient Ltd, with SoTP-based target price of ₹1,020, implying an 11 per cent downside from the previous close of ₹1,144."
   },
   {
-   "title": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
-   "link": "https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html",
+   "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400",
+   "link": "https://www.business-standard.com/markets/news/market-crash-sensex-sinks-1-279-pts-from-day-s-high-nifty-tests-22-400-126102300346_1.html",
    "source": "Business Standard",
-   "published": "2026-10-22T15:03:06+00:00",
-   "snippet": "Nifty fell 0.54 per cent to 22,687.65 as Brent crude climbed above $112 a barrel, with oil-sensitive stocks dragging markets lower amid renewed tensions in West Asia."
+   "published": "2026-10-23T05:27:38+00:00",
+   "snippet": "With Brent at $114, high crude prices remain a key headwind for oil-sensitive sectors, making a broad-based equity recovery difficult, says Hariselvan Radhakrishnan of HST Wealth"
   },
   {
-   "title": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnVBOFBMd2JkeEpUdWhNWWFuS3ZsQXJBbkpLVEgzQ3lOcVlxc1YyUTZlaHotRzhqZEFqRmtXd21YTFJrWlVhaVduTWVWckNjSHJLS2pLSUM4eHhlOXRzUVpUZWt3bWZiWTl4Q205eGV1akprWXBwTXUya0RmWjJhWUJMWnN5WndPZnJEcTNDdnZuUnVyX19fVGZremtpUWxzaXQ5VlowakM3UWNidG05Y1pnUzc5UmE3Njh6N1VsUkRlcW1lMVNOdTA1OHRQekI0d2w00gHYAUFVX3lxTE5iNml4WGQ1ZFpidzd3OGNzREdxZzZaUlhUSlRWMG1PY1Z5c2JKSUVYaEFsSFJzSVN5TktuM0trVEdNdDF3MlhrdWNGUl9Gd3JBWkhoNWctNVRjb2ROUnVxRXp6REJGamFNay1RYWZmVzdwRk9kWVN2alJibGRDa1dtWm9KU09ZN2RreVN2dHJrR2Y2ZVNfTktPdEhjQlhhMldsS1J1U3BoT29TZTF0UXhOc05GNEZjNG5iWERDaEl0LWQ2bnJBMU40Z3NVd1Nqd19MaVpSM0w2eA?oc=5",
+   "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHE2eXQySVVQU2tHU3hBYXNRaDlKZ2VDN0MzLTRNYkhjSXhZUXN3M1k2aHJvbGpfU21KTHc0dlh1LXN5WktJdDZERXpZcEs3a0FMVEx2TldTWmdHLUhvZWRMa2J3aUpfaENNNGV4S3VzZVBBSFBiU2dITTRUNVkxOGtHcXNMMHVOX2dHU2JJSGRiZ0I0dFpOMk94TEM4ZTdQdGlvYmhEdzNPTC1JclUwSmJNWGQ4Y0w2a1pBUldzVmlZQ0VzRGhKN2J4SEVNMnd5R0k00gHYAUFVX3lxTE0xQ1pqOHZHWlJNc3h0c2ZtanRqMU9xU09wYm9lenZCQ2tpelhKb0NKSFVwNTVzeG5ycFFEazJaM1pBR1BBMEY2Z2NvamJZWW8wcDJub3BHVDBwWERYbDl3WkxnaHExclJGb1A2cVFiQjJ2WF9sb044OVY4VzVJeTdrdkhLZUM1VC1SekVQOWtwR0pfME53YjFydk9pTTlQbVA3ZXdBdUw2cGpaSFJaMEktUjBuLXNuNjR2REt4dURWTm10OV9VX04yS2JWeFdHY3FiTFJuVTk3VA?oc=5",
    "source": "Business Standard",
-   "published": "2026-10-22T15:03:06+00:00",
+   "published": "2026-10-23T05:27:05+00:00",
    "snippet": ""
+  },
+  {
+   "title": "Indigo Q2 results 2026 date & time: Interglobe Aviation Quarterly earnings preview, announcement schedule | Details here",
+   "link": "https://www.livemint.com/market/stock-market-news/indigo-q2-results-2026-date-time-interglobe-aviation-quarterly-earnings-preview-announcement-schedule-details-11792729454353.html",
+   "source": "Mint",
+   "published": "2026-10-23T05:26:55+00:00",
+   "snippet": "Indigo Q2 results 2026 date &amp; time: The airline said in a stock exchange filing on Thursday that its board will review the unaudited standalone and consolidated financial results for the September quarter and first h..."
+  },
+  {
+   "title": "Bansal Wire Industries Q2 net profit jumps 38% to Rs 53 crore",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bansal-wire-industries-q2-net-profit-jumps-38-to-rs-53-crore/articleshow/135135690.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:26:44+00:00",
+   "snippet": "Bansal Wire Industries reported a remarkable consolidated net profit of Rs 52.9 crore for the quarter ending in September, marking a substantial 38 percent growth compared to the previous year. The company's revenue surg..."
+  },
+  {
+   "title": "Hindustan Zinc shares drop 4% as India allows large silver imports despite weak demand",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-drop-4-as-india-allows-large-silver-imports-despite-weak-demand/articleshow/135135402.cms",
+   "source": "Economic Times",
+   "published": "2026-10-23T05:23:20+00:00",
+   "snippet": "Hindustan Zinc shares fell sharply on Friday after India issued permits to import 6,500 metric tonnes of silver over the next six months to meet festive-season demand. The move could ease domestic premiums amid weak dema..."
   }
  ],
  "usa": [
   {
-   "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-   "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-22T17:21:00+00:00",
-   "snippet": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first."
+   "title": "If the AI Bubble Bursts, These Stocks Will Be Winners",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGVZNWFpVXNZc210RVZDZDZLemlEdHhuU0o2X0ltTnRpcXo4VjFLOWtmRDRlaHJNZ1hJNU9LcndnZzlFR3B6ZWhFR2Q5SHFlMnNlVWdPWXZVTjhnSkRwZnBCbzQ1bHVXc0VMaVlrdzBaZXIta3Qtc2hGckN5X0gtTGYtcUcwUzJsV3J3RFNMLUlISktrYlFrdmcyVjU?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:50:00+00:00",
+   "snippet": ""
   },
   {
-   "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-   "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-22T17:16:00+00:00",
-   "snippet": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets."
-  },
-  {
-   "title": "1 Wall Street Analyst Sees the S&P 500 Climbing to 8,000 by Year-End. Is It Time to Buy Stocks?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkJPWkFmRTdleGNHRGpLanUxYTd2S1FpeTB0bjBLX1YxS2JJLVJPSElKWk5vM3FjemZNRzNiWXNBN1VreFF4ek1laWhDbUcwdjZUVFZDVzlzRzM3NGt5ZzJGV2l1WVNITnlaSmp5VFlPOGJKNE5LMl9sUU5PV0ljWXMtaWRtRy1meUo3VXRjQVZsU1RHcXlr?oc=5",
+   "title": "If the AI Bubble Bursts, These Stocks Will Be Winners",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2dPeHJlTkEwMWlOLThXd0UxZWN0N2c1S2ZCM29kWjI2LWsxS3FxLTZoRTJDZklVaWFXcE5CWHJlV0pOYUNYQkw5ZGRyNnFiemZnNk5tTndrLVhUbXVOZWxIOGxFWHpsbVk5TURyWW9INEh4VDJoTVZnRzJNWThOUms4VjhsWGpQT0gwYWE2U2NoLVNIaWxDQjRoVQ?oc=5",
    "source": "The Motley Fool",
-   "published": "2026-10-22T17:10:06+00:00",
+   "published": "2026-10-23T05:45:10+00:00",
    "snippet": ""
   },
   {
-   "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3%",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkNBeVRqYVRfaUlRTDI0TjF2YXJfaDVBY2dqMVFiX2t2bUxLWmY2NG5UOUx6Y0pkeEV5ejhnclhSVGEyRWRHZVBWc2xGSjVVUFF6NWhXeUhFTEFFM29yckJEQkkwQTRRMHdwNjZUbTdCYzltRGxBRGd4b05KWHJ5bHFmckR3aWh4S2VEUDJPUTlhSGFnZ0RCNzhnczM?oc=5",
+   "title": "Japan Gold Announces Results of Annual General Meeting",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTVWQkJuYXlCZXhEaFBMbF9US2tIbTdiRFpwc3FNTzR2RUFORG9aT3hiTmM2M1Ftcjl0bDBnT19WbEZvelZINkZ5cERINGVJUTI2ZnhWWmpDNTZhME5SY1ZqNmtjdkJTWjA3UkN3VWR0TTYxNXZPSXVuTnhQa0RTcnFqNXRObDROa25hTllqVnlmM2VTY0tIZFM3OV9Qc0J2bWc?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T17:05:02+00:00",
+   "published": "2026-10-23T05:42:00+00:00",
    "snippet": ""
   },
   {
-   "title": "PepsiCo Stock Could Be a Contrarian Opportunity if This One Thing Improves",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkxqNzVLZ0YtNnZxQ254MDBZdkpmTmZMWEtJSVJaREhRVXZ1WW9Lek9DWXZLWWRGUVJ5eUNrR1MxdXVmZTVqVWZ5c0hQTFd4RXVGbVVFejFsbkE5Q1FhWjVWcDg0VVpJQmM0SGN3eE9MQ21hUmgwQU14VXpfOG45Zks4VDJoXzB4VDZ5Tm5BaEtLbmRUcmVSLXNNVDRzTFhVejQtZ2RBdV9pbVk?oc=5",
+   "title": "Indonesia’s Stock Market Crisis Is Self-Inflicted",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzNyUVJrYm8tcE40MW5lOFItZ2ZaOUtndV8waGZtQTRVRjY0dFhVM0ppN1ZaeGxZSkozQlZvb3c2MndqeTBJVE9fa3FJQWYwWTVIVXlPemo1QTg5UWNQQ01UNVFYTm5mWXpCY2V3QjlxY18zd2d2cFBYbkZRTFFWd3JncFh5VTFk?oc=5",
+   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "published": "2026-10-23T05:30:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Carrefour (ENXTPA:CA) Stock Fair Value Edges Lower After Profit Warning And Analyst Downgrades",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYk04LVNaTU1WSFl5ajBkMHBLYTVKS0I3M1BXQWFFYWpaNGhwRFd5YUZLNy1DTHdueXhBeHVpa2lmMjlha2F3b0xRR1VQLWZQTW5RVG5kY0xaNmZXbzB1b2tHUzE3TmxGNnlfQnc2aHVoV3BHdFNpQjVRaE1abVRiVzE2T21XUnM4TGxEYjZMS2h1ZWx0cFFpZW9rUQ?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T17:00:52+00:00",
+   "published": "2026-10-23T05:19:00+00:00",
    "snippet": ""
   },
   {
-   "title": "The S&P 500 Rose 27.6% in the First 20 Months of President Trump's Second Term, Close to the 28.5% Gain Over the Same Stretch of His First Term. Here's Why That Comparison Matters for Investors Headin...",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkw1ZDllekM3ZUl3X0RicDlKLWhZOVpzSFJaamRoTm5OZTZwUmlPMTdndGdkdTRiYkhiWFhDdGc2bzZmLWR3VC1qZzd3UjZmOGpHWDluV0Q4Y1prZl9GNmh5MWtoV0tNWnBCdjQ2QXVLc3gteFExWGdnTjY2Uk1UdUtPQWdkeE0?oc=5",
-   "source": "Google News",
-   "published": "2026-10-22T17:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "The Stock Market Usually Excels After Midterm Elections, But Maybe Not This Year.",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQkpqUk51dUE5UTJWUGx6SVU2aTFhVnlnbngwYnBQQkRNdV8zMTRiVmdhVEJIZmEyYmo2N2gxMVF5UmxBX0EwQnZKd0trMW8tUVQzc3hCT2dWVldqdFNzc29TM0ZJOEtUYlJUU1RFbkpsOHdMN1lodDBPSVhBR2oxdWRYa2pyUQ?oc=5",
-   "source": "Investor's Business Daily",
-   "published": "2026-10-22T16:59:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "A breakdown of Meta's stock split & what it means",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV21iZkx4QVpNelpWeU91R2pWcjdCUkxzaEl4b1hJSGRYMGhCUzN1QkMwYkR5YnU2dlVGSGhhQTllXzdvZzJ5OS0tVndnX0lsRzJGWE1KUWRtdGZpaGVrQnlYZU9RNUdFZlR2YTlFNkg0N0pnc0hSZ0U4VlJjRklUTUdqYjhmMDAtaDJuaTV4cVk3VTFUOWZ4UEh3?oc=5",
+   "title": "Pool (POOL) Beat Expectations And Kept Guidance, Is The Stock Still Below Fair Value?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOE5MNk9JaFhSdTVNbXpLLW8tbVJ2MnY2QU5FQzZlWkdoemRVTWZmblN4NjRENHdVU05YS2FjSVZqX1Flbm1OR0xjdHZ1OE9DSEl5eGMtTndGVG5oOHZ6Y0kzRzNkUTRBa05WNGIzRVI4akx3eG0yRjc3bHJBQTJVenZPTVBVTmVBTG1MazZFbG1CSlZXUXZINFllN21kQQ?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T16:58:55+00:00",
+   "published": "2026-10-23T05:16:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-22T16:48:00+00:00",
-   "snippet": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things"
-  },
-  {
-   "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
-   "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-10-22T16:48:00+00:00",
-   "snippet": "He has bought some good PR and gets to live and work where he wants."
-  },
-  {
-   "title": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMnItNWNxNTBTV2J0NmhXYXNYS2R2cEZJUzkwbUZlMG92SHFzcDA4ZGlxY0h6NkZFZnlyeThHVlMySk5aa0R0MmFBM2tlbUpwQmVhOVVJalJTTmxrUGotUVVld0k1Q29kZF92RnBRbFR0TWRwbWlfRlFEcXlsajJfYWtNR2tFQVBUSjJwUU1ENHRPMG9yeFE?oc=5",
+   "title": "Norfolk Southern (NSC) Stock Looks Expensive On Future Cash Flow",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHlwTmtYYWgxcW1nYVdWYzZITEVoblFwcVZKZTY3MTBpLXZKQWwyc3U1Q0pRdFZOa2NLRE5mQ1dpc25ZcGFGckcwU2xjdkE4OUhTOHgyc18zR2VSWjlRWFlLOUxIZG9Hb25KdVIzTkVGMDN1Y2pOblBYWGZsQzZjQVVVSUc1X3g0bkRackJSSDlZVldtZ2MyOFVEaFM1QQ?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T16:47:14+00:00",
+   "published": "2026-10-23T05:15:00+00:00",
    "snippet": ""
   },
   {
-   "title": "LSEG Goes Shopping for Private Credit Growth",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVFZRlh2VkY1dFg3bTBnb0ZLVV95em5rSFJDczQ2NmR1U2taODgwN2pKUUN1ekJzZWZDRkJyZ3J0Rl8tZFlkU095RTV2dzlBU0FCb3BsX3V6ckNXYlFGN2tzMG55RDFqSWxTeXp3YnRZSFIzSmpYX0d3eFAtSUs4bEtHV05FcWpvMGtNYmJjQU9DQnM5a1lFM3N2d2ZLWTg?oc=5",
+   "title": "3 Japanese Bank Stocks In Focus As Inflation Tops The Bank Of Japan Target",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXRYUU9QRXhNUjBRalpBdzEwei03Y1BKWF9Vb0FKekZ0VGZrckd4Nm5ldm4xU0p5UHdSbkZZMW1VMk9aMVRKbWFxTzBla2IxZmd3YXlrczRqLUtCdVlnUlpSeHhpOWxGWEhMRmpBb0FOMDhfQjVfMmJjSUhkaVBCdDRoMHp3dlJtYlRpanFoTVN2SmdIQnU1Mw?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T16:44:42+00:00",
+   "published": "2026-10-23T05:15:00+00:00",
    "snippet": ""
   },
   {
-   "title": "UK’s FTSE 100 falls as banks, miners drag; Barclays slides on job cuts",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDQwcEVFMHRuT3dQMkdaSlhraExsN3RuZ1RoX056UkRUSWRCTDVHWUVjRVhRdzJUVVVMRl9zM1dwSDl1WXh3ZTBmdkhkTk5kam5IeHlyN0JuX0RMTTdneWdkMk83WC1GREhLaGgwUlJDQm1RWXlOOHBBT2RfX0dobTk1dlZwT0RhV0NMQ1V2NDZIWUlSbHFKQw?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-22T16:42:49+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "L’Oréal stock jumps as third-quarter sales beat estimates",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGtQelRMekozZzIwYUktWUlXWDRhdVpGQWxuUU8zandDYXJtOHZZbTZnOThpV1BtQVdScVRuaFFKS1U1VE1yM3VVaEJXdlB0OG5iU01yMzJpYkp3ak9ael9qNGdSa3pLb1V4RGtqdS1BMlZXQTlXLU94SFdkbzBNUHdKeWdpbkhiN2wxMU9HelY?oc=5",
+   "title": "First Merchants (FRME) Shares Just Moved, So What Is Driving Attention Today?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGFZaUU0QW41NzM1SDJIcUduclg5VXVYWXhnWWx2NlZwSVdIcmM5VUhSR3FaZC16X2lIbXV3dW5vOVNZODhJVDhtalpldjIxUXJvSTJTWlJ6ZXhoa2tVSDBOMFpta1BPYWpjZjVoWGpKSHZnXy1pMDVZYVFudDViT1Y2RXhJSUYxQlJSNVpXQ1dCVlJmOWJYWGN1WTVLdw?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-22T16:41:06+00:00",
+   "published": "2026-10-23T05:15:00+00:00",
    "snippet": ""
   },
   {
-   "title": "SEC Attempts to Undo Stock Market Rules with Unlawful, Poorly Reasoned Order",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXFJRDdoVDBzYlZNSE15N3JFZ2RkY0J5amxiYzNXZGppTmthSm1XakFNWFRTU1Z5RXRFcmZhdUhPaVNmUWF5RENacFQySm5RT1c5ZU1RWG04TXFPRnlEME9OdzkxN3ZtUkxJWkJfWDhXU2wybmgycWlLbUlDRXo5ZUxNSG5YMklLTWx1cWpLVS1NSVB4RFB2aENrQ0hSRjFiUTFyZVdnSENhY1ZabTZ6bQ?oc=5",
-   "source": "Better Markets",
-   "published": "2026-10-22T16:39:33+00:00",
+   "title": "ChronoScale (CHRN) Stock May Be Fairly Priced Despite AI Compute Win",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDBGUU50d2UxUld6UkpUWFpOb2lZNzBZYTdac0s2SjdCSnJ2OXdrNE1vYk50bUtmczhTcWVWWHEwbk0yYTVhbGd1b1ZDcWgzd1FmLTQwNGlhRFNxU0xUXzJ1WUE3WEYxTURfTVBSODg4S0wzLTJTWm02M19Kb3lHWTVYZXNGYmVqYncxUlZXRG50ZFpnSkF6aHM3RnZ2LVE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Has WD-40 (WDFC) Moved Above Fair Value After Its 8% Rise?",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjd2R2t0d01mVXE2QTRWUFBja0R6MUlrYVhxb1c2UVhDbFBRWHF5NVBJZzdQdUZyaE9sQkk1WGhRamgtUjRmWGJlR0lXMHZJYU9JNXhPd1JKQlFpbXU0NDdzSGZKUEk2bE1KUWhYcXdzQlpBZnB5Mno5ekdNMFBQSTVuYUNBYmFXS0h4MlRsMHk?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "American Express (AXP) Expands Airbnb Rewards, Is The Stock Still Undervalued?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclJHOTFCNWFrRUFNZG5HSjQ1YnlXUDd6b2NIRjllWUY4ckJoUW91dTFNLWp3S0JDa1NTWkc3eXRkRnN5SEN0UWRkRFFocWM4TnFNVm9RNTNPV2xRdXRsU0ItbUUwTnNFS0pHRGtwTUFBdmJBMUtJeUsyMDdrTXBIQjFfLTlqQkcwTkRtQlJCWVpaQ00tOXBfenVuY0k5UU1mOWc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Telia (OM:TELIA) Stock Faces Dividend Strain After Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUV9iTVZSUjl6c0oyYWdUWWdGdTBOeEtVY1VjcUJ4azJET01wVTQzc2dkMmdUREJCWlJhNXVvdGl5TG9URkRDQjY4d0xBTFNKX0lMOFVNN19adjBGbF9uR3NyUWJ5STgyaFdZdEhDM3hqN3pGMllISnZBb0JCbG9EYzNBQldVM1QtUWdsRHdMcER5QkRYTXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:13:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What Marvell Technology Holders Bought Into Before A 170% Run",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3Q5N0VZX2FxT2puUHpSeFJOai1YcUdPcGVoQUlBbFJ1WU1IT0l6ZHZWWFl1OFBTbzFfRXQ2MU1QWHZSZEIwSDdkVVh5OFoxYjBlUE5LNnFtSUpyaGh4NU5GQ2hCY2x3aW1teFQyTjFzd2ZTbkViS2p1MjdLckttRXpaRDA0MXppSWNMUnpiYkdLSHowa3FPTTIyOUozVjBQZDJuZg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:12:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bankinter (BME:BKT) Stock Price Slides Despite Solid Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUdvY05lcWNuV2EzX2EyVW5VRDl1WlgxejFqR09BR1d5VlFRek9BT0N6U1V6dVoxSWlRX3VRSE1VRjJKSUJJcmxJbnl4eGp6M3FSNEVhNUdLeFJ0NEhmU214WWlkS3lHeHJQWXJDZFMteDJsdjhhTHRVeGMtNVM5b18zaDhwbnc3UGJVNGZMVURWZnFTV3dPTmd3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-23T05:12:00+00:00",
    "snippet": ""
   }
  ]
