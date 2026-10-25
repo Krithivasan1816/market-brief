@@ -1,6 +1,6 @@
 {
- "date": "2026-10-24",
- "updated": "2026-10-24T06:10:37.654116+00:00",
+ "date": "2026-10-25",
+ "updated": "2026-10-25T06:31:13.987993+00:00",
  "quotes": [
   {
    "name": "Nifty 50",
@@ -30,220 +30,220 @@
   {
    "name": "Gold (USD)",
    "price": 4007.9,
-   "change_pct": -3.66
+   "change_pct": -3.25
   }
  ],
  "india": [
   {
-   "title": "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India’s IPO history",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T05:50:10+00:00",
-   "snippet": "The issue set records across fundraising, anchor investor demand and applications, while attracting the highest qualified institutional buyer (QIB) subscription among India’s five largest IPOs. It was fully subscribed wi..."
-  },
-  {
-   "title": "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps",
-   "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-ipo-allotment-status-check-online-by-pan-number-on-nse-india-bse-websites-direct-link-steps-11792816097296.html",
+   "title": "Stable fees, volatile earnings: What investors should know about EAAA IPO",
+   "link": "https://www.livemint.com/market/ipo/eaaa-india-alternatives-ipo-review-price-band-valuation-financials-11792899549025.html",
    "source": "Mint",
-   "published": "2026-10-24T05:35:46+00:00",
-   "snippet": "Investors awaiting Reliance Jio Platforms IPO allotment results, expected on October 26, 2026, can check through BSE, NSE or registrar KFin Technologies using their application number, PAN or demat details. Shares are du..."
+   "published": "2026-10-25T05:58:06+00:00",
+   "snippet": "Backed by Edelweiss Alternatives, the ₹1,200-crore IPO offers exposure to private credit and real assets, but investors must weigh strong fee-paying AUM growth against performance-linked earnings volatility and a 40.6-ti..."
   },
   {
-   "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T05:31:13+00:00",
-   "snippet": "The Securities and Exchange Board of India has directed Avadhut Sathe Trading Academy to refund ₹546.18 crore to investors. Avadhut Sathe and his academy provided unregistered investment advisory services under the prete..."
-  },
-  {
-   "title": "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale",
-   "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html",
+   "title": "KEC International shares in focus on Monday Oct 26 after ₹2872 cr PGCIL order win; YTD orders mark crosses ₹13.5k cr",
+   "link": "https://www.livemint.com/market/stock-market-news/kec-international-shares-in-focus-on-monday-oct-28-after-rs-2872-cr-pgcil-order-win-ytd-orders-mark-crosses-rs-13-5k-cr-11792904618194.html",
    "source": "Mint",
-   "published": "2026-10-24T05:20:11+00:00",
-   "snippet": "Goldman Sachs downgraded Ola Electric to Sell and cut its price target to ₹23 from ₹39.28, citing weak cash flow, funding needs, high interest costs and operational challenges. It expects prolonged losses and tougher com..."
+   "published": "2026-10-25T05:47:30+00:00",
+   "snippet": "KEC International secured ₹2,872 crore in turnkey orders from Power Grid Corporation for 765 kV transmission lines linked to evacuating 8.5 GW of renewable energy in Gujarat. The wins mark a record for its domestic T&amp..."
   },
   {
-   "title": "Anthropic IPO: What should investors consider when valuing the AI company? Aswath Damodaran explains",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms",
+   "title": "Swiggymayrebound to Rs 190, butchartsdonotsignal a trendreversal: LKP’s VatsalBhuva",
+   "link": "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
    "source": "Economic Times",
-   "published": "2026-10-24T05:03:17+00:00",
-   "snippet": "Anthropic is on track for an IPO expected in mid-November, reporting impressive revenues of $16.3 billion. However, the company faces a staggering net loss of over $80 billion for the year. Valuation expert Aswath Damoda..."
+   "published": "2026-10-25T05:41:46+00:00",
+   "snippet": "LKP Securities’ Vatsal Bhuva sees continued downside risks for Nifty and Bank Nifty, while identifying potential rebounds in Swiggy and HDFC Bank. He also recommends Oriental Hotels and Apollo Hospitals, citing improving..."
   },
   {
-   "title": "Q2 results: IDFC First Bank, Castrol India, JK Cement, 30 more on Oct 24",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMEl6YS1oTk5LUTRGZVk4b0VCWV9lbHJONVNfTnlSYUhiMThYVHVDa2tMV0V5OVM2VVBsS1VYS1lZNW8xeGdQbEI4djFzTXBmZXNsd2FDRWdRc2FzdmFKclQ0UFB2WUh3YmRRUzl1RVJxOWc2TXdvVnU5OUJneXhNSHNISFpUaXMtT0hrSXZBc24zc3YtUGVXY3pfWEtxUDVVU3JTdmk5eGJlX0xaNmJXdEQ4aXk0cXY5VDVGWGJSWVp1VUtoRlQ1M2FScE9GSTk1QzFNVWprYmxxbV9iVE1ESmJLVWhGbXhTTkHSAeoBQVVfeXFMUDBJemEtaE5OS1E0RmVZOG9FQllfZWxyTjVTX055UmFIYjE4WFR1Q2trTFdFeTlTNlVQbEtVWEtZWTVvMXhnUGxCOHYxc01wZmVzbHdhQ0VnUXNhc3ZhSnJUNFBQdllId2JkUVM5dUVScTlnNk13b1Z1OTlCZ3l4TUhzSEhaVGlzLU9Ia0l2QXNuM3N2LVBlV2N6X1hLcVA1VVNyU3ZpOXhiZV9MWjZiV3REOGl5NHF2OVQ1RlhiUlladVVLaEZUNTNhUnBPRkk5NUMxTVVqa2JscW1fYlRNREpiS1VoRm14U05B?oc=5",
+   "title": "Dividends & stock splits: L&T Tech, Shriram Finance among 24 stocks turning ex-record date this week. Do you own?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-lt-tech-shriram-finance-among-24-stocks-turning-ex-record-date-this-week-do-you-own/articleshow/135183913.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T05:18:18+00:00",
+   "snippet": "As many as 24 companies will turn ex-record date for dividends, stock splits and rights issues during the week starting October 26. Key names include Shriram Finance, CRISIL, Cyient, Chennai Petroleum and L&T Technology..."
+  },
+  {
+   "title": "Jio IPO GMP today: All eyes on telecom major’s mega listing this week. What is grey market premium signalling?",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T04:40:04+00:00",
+   "snippet": "Jio Platforms will list on October 28, with a grey market premium of Rs 247 indicating a potential 22.07% listing gain. The Rs 30,213-crore IPO was subscribed over 22 times, led by strong institutional demand."
+  },
+  {
+   "title": "Reliance-backed Jio Platforms IPO: GMP hints 22% listing gains; all eyes on allotment; status check online guide by PAN",
+   "link": "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-focus-shifts-to-allotment-date-gmp-hints-22-listing-pop-step-by-step-guide-to-check-11792897616327.html",
+   "source": "Mint",
+   "published": "2026-10-25T04:21:16+00:00",
+   "snippet": "Jio Platforms IPO allotment is scheduled for 26 October, with refunds and demat credits due on 27 October and listing on 28 October. The issue received bids for 22.19 times the shares offered. Investors can check their a..."
+  },
+  {
+   "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T04:11:15+00:00",
+   "snippet": "IDFC First Bank’s Q2 net profit tripled to Rs 1,045 crore, supported by strong loan and fee growth. Net interest income rose 21%, while net interest margin declined to 5.6%."
+  },
+  {
+   "title": "Suzlon Energy shares crash 39% from 52-week high — can Q2 results 2026 bring a bounce back? Experts' views, target, SL",
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-crash-39-from-52-week-high-can-q2-results-2026-bring-a-bounce-back-experts-views-target-sl-11792898990972.html",
+   "source": "Mint",
+   "published": "2026-10-25T04:08:45+00:00",
+   "snippet": "Suzlon Energy Q2 results 2026 date: The company has declared board meeting on 29 October 2026 for the announcement of the Q2 earnings for the current financial year"
+  },
+  {
+   "title": "Post Jio boost: 5 IPOs to raise Rs 2,581 crore next week alongside India's biggest listing",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T04:00:17+00:00",
+   "snippet": "In a bustling week for the IPO market, five mainboard offerings are set to debut between October 26 and 30, aiming to amass an impressive Rs 2,581 crore. EAAA India Alternatives spearheads the launches, while Jio Platfor..."
+  },
+  {
+   "title": "Sebi to revamp short-selling, securities lending rules",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T03:58:23+00:00",
+   "snippet": "Sebi is reviewing short-selling and securities lending rules to improve liquidity and price discovery. The regulator is also planning reforms in clearing, broker compliance, custodial services and corporate bond market-m..."
+  },
+  {
+   "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s fate next week",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
+   "source": "Economic Times",
+   "published": "2026-10-25T03:48:39+00:00",
+   "snippet": "Indian stock markets faced a setback as crude oil prices soared, triggered by increasing geopolitical tensions in the Middle East. Despite some defensive buying from domestic institutions, foreign investors pulled back...."
+  },
+  {
+   "title": "Sensex, Nifty decline for third straight session amid rising crude oil prices",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmtyVkM0aGMySDUyZ2hJdS16NkV0OGVMRWNMWjRNY1BnNzhXRXdMQXppeEhHOW9EQWxEaFJnZ0x4V1dpVl9YdXpUeWE0eTlnZmM5SmVHNS1Ca1VCX1JyeUZuWUlFenFFd1Fnd2pXMU5ncjg0OWI3R0RGUmxINzRueXVDZWxkUkczWkMyVVRsS1dfY2E3X0JUUFpwZy1HTEV0ZkhmQm9LalhMSElMQ2hldS1WX3RWUGZRVF9NOA?oc=5",
+   "source": "Mid-Day",
+   "published": "2026-10-25T03:45:53+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex, Nifty post notable losses over global tensions",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTBIYnpEVm4xck1GeDZURHptdTNNNFRZT1J6WHZsMEUwbVlhTHFUYjlpOXBsZTdfNEhCM3lXOS10N2d0bjMwa08zSGoyeF9xb2NYTUNuNXpUT1U1N2g2ZHk2UVMwRVo3ZmhPTXBwa2Z6WEV4Z0RpUGFDY0cydVQzSVpiQ0dmQQ?oc=5",
+   "source": "DD News",
+   "published": "2026-10-25T02:52:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Demand-supply mismatch to drive revenue growth gains for Indian Hotels",
+   "link": "https://www.business-standard.com/markets/news/demand-supply-mismatch-to-drive-revenue-growth-gains-for-indian-hotels-126102500052_1.html",
    "source": "Business Standard",
-   "published": "2026-10-24T05:02:16+00:00",
-   "snippet": ""
+   "published": "2026-10-25T02:15:35+00:00",
+   "snippet": "Strong room rates and occupancy lifted Q2FY27 performance, prompting an upgrade in FY27 revenue growth guidance; brokerages remain positive on the stock's prospects"
   },
   {
-   "title": "Growth, value stocks set for reshuffle as S&P adopts new rules",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T04:21:59+00:00",
-   "snippet": "S&P Dow Jones Indices will soon change its rules for classifying growth and value shares. The new criteria will incorporate intangible assets, forward earnings, and free cash flow instead of relying on 12-month price mom..."
-  },
-  {
-   "title": "Radhakishan Damani portfolio: Top 10 stock holdings of the ace investor",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-portfolio-top-10-stock-holdings-of-the-ace-investor/slideshow/135161767.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T04:11:55+00:00",
-   "snippet": "Damani’s other top stock holdings in terms of holding value are United Breweries, TSF Investments, Horizon Industrial Parks, Blue Dart Express and Bhagiradha Chemicals."
-  },
-  {
-   "title": "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
-   "link": "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
+   "title": "Top 3 stocks to buy under ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-niva-bupa-gmr-airports-restaurant-brands-by-sumeet-bagadia-target-price-stoploss-11792862655967.html",
    "source": "Mint",
-   "published": "2026-10-24T04:09:44+00:00",
-   "snippet": "Reliance Jio Platforms’ ₹30,213-crore IPO allotment is expected on October 26, 2026. Investors can check status on the BSE, NSE or KFin Technologies websites. Shares are due to be credited on October 27, with the stock e..."
-  },
-  {
-   "title": "Sensex, Nifty snap 2-week rally as oil shock, FII selling weigh on D-Street",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX3NOSGxoQkduTXVZSHFQTzlpMFhXRld1dWhXaUFKNzNPa3ZGUHczUHhBbnJfYm55bDFjTnBiel9XcFdBdGx5dFdaSlFxREdtNHpEVEFiX193ZVBIcHpZaWFZclNqYjhjdER1UFNUNTd5c1pOb3UtdWYxNm9TWU55QUdNdDhFS1JfaG9OMUtsV05vWVFRTUNLWnVjQS1DTXllWERlWWNzOVgzVXRFTktXNjdVcnFRVUdEMGk5d1VhVTU4b3ZtVDBzWVpDRFU2SlRxRWNjTXd4S3RUenQ3Q0HSAeMBQVVfeXFMT2JkcFhRSnZ5WkNHSVBzcW85ZVlHckl2YmdvREFySE9fTk41U2dtNkYyQ0ExSlN2aU5oU1lNRjVyRlRKcVhYN2VEenJpOUZlVGRqU0tHa05QNzRBRkVFUGRaMzE0MFhtUzhoMjRzQ2tQYW54STY3bnBTb1F4b1FMTzRfZmpHWmc2VHBTaV82ODBnOE9GVWtsREZudnctYjJmTUxRdWFhT0NJdnBLdUUybktlOFoyMm5mZU9XNlNYUDc5N0ZLV3lqejB1N3RnN09kN2pybXg2VTZqQlZ2NWxoamw2eWs?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-10-24T04:07:47+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "BPCL reports 21.45% drop in Q2 FY27 net profit, attributes losses to fuel pricing issues",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-reports-21-45-drop-in-q2-fy27-net-profit-attributes-losses-to-fuel-pricing-issues/articleshow/135161389.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T04:02:02+00:00",
-   "snippet": "Bharat Petroleum Corporation Limited (BPCL) has reported a 21.45% decline in consolidated net profit for Q2 FY27. The decline is attributed to losses from the sale of petrol, diesel, and LPG, which affected marketing mar..."
-  },
-  {
-   "title": "DRL says cap on trade margins a positive, posts 36% dip in Q2 PAT",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/drl-says-cap-on-trade-margins-a-positive-posts-36-dip-in-q2-pat/articleshow/135161325.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T03:53:30+00:00",
-   "snippet": "In the second quarter of FY2027, Dr. Reddy's Labs experienced a downturn in both revenue and profit. However, the company supports new trade margin regulations that aim to improve access to vital medicines. With a commit..."
-  },
-  {
-   "title": "Adani Power profit surges 142% on strong demand amid weak rains",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T03:47:21+00:00",
-   "snippet": "Adani Power has reported a 142% increase in net profit for the July-September quarter. This profit was driven by strong electricity demand and exceptional prior-period income. Operating revenue for the company saw a near..."
-  },
-  {
-   "title": "Stock Market Crash Today: Sensex Sheds Around 900 Points, Nifty Breaks Below 23,000; Triggers Behind Fall Here",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVE9oem4xNGtSMG5CYjhsZDlURGdteW5oS1NfYTFhX3JFZnlDMEE2LVhDN3l4bFVLM1k2OExJTVB3ODhOQUpWc0pGSmpKNDg2LWtvUXgtWXJLeHZDbVdCUHVLRmNOcFFydERSYURGM3pIYkZseXFZdHV0RzlTOEZZbHhlbzNCbzlaUWhGMFo2SFZJdG5mbmE5Z184R3VmS3Btcmt1U1h3MXZRVVhydmpsRFB4RFVuLVpaTEowdzFVTUp5Y1ZqVHZhcEVNS0I5dlNrU1hjVzhKQk0?oc=5",
-   "source": "Goodreturns",
-   "published": "2026-10-24T03:46:50+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "JSW Steel posts three-fold jump in profit, lines up capacity expansion",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-three-fold-jump-in-profit-lines-up-capacity-expansion/articleshow/135161181.cms",
-   "source": "Economic Times",
-   "published": "2026-10-24T03:43:02+00:00",
-   "snippet": "JSW Steel achieved an impressive three-fold rise in its consolidated net profit for the September quarter, highlighted by a record-breaking 13% increase in sales volumes compared to last year. The company has received ap..."
+   "published": "2026-10-25T01:00:53+00:00",
+   "snippet": "Stock market prediction for next week: Sumeet Bagadia believes the near-term bias of the Indian stock market remains cautious unless the Nifty 50 index reclaims its immediate resistance zone, which is 22,750 to 22,800"
   }
  ],
  "usa": [
   {
-   "title": "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGZmWWNZNHFfRHVxX3RKZFFGbnhHTXkzYTJMTzREQ012enVTQTNKZ2NkM0ZkNV9scDduXy02MXNyVTJMTERBUjlJUnlnMHp5clBQLUlpS2V5R2g5eUlmRHhfUXk2d2dKUVpldWNJTzFaTEVCS0VYd3ZSaGJtZWRFNjlYOFhJa2phV3lpOVJmamhzcXJlRUk1eg?oc=5",
-   "source": "The Motley Fool",
-   "published": "2026-10-24T05:56:26+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Wall Street mostly loses ground under pressure from rising oil prices",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUNWMExKdUdLSk4zYVlEdU9Objhna2g5d0VvZlNTTjJfSXlVN015Rmt4eG9SYkUwbUFrc2tXSVV4REs0eUNFSHFOWHluM3k2ZThQVkpOYlJrMEtIOVNUZmNmUEJWdWVqdExGSEtIVzdadEZnRzdfTzVkNmlRcWRlc1JVWVk0Ui1RM2lMVi11X0dsWXNxbl9xM09LZkc0MkRTS0R2Q3hPWGtrSEhVeVpJ?oc=5",
-   "source": "Pittsburgh Post-Gazette",
-   "published": "2026-10-24T05:40:08+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks — But Loads Up On PACB, FRNM And Other Biotech Firms",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1d1cThHRnV4dXQyWTMxXzZmVF9STlFsS3A1VEVsTTBzcXF1WGp4UXE4bVZkZHVNaW9EUFI1SFdjZVR3NkNNeVhucEFEOWU2d19wdzF1TG5LSlVTTkoyWW85S2pxSXN0c3BpVUZZakpYOVB1eFFldVdBZDFRbE8tQ0ZZMGZhbEt3NW5WdllzNWpmcUZmeXc?oc=5",
+   "title": "3 British Defensive Stocks To Own In October 2026",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDZfV29sVVpIY2ZDWE01eTJNNmFuWmJRNV9GSnJGeVFqS1Z0b05CdGh3ckx2SW9fa00yb0NYRlBMZ1hmN2hFekNMOE5neGZROFZFYWIya2ExU1A4N1BXejBZR0x5YzFsT3FEMktoR2FabnIzQWlUTnZpcko5cHBpY1ZwQVQ5ZFBqX2xSQnNLb29lc3h5bFh3TkRvZw?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T05:29:00+00:00",
+   "published": "2026-10-25T06:10:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Why Kinsale Capital Group (KNSL) stock is trading lower today",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejZ4SV9wd0w4Z041QXhKTlZjQlVKZjVqZVdOaTFXN005U3l0Z01ISVlrQXVRYUltOGNCUFpQNzdLNkVtT0QwS3o0UkpJTWtBblI3bHlyd0IzZ05pdjlpY3hYLVdXbnFVaURaT1R2eUNTSzNBaFgwRG1jemt1Vm9OdkMxdC1PMlpudmZLekdObVhqMWFVdTVuMzNDcw?oc=5",
+   "title": "BlackBerry (TSX:BB) Stock May Be Fully Priced Following QNX Backlog News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0dZU0NlWUFOd3VlQkpsTURiMUR6TEs4OENrSzYxbXlpVmRkYjFZejY5NUhDajI3TjlCcnpWeTJ1SzZLRzFWR3JuTnBjRlVXS3NfMmpaZE4ya1p0Z0NVYWI2ZjdDamRKcGxickxCelEwSlNGbk8xMXNuTUZIR3RiRVprMFhqTDZwdXF5dXZ3NXpaWXBsZ0lR?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T05:12:00+00:00",
+   "published": "2026-10-25T06:09:20+00:00",
    "snippet": ""
   },
   {
-   "title": "Selective Insurance Group (SIGI) stock trades up, here is why",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmxxTS1CZGlWTUZyZHRxc1pLd2ZCWVZIV1YtZ05HMGNKYVdlbmQ4N3B2RHdNdEE0WGw4Tnk0OTJGU2FzWVpGNzZSaUxGN3JZdEpmU2lDejJlWEljM1JmTmNJS2JsM2FVMWowaC1rTU1jdDR5VTh2a0N5TVpWdlFGOC11TGFuMXBDRWk1YW11SVlyeXZ2eXR2eHl5RVBGZ0tlRVJN?oc=5",
+   "title": "DXC Technology (DXC) Stock Still Looks Undervalued On Fresh Governed AI News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanZFQnFFNmZfdXRLVWZxWXNkOGllLTI0X0diZERHVHZPMF9uTVFucUdCcm50M2xRZW5VcWdEZXB2eHBlMEJReXBIWFFtcUZPYk9CQ1Q5Ym91WGN2UEpoMTB0M1hCdHpnUnF3OVlpVU5TbzVBd1VkOEFrb1BrbTlSbUs3b2d6dGpZX2xHLTlwWW1odFBOa2EzZURR?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T05:04:00+00:00",
+   "published": "2026-10-25T06:09:12+00:00",
    "snippet": ""
   },
   {
-   "title": "American Express (AXP) stock trades down, here is why",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2lGTmJLWGJnTHd3YnhobDVvM1diUVc4WXpvZTlkSF9neFBMZk9OejcyLXZCQU0wdnBtdGNpM1NxTV9SalBGZC1lZGJRQ19FcEVxZ2V3RkMxUVFOeHFydTJZTmlSc0o3ZU9RTElwdTlaTjNmaW1ZRENKaVAzamFCQXlCSE9WMTIyT1I4ZWRJU3E0V3NGbVdUcHdDekhQU28?oc=5",
+   "title": "Alarm.com (ALRM) Stock May Be 36% Undervalued Despite Raised 2026 Outlook",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTJmNnZjaXhEeFY0eHUxQ2FlLUZKaXdrdTFabTJFQ2pSUS0tdXpObTNyVUk0em1UOWYtakF5REVGR1NkeUhFUGh3enBuRFNxODRZZ0JzRXRfX0NOdVo3dVhUMUFBMGlRQnNZRlFjV3BZRVYxaXVBdm1CcG1lMHNRd092TlBZeGtBTVpkdGplM0JpdEk?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:56:00+00:00",
+   "published": "2026-10-25T06:09:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Why American Airlines (AAL) stock is down today",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3FaX2dFMFVtVTVGd0pLU01YSExEbHBWSXJ2MG5vS21HZnZoMWF4WHM5T24zZ1A0Yk16Q2xNWHpEb3QtTElfYVZXVlY5dVBPZ2JiN0FkcjdDMW9GeVBPV1lKMFpuUm9KN3lMOU4yMTYxbWlObDZmbExBNjBHOGVWQko3czJoT19VNTQ3d1VraVdUSG5tYldBSEd0bTU?oc=5",
+   "title": "Is Lightspeed Commerce (TSX:LSPD) Cheap After Its AI Rollout?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdF9JMXJLdlBNTVNpdEtqc3lHYWs5STlzWGNjWjlDWVJ0RkMzQ1YzVTM4SHVYMTZPM0JXc243RlRvRU5nSm9kajZmOEljd3B6RkM2alUwTVZ4VTkwY3liYmQ4anVVSEJDQVE1R1c4S0lCRTJhemVIb3BNVHpxRXdLcTNBVDJtOVl4cVRLdWREMXRpeDk4VTZyYm1IazA3STFH?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:32:00+00:00",
+   "published": "2026-10-25T06:08:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Why First Hawaiian Bank (FHB) shares are sliding today",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE44aUdkUW1YSVlMZWtKRTM4UVdjb0ZwN0lESENtM1ZEWWhteGl2YU9vTmZZZ0ZjeEdqdElhWlFPb1NWQm5oSmQ2RUltYWp3ZDlvQ1dJMmtOSGVhZW05dDhiYVNrNUpNSzc2dWdkTVFWSzA1ZEttb0J3cUd2a3dnMkdyX3RwcnVUTW16YTlvN0NpeFJJUWpF?oc=5",
+   "title": "Meet the Ultra-High-Yield Dividend Stock That Has Doubled the S&P 500's Returns This Year",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWRvdkEwRWJIUjkzRjF5Nkd1aC1NNTVoMDVLZjlwWVgtTUJ3ZkJ1NGVfb1ZPcFNMTFR4NUlQVGd2LUFET1l6SnpKOHczY2F6X1IyWXNtUmNRU2FBRGwwWXllVWpNWWM4YUhuYkM0OUxPMWJBVENBZVNVSy1JSXZxQWZ3UWNxT3FqVndheEctYVBpekMyQ1ZKdllBZw?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:24:00+00:00",
+   "published": "2026-10-25T05:38:00+00:00",
    "snippet": ""
   },
   {
-   "title": "TTM Technologies (TTMI) Stock Jumps On Record Q3 Earnings Margin Surge",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZsbGwyNlVPQzQyRll6QUprUnJFd0d3ODMteW9CSHcyZmVadE83RDdxTmNnSktPdjREcDJlZnVKWXVSOThuNnRjQmZUTkJZMDc2WnpoWmQ2SVY0bzJmZ1JNSDZnTzZKTVIyZEh1LVJJbnhubVpVY0dORk83QlBFTklLRmlEdUVwVlBSMEQzVjlQVkpTNTlQV2puVktjWHc?oc=5",
+   "title": "The Week Ahead: Fed, AI Earnings and PCE Data Test Stock Market Strength",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVJKbjJ5U09PTVRGOXV6ZGxHdVVsdjAzaXY0c0x4THNCeS1UcVR1NTVFYzJqZ3RRUFFxSkZKSzhXc3c1aWZqcHFDMlNtb0UwNGx6ZDBUUHVjbG5hNUhMQWljUkJVV3JzS3pHdHRwMkN0dUdSUHBvMlI2R1hwM0JKcmhPLXlNSWhvSXZtZkVnZ1BFb2N1ZVcyMFBZQVppWXY2cE9YSGpfaTBZZ2xjSnFFdnpQSk9BbjlERnpYWmVn?oc=5",
+   "source": "FXEmpire",
+   "published": "2026-10-25T05:34:23+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Holiday Collections Will Impact Williams Sonoma Stock",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjZSVGd1MXR4Q0hzZWJRRXVFQk5KVDAwQnpSVE9iQ0RaS1k5UWR2VVc5Yy1majBVZ1NDeXlZTFVqMXlpanRJa2NQSFZRWTFHMmRfSl9VSHVzMjl6QVdJdWxWTmdwdm5nQTItMUZsbDV4Sm43LU5NM1JEZE9ZaHV6MnFNTjBzRDhJQmI3YVdVakh6ckt3elhtRGlwUGhhQks1WG11eDJjYXNYZlE?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:18:00+00:00",
+   "published": "2026-10-25T05:16:41+00:00",
    "snippet": ""
   },
   {
-   "title": "Why SS&C (SSNC) shares are plunging today",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTllXQkdwak1tMHJMdTdKNEw3cXFLekZVQmNRUTJVbWl1cEtaQTBYcWFsRURLSG9Ga1NjZjU3NTFCZ25WYk1hQW9vS2M1aDdGa3Z1eWwyRC1KeGVQUmR4dnRWVVFUZmdNdlBrM3lxSnFVWmVKbThjVkZCM1M3cGhuTldURnI3SC1FZVo2bG1n?oc=5",
+   "title": "NextNav (NN) Stock May Be Fully Priced Given Its Book Value",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG5hY2p5cEEwc2VXZ0h2ZWIwMGFPU3Z1Uk9MQUkzMDFJY1o1QzNLTWhkLUVRd0wyYnFFSFdMeGE3RkZ6RVdNOGZfamhKTnkyNTlaR3BxdU9Nc0d6bnNITGlKYnBmaU8tQnhtbGNreUg1RjBrX3lJQ0NtX0h5c3d4bmFJLXFzRURTMlRyWHhJSkhCdnFFUlE?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:08:00+00:00",
+   "published": "2026-10-25T05:16:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Flagstar Financial (FLG) stock trades down, here is why",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZi1zRzA4VFBQR0VOdGN5dmNiSUQ4Rlh2em12QlJzNDNIa2ppNlAyVGhkd2k2cEVtX3hFU3N0eUdqdWYwb0NReG9vSVVISFdSQVY3b3lPRWF1SkowRGxXVzE2S3M3V3RZN0tCSXp6U2pieThYSzlSQm0tOGVqNi1IQk9IUG5tWUhSM1JmZW1WRk1GekNLaGx1T2pxTk9QV1hNcVE?oc=5",
+   "title": "GDS Holdings (GDS) Stock May Still Trade At A Discount On Earnings",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVlEaGNXbWZ1a0VmbkJaRFRpTmFVOExoQXY0UEFVaDl5SWIxV251dVdSTUQ3WG42OGI3Mkx2eFVraE1TSTE1VlQ1YVN5cy16OVVFLXh6aUN6Q29wNlBFNEVFLUFNajFRSHF1N0RhT3NhR0NVWEtlVFNYWHBZT0hYZmo2cTBMeVlFY1NpMTF2bDUxS0ltclE?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T04:00:00+00:00",
+   "published": "2026-10-25T05:16:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkI2S3FkX2tqTVpDZmFCaFhMNXZiV21zWXVqNDRzZGtvc0VWenYxTHo1WmVVa2diOFFhY2ZGeWw5QUdwenlBZUpjSGVhNHV0NXMxYjBua3lELU53Q1BpX2d1blE0SU56c2xLdFF1Z0ZjbDVWdm9mTGUtV0d2bVE3WHZ3Y3A5dWdfeUw5M1AwbTlGTmg0TFJIVUtn?oc=5",
+   "title": "Cincinnati Financial (CINF) Dividend Outlook Draws Focus, Is The Stock Still Undervalued?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU05blpVQU8xVFE1Q2ZQbUs3ZDROMmx6WXpreGhpUFNrWUwtQnpkNE1hVnVCTkdiRTR4WjNVQjZIZWdHTDRlM3JSUEplZ3R4UFhySnJCZS1wQ3NiRG9obmpIem1ydXgxUTB2YWt3MTBadDBJSWd5R1plUmJpVDMxazRFNktsRWRQV3hHZnQ2OS02UTU0TnNxMElZYWtwUGdyeFF3aTJlQmgxSzg?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T03:59:00+00:00",
+   "published": "2026-10-25T05:16:00+00:00",
    "snippet": ""
   },
   {
-   "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund $58 Million",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU02SGJMWEplbWZIWndqLTdrUVNmeE5weHNHamZjWGZPRVEzU0pyTk5sOFJ3OTVwTS12R0pqZ205Z0hxQTN5QnVudE1TYm5TUy1iVmVqOUItNU5SNGpGYWd2S2F6NVBYOVRxQThHWjh2WXQ4cjVsVXpsa3F3azNMOU4tM1Q2ZDRDXzZSZ3FLRldmQ1FSMFhjel9Cak5XTG5aUHJKMkcydFNQSzRtQ2xaT29aZlViSHJQVG9qMDN5Skc?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-24T03:54:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "RingCentral (RNG) shares skyrocket, what you need to know",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3JHUjFfcV9NWWpNOHQtQlU1VktCcjZGWUtzNjh6V1hFREgxSk1kZFp2Mm8yWjlmekI5S3F5d1c1cmpFY0tOVWdOR19NZXJSZ00xQnF3dno0MWJteXYwSC12SXozWU05aGdmcERtMjY1RENRWkJodXRHUlBFUWVhQWdreTZFRm9SSFViS0VZOWdDRDd0VHpFWmM1MWl6S3VRS3VrOQ?oc=5",
+   "title": "Is Preferred Bank (PFBC) Fairly Valued As Third Quarter Earnings Land?",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk5tX28zWndjbjNiODRPaUhHNkRzcjZqUEluSHFHaGlBNnRFelhJWXo5UWp1MGl3dnVfV2lTWFJpSFZFLU5lOVFpRGZRUE4wSzdSS195c3FOcFV3akEwMWYtTDBOUUpveERNa3VmN2h2b2xYVG1jb1VCRWtLMlBVa1F1Zl94ZllmbVdZaXR2ZTd1WEdVSm9yV25xZXZUY1k?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T03:52:00+00:00",
+   "published": "2026-10-25T05:16:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Why Sallie Mae (SLM) shares are plunging today",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZENEcXhmYld5Q3hEaDBaeS0zWGZoNlBveTIwN3Y5NXFYOUVKQld3aVdEclQ1MVM4WEVjRXBmSzV5d0Y1dXViQWl6M2VoRVJqZHhmTHdaSm1ZWmdMOFJGMGttWWFGSTB5LWx4cGE2d0E4VXNHdW5qZ2lMQUtINWp6UHpVc1VkRXdSSXlFQWVmVUpubnBx?oc=5",
+   "title": "Volvo (OM:VOLV B) Stock Price Drifts As Q3 Results Sustain Strong Margins",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXFXZjF1Q0I5MWZ3czk4MXlVTzNMeFZQRU8zc1drSjZWUTBjb0NhMUNHOHFydkpMZksyd2x4Q0VxUXEtY1EzanB4eHFSNFFicnJDTS1HY0ZIYTdrMFdZZnBOLU1ud0RsTDNzODltSWQyNFJiUHdNd19HeUo2VmstT0I4UWltckJZSlJNQWlyUQ?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-10-24T03:44:00+00:00",
+   "published": "2026-10-25T05:15:16+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Is AI Power Demand Reset Altering The Investment Case For Vistra Stock?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVlmR2Z5V281WFE1dzVueEpuMmhpQWxEMVBhM2p1eXVjdVUzUDJlMlY5N0tLWTZjUEhPNkx3YUNrWURvdkNqNDQ3SHJ4OU5CQTM3TUk3NEpSX3c0TkhrUnJXT0lDV0Y5MlBSajcwQnRSdHE1WVBubHlsYWxwSlQ5MFR3YzBuZ21UTnNVTUdjMVJTRTdMMXY5eGdqVQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-25T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Will Higher Dividends Change Ally Financial (ALLY) Stock Narrative",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXNWR0VxbzI4bkl3eVBRQ0RFSWVPU0xEMXJFa1lOb05WRUhOSEFhSGRuQTlFY2JfRTY2cFBaR1d2NXJXem9ObnhZM0V5YnhyRDg4NXBhVGl1RXJOVUE0QTBLMkhqWkFqLV9Oajg0X2lTZ0ZhRmZPLWRab2NXYVV0MDktdnlKejdUR2JldWloWXNFUjhZSHd6Wm10NHdoRG5ocjBKZ0Z3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-25T05:14:00+00:00",
    "snippet": ""
   }
  ]
