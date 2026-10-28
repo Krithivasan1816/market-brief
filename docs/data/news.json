@@ -1,249 +1,249 @@
 {
- "date": "2026-10-27",
- "updated": "2026-10-27T06:35:14.371950+00:00",
+ "date": "2026-10-28",
+ "updated": "2026-10-28T07:05:29.633571+00:00",
  "quotes": [
   {
    "name": "Nifty 50",
-   "price": 22767.25,
-   "change_pct": -0.19
+   "price": 22655.4,
+   "change_pct": -0.14
   },
   {
    "name": "Sensex",
-   "price": 73544.06,
-   "change_pct": -0.22
+   "price": 73094.28,
+   "change_pct": -0.21
   },
   {
    "name": "S&P 500",
-   "price": 7676.77,
-   "change_pct": -0.18
+   "price": 7722.6,
+   "change_pct": 0.13
   },
   {
    "name": "Nasdaq",
-   "price": 26169.38,
-   "change_pct": -0.99
+   "price": 26477.81,
+   "change_pct": 0.2
   },
   {
    "name": "USD/INR",
-   "price": 95.16,
-   "change_pct": 0.47
+   "price": 95.19,
+   "change_pct": 0.93
   },
   {
    "name": "Gold (USD)",
-   "price": 4016.9,
-   "change_pct": -1.07
+   "price": 4042.6,
+   "change_pct": 0.87
   }
  ],
  "india": [
   {
-   "title": "Aequs shares crash 19% after Q2 2026 losses widen; Buy, sell or hold? | Brokerage weighs in on what’s next",
-   "link": "https://www.livemint.com/market/stock-market-news/aequs-shares-crash-19-after-q2-2026-losses-widen-buy-sell-or-hold-brokerage-weighs-in-on-what-s-next-11793080303660.html",
+   "title": "US Fed Meeting LIVE: Expectations, time, where to watch Kevin Warsh's speech? How rate decision may impact gold, markets",
+   "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
    "source": "Mint",
-   "published": "2026-10-27T06:26:42+00:00",
-   "snippet": "Aequs shares fell 19% after its September-quarter loss widened to ₹52.3 crore and EBITDA dropped 45%, despite revenue rising 45.3% to ₹409.1 crore. Aerospace growth and a $1.1 billion order book supported the business, w..."
+   "published": "2026-10-28T06:56:49+00:00",
+   "snippet": "US Fed Meeting LIVE: The Federal Open Market Committee (FOMC) unanimously approved a 25-basis-point increase at its previous meeting, bringing the target interest rate range to 3.75%-4.00%."
   },
   {
-   "title": "Dalmia Bharat shares hit 52-week low after Q2 results - Should investors buy, sell, or hold the stock? Experts take",
-   "link": "https://www.livemint.com/market/stock-market-news/dalmia-bharat-shares-hit-52-week-low-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-take-11793078448637.html",
+   "title": "US Market: Fed expected to hold rates as Iran war fuels inflation concerns",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-expected-to-hold-rates-as-iran-war-fuels-inflation-concerns/articleshow/135255367.cms",
+   "source": "Economic Times",
+   "published": "2026-10-28T06:51:20+00:00",
+   "snippet": "The US Federal Reserve is widely expected to hold interest rates steady as rising energy prices linked to the Iran war fuel inflation concerns. With consumer prices accelerating and affordability under pressure, investor..."
+  },
+  {
+   "title": "HUL trades on a volatile note post Q2 results; stock near 6-year low",
+   "link": "https://www.business-standard.com/markets/news/hul-trades-on-a-volatile-note-post-q2-results-stock-near-6-year-low-126102800585_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-28T06:47:40+00:00",
+   "snippet": "Hindustan Unilever share price swung in a range of 5% after the company reported 4% growth in Q2 consolidated net profit."
+  },
+  {
+   "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
+   "source": "Economic Times",
+   "published": "2026-10-28T06:46:27+00:00",
+   "snippet": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However,..."
+  },
+  {
+   "title": "Can the AI boom sustain SK Hynix's record earnings?",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/slideshow/135255297.cms",
+   "source": "Economic Times",
+   "published": "2026-10-28T06:33:34+00:00",
+   "snippet": "South Korean chipmaker SK Hynix reported record quarterly earnings as booming demand for artificial intelligence memory chips boosted revenue and profitability."
+  },
+  {
+   "title": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why",
+   "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-4-infosys-tcs-coforge-tank-up-to-5-here-s-why-126102800478_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-28T06:31:35+00:00",
+   "snippet": "Till Tuesday in October 2026, the Nifty IT index outperformed the market and rallied 12%, compared to 0.05% decline in the Nifty 50."
+  },
+  {
+   "title": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUhnVFNGMFlHd0l2My1HVzZBUlVjbERNbVNMQ0ZvTnlIU3ByNjJBUVBIanFObTk0LWhBblliS2pmanlCSTJkd19KR2I1WGZrTHQ1SmRxeWppVkpFQ29rVDhxRG9qdF9iTWpCQWFSYUFYVFNWVUFNcW5jZ1UzSWRId0Z1M1ZRbU9iNG1XRWtKUDRqVllZS1VndU04ZGdIZVNlLWpxaHBFUmFLbjV5RHlkMzExbEdJRXhId1dHTWgwTlhqRlRYRVVIc0xySnAwUdIB0wFBVV95cUxNSExPR0o2WTlpN0F3SXlQZEV3dXRQYm1LZVE1aVUtNmdCd3QtcDdIMWxMV2pQbzNRZ0dtVW5VWUZINjgxYjZ1YmtmdTVRX2VUTnF1NzZxcWZmYlJmbVhMbGJaSUtYR1RIMWtMQ0Q5am8tRUMwc185em42RExDMWZhZHNPMVNWZVBkWVBCM3JpM2d5WWtLYnF5eDJJRHBhaHZoSWYxOS10T18wV3FaU1o1cUNnLW9fS0d3MEpFeHlWamJYNXRmNE1adEhvMFdjX2RKOWpn?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-28T06:31:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Weak domestic returns fuel India's overseas retail investing boom",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-domestic-returns-fuel-indias-overseas-retail-investing-boom/articleshow/135254832.cms",
+   "source": "Economic Times",
+   "published": "2026-10-28T06:27:22+00:00",
+   "snippet": "Indian investors are turning to global funds as domestic market performance remains weak and opportunities abroad increase. A surge in overseas investments, particularly in AI-related assets, has been noted recently. Fun..."
+  },
+  {
+   "title": "Global Market: Japan bond yields rise as investors eye BOJ policy meeting",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-rise-as-investors-eye-boj-policy-meeting/articleshow/135254632.cms",
+   "source": "Economic Times",
+   "published": "2026-10-28T06:25:18+00:00",
+   "snippet": "Japanese government bond yields rise as an AI-led equity rebound weakens safe-haven demand. Investors await the BOJ’s policy decision and guidance on future rate hikes amid persistent inflation, fiscal uncertainty and co..."
+  },
+  {
+   "title": "TCS Out, Jio In! Reliance Jio's listing shakes up India’s rich list: IT major crashes out of top 5 as shares tumble 3.5%",
+   "link": "https://www.livemint.com/market/tcs-out-jio-in-reliance-jios-listing-shakes-up-india-s-rich-list-it-major-crashes-out-of-top-5-as-shares-tumble-35-11793166947344.html",
    "source": "Mint",
-   "published": "2026-10-27T06:17:22+00:00",
-   "snippet": "Dalmia Bharat shares fell 7.4% to a 52-week low after the cement maker reported September-quarter revenue growth of 4% but a ₹205 crore loss. EBITDA fell 29% year on year, while brokerages lowered price targets, citing c..."
+   "published": "2026-10-28T06:23:50+00:00",
+   "snippet": "Jio Platforms rose 21.36% on its market debut, becoming India’s second-most valuable company and pushing TCS out of the top five for the first time in decades. Reliance Group’s combined market value also overtook the Tat..."
   },
   {
-   "title": "Hindustan Unilever slips 3%, hits over 6-year low ahead of Q2 results",
-   "link": "https://www.business-standard.com/markets/news/hindustan-unilever-slips-3-hits-over-6-year-low-ahead-of-q2-results-126102700471_1.html",
+   "title": "You can't regulate your own thing: Sebi chief on exchange self-listing",
+   "link": "https://www.business-standard.com/specials/bs-events/sebi-chief-exchange-self-listing-bs-bfsi-insight-summit-2026-126102800477_1.html",
    "source": "Business Standard",
-   "published": "2026-10-27T06:15:26+00:00",
-   "snippet": "Analysts expect HUL to report double-digit revenue driven by price hikes and anticipate pricing growth to impact volume growth, with volume growth likely to be close to mid-single digits."
+   "published": "2026-10-28T06:23:46+00:00",
+   "snippet": "Speaking at the Business Standard BFSI Insight Summit 2026, Sebi chief Tuhin Kanta Pandey said exchange self-listing raises regulatory concerns over who regulates an exchange's own shares"
   },
   {
-   "title": "Sona BLW Precision zooms 9%; stock hits new high on record Q2 earnings",
-   "link": "https://www.business-standard.com/markets/news/sona-blw-precision-share-price-zooms-9-stock-hits-new-high-on-record-q2-earnings-126102700463_1.html",
+   "title": "In the wake of Jio's listing, what are India's biggest share offerings?",
+   "link": "https://www.business-standard.com/markets/ipo/in-the-wake-of-jio-s-listing-what-are-india-s-biggest-share-offerings-126102800421_1.html",
    "source": "Business Standard",
-   "published": "2026-10-27T06:06:34+00:00",
-   "snippet": "Sona BLW Precision Forgings recorded its highest-ever Revenue, EBITDA, PAT, Battery Electric Vehicle (BEV) Revenue and BEV revenue share in Q2, the company said in a BSE filing."
+   "published": "2026-10-28T06:19:26+00:00",
+   "snippet": "The National Stock Exchange, Hyundai Motor India, LIC, Paytm and Tata Capital are among the country's biggest IPOs before Jio"
   },
   {
-   "title": "Global Market: Yuan holds near four-year high as China tempers appreciation pace",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-yuan-holds-near-four-year-high-as-china-tempers-appreciation-pace/articleshow/135225936.cms",
+   "title": "Sensex Falls 602 Points, Nifty 50 Slips 0.60% as IT and FMCG Stocks Face Selling Pressure",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHhqUWFOdzNNcFF3NUQxVC1XbjBFMHpob0RzZUZfb0FBVWxQSDg2d2w2aGVOblZ0TGxURW1XeWVoNFlSbWExNDY3UWN0SVQwYVdYZ1pHMUQ1cGxTaTFxbGlEQ2o2emhVdDcxbmZ5RnE5MDMtSXZyaDZ5d3JkMjJsU3BTWlBvd1I1eDNVMkhUQVE1dS13MVBSeHMxNHpCa0VfVWZ6Y0tBSzhQYUYtMDBpMXQ2WkRjMDhKN2hteGUzU2phRmJZMnJKcVZZdkU5ZUdq?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "published": "2026-10-28T06:18:56+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What’s ahead?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms",
    "source": "Economic Times",
-   "published": "2026-10-27T06:01:56+00:00",
-   "snippet": "China’s yuan held near a four-year high against the US dollar as the central bank moderated its daily fixing. Export-related demand and stronger industrial profits supported the currency, while global markets awaited key..."
+   "published": "2026-10-28T06:17:12+00:00",
+   "snippet": "Maruti Suzuki shares post marginal gains despite a 26% YoY decline in Q2 FY27 net profit. Jefferies, Nomura and Elara Capital lower their target prices, citing weaker margins and financial income, even as record sales vo..."
   },
   {
-   "title": "Global Market: Japan’s Nikkei rises nearly 2% on AI optimism, Anthropic IPO filing",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-nearly-2-on-ai-optimism-anthropic-ipo-filing/articleshow/135225566.cms",
-   "source": "Economic Times",
-   "published": "2026-10-27T05:45:36+00:00",
-   "snippet": "Japan’s Nikkei surged nearly 2%, snapping a three-session losing streak, as Anthropic’s US IPO plans and gains in American semiconductor stocks boosted AI-linked shares such as Advantest, SoftBank and Tokyo Electron."
-  },
-  {
-   "title": "AI stocks rally after Anthropic IPO filing, Nvidia gains nearly 3%",
-   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rally-after-anthropic-ipo-filing-nvidia-gains-nearly-3/articleshow/135225580.cms",
-   "source": "Economic Times",
-   "published": "2026-10-27T05:45:30+00:00",
-   "snippet": "AI stocks rallied after Anthropic disclosed IPO paperwork, with Nvidia gaining nearly 3% and the Philadelphia Semiconductor Index climbing over 3%. Chipmakers, data centre operators and AI infrastructure firms also advan..."
-  },
-  {
-   "title": "Nifty Smallcap 100 index rises 2%, extends two-day rally to 3.5%; Ola, Sona Comstar lead gains: What lies...",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOFFwaWJ2Z2hUclo1Y2Q3eTlRWXl2ODBMSXJNWUVkNW1NZy16QTgwUzBra2RfTG1XUUJLdmpPZktiSDZuUWRJemFIT3dva2JWZWFucjJnZmU0Wm93MlV1ZTZ6YWFGdnpUajdVVm1GV2lrNXhiZ1VGSDhjRDJnMWZiVkoyX29Fc2ZXOV9qVl9WRG5hd3RBRUduMEk4cU1CTVI3a1RtTzZrUWMtLVYtejdlWmZXMXRxZ19URVJHazZudHkwNjZVbThocXBMSkZsVlFJSF8wMHlKOGdPUVQ5VGhmSTJuY21KUGtRTTZ6YkEtS0Vqb1BuOWtacGtZUk9KSjDSAYQCQVVfeXFMTWVHRmdDWFNSUkFTNzh4RkplTWsySm1NZE9ZTHgxMmZvd0F2X21iSVpCWUgwemlYNFMya29qT1liakdVZnE5bkNMekxTMlhwQVZUUWZoRmlUU01oS1dhV3lrbF9Xc1lVSHdXdE9fcUF1THVCck1TMmN6Wkg3QW4tQUcxdG5BUzduT2hnam1MbV9SVUJhS09pY0UyUlp1ZjN4TUpnREN4MDlXamoweThmbHlTVnVlZTJmakdQR1hqQlpOMnl0NTdIcXg5bUFlTGNTR0xRNGtsTjNkR0dJQzBoSUNCbjBzaS1VaGZTbkpRdU00WjJScGM4S3BUNUxEWTlpQWM0NVA?oc=5",
+   "title": "Sensex rises 400 pts from day's low, Nifty reclaims 22,600: Key reasons behind markets paring losses",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdDh4clQtMHNCWlU3TTdrMkhIcjRyelRKUFkxRnFuendzSENqdEtLUmhtT1Nfa2lJZENCTUx1UGZxVFdFSXNnLV9zd3l1LUNORU0zR180c0VyVHRDelM5ZUZRcmhoTHNTdUZQUURzdzBfbHU4cU9sT3RhTm5sT3dXZy15OGFMV05OMzJROVpYT0pueFVxQUpTdUtUNE1JdEFjY3JDN0s2UzE4UzJFVXZ0XzhSbmFDWWpWaE5SMnBsTkdvS1AxNTVxd2dZTXQzUmJaemg3X2FCMHF2NUNfMEdMQ0VXR3lqOTNoYlFIb1JiWVR2NmtaOHFFV0ZyNNIB-wFBVV95cUxPdDh4clQtMHNCWlU3TTdrMkhIcjRyelRKUFkxRnFuendzSENqdEtLUmhtT1Nfa2lJZENCTUx1UGZxVFdFSXNnLV9zd3l1LUNORU0zR180c0VyVHRDelM5ZUZRcmhoTHNTdUZQUURzdzBfbHU4cU9sT3RhTm5sT3dXZy15OGFMV05OMzJROVpYT0pueFVxQUpTdUtUNE1JdEFjY3JDN0s2UzE4UzJFVXZ0XzhSbmFDWWpWaE5SMnBsTkdvS1AxNTVxd2dZTXQzUmJaemg3X2FCMHF2NUNfMEdMQ0VXR3lqOTNoYlFIb1JiWVR2NmtaOHFFV0ZyNA?oc=5",
    "source": "Moneycontrol.com",
-   "published": "2026-10-27T05:44:12+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Indian bonds tick up on calm oil before Fed verdict",
-   "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tick-up-on-calm-oil-before-fed-verdict/articleshow/135225679.cms",
-   "source": "Economic Times",
-   "published": "2026-10-27T05:44:11+00:00",
-   "snippet": "In early trade, Indian government bonds improved as oil prices found stability after last week's surge. Traders remained cautious ahead of a significant policy decision by the US Federal Reserve on Wednesday. India's bon..."
-  },
-  {
-   "title": "Sensex falls over 100 Points, Nifty slips 50 Points",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekFJdDdmcmV5RTc1ZHctb3BmZVkzTG11ZXFobjkwY2ZNWi1SQ0xFQTJMMDhzWUFkN19kREtrUkx5b250Wm0yOHBMd1VkU0lsN3dheE15SERwQVFMbG42dDh2N2R0Vi1lQm1jM3NwSjdrZUJXcVNwWjMxclNWVmFHM1p0eFpwTmJoYmR4WUdxWQ?oc=5",
-   "source": "Punjab Newsline",
-   "published": "2026-10-27T05:42:06+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "IT stocks crash! Infosys, TCS, Wipro, HCL Tech - Nifty IT tanks over 2% today, biggest sectoral loser - What lies ahead?",
-   "link": "https://www.livemint.com/market/stock-market-news/it-stocks-crash-infosys-tcs-wipro-hcl-tech-nifty-it-tanks-over-2-today-biggest-sectoral-loser-what-lies-ahead-11793077366586.html",
-   "source": "Mint",
-   "published": "2026-10-27T05:36:49+00:00",
-   "snippet": "Indian IT stocks fell sharply on October 27, with the Nifty IT index down 2.3%, as investors weighed AI-driven disruption, global uncertainty and elevated valuations. Brokerages see potential for recovery and a valuation..."
-  },
-  {
-   "title": "TCS, Infosys, other IT stocks drop up to 3% as Anthropic IPO sparks rally in global AI stocks",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms",
-   "source": "Economic Times",
-   "published": "2026-10-27T05:36:16+00:00",
-   "snippet": "Indian IT stocks fell amid reports that Anthropic, the maker of Claude, is preparing for an IPO that could value it at around $1.5 trillion. While the listing would open up investment opportunities in a leading AI develo..."
-  },
-  {
-   "title": "Sona BLW Precision Forgings shares rally 6% after Q2 profit rises 29%, revenue jumps 35%",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-forgings-shares-rally-6-after-q2-profit-rises-29-revenue-jumps-35/articleshow/135225348.cms",
-   "source": "Economic Times",
-   "published": "2026-10-27T05:31:54+00:00",
-   "snippet": "Sona Comstar shares surged nearly 6% after the company reported record Q2FY27 revenue and profit, driven by robust growth in its electric-vehicle business, new orders and product launches."
-  },
-  {
-   "title": "Apollo Micro Systems shares: Defence stock up 60% in 2026, soars 8% in Q2 rally - Key levels to watch ​next",
-   "link": "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-defence-stock-up-60-in-2026-soars-8-in-q2-rally-key-levels-to-watch-next-11793076941368.html",
-   "source": "Mint",
-   "published": "2026-10-27T05:31:26+00:00",
-   "snippet": "Apollo Micro Systems shares rose 8.5% on Tuesday after strong September-quarter results. Net profit increased 55.6% year on year to ₹48.4 crore, revenue grew 72.2% to ₹388 crore, and the order book reached a record ₹1,76..."
-  },
-  {
-   "title": "Sensex, Nifty Decline in Early Trade on Crude Oil Concerns, IT Stock Selling",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc1R5ejBtTzFJU1BhUWtyUUpGZ1MxZUd2UVYxOUdsUGpqZm8xY05zLThGS1JPcEdYR0NwNi1WajNYVDk0MU9wQnRZbkFIR0FidFdfbzJYb0hXVUJNNDdPSHQ2YVpPcTdmR0xVbUdFcm1zZHRxVkR0Wl9ySm9CZFJHTkliR2VWQW1iSktyVlFPMThlNmQ0WHNjMXVSdDRzXzJ5UTc4LVk4eUNFNjVFT1YxWFlwZ0w2MUNTSFJMOXI4WlcwMW5MSmlqQjdONkZDd9IB0wFBVV95cUxObkQtQmZZN3BPWGc4RDJGYnZyTTJucHozNmFJVFdSdkphZ3U5NzBpRTlVeVQ3djk0eUk4UEllMlZYeG9mUERBWmcwTG9Sem40YnlURnV1NE9FQ2JRNFY0ZWx4eGJLblI5SUZCQkJNNmxCaDJ3UEJ5TDFaRTQzbXdSWF9JaDlaX1pqNHBDazJweVhYcG1QcDJqbjZLWExUNDctQWRHVzBRZC1vck9XTGJuOEo5TW5saF91cEJvUjdkN29GTWl2NHdkVGNtNjZYOVNoc2Yw?oc=5",
-   "source": "Deccan Chronicle",
-   "published": "2026-10-27T05:30:26+00:00",
+   "published": "2026-10-28T06:07:29+00:00",
    "snippet": ""
   }
  ],
  "usa": [
   {
-   "title": "The AI trade is driving global markets more than oil, Goldman Sachs says",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDBiUW9VU3I3UUtwMWNXaHJuWnZsVGN2V05TVzBUaXpUNU50Y3NYdHJCUWQxNHdrSnlPNkNUVlhnLWh1OURUaW5Rd3hrdjNfaE5sVy1lcTBRejlmc1d0UVAxejhheXhQanlxeVpWaDVwNFBYNVItY3RXbU0wRTRqZHYwalVCRlh5Q2E5elFONFFIQWp2amNRT3NOVDM?oc=5",
-   "source": "Business Insider",
-   "published": "2026-10-27T06:29:35+00:00",
+   "title": "Meta Platforms Just Delivered Great News to AI Stock Investors",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2tDY0xEU2JGUFY2dFhBZVFXT0wxWmwtcVpyYVJ0NkFPZXAtUENvekttOE92dUhaMU9ibElmQWg0OWdsWjdPemw0c3NWaFhXS2tZRXNyeUZHY2hQM0V2eTlwOXE5eUNUTlhiR28yZzRkUmtpeUNiMjdZQ0h2TUt6QmdqNGcyUFJ3bjRpdl93MmpaaWd0SWc?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-28T06:47:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjUxUHMtSEIyY0ZCS2x1alFFRlIwazlCX0QxVl94RTV4WmlHTWFoTGw3SDFnUmRQS0xQY3dvLWZLZXpuTzhNMWpoaVhTemdLTjRxbTlGMHgzWnBrSnNxaFlSTUJiMXFjWnNILW84S1lGSHlQWHBxOU9CQ21iSXFvUjVpcExxazNBSW5FdVRNNjF5WHhKNWFWci1MTQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T06:46:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Realty Income Just Declared Its 676th Consecutive Monthly Dividend. Here's How Much a $10,000 Investment Pays in Dividends.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2MtVXp3RmwtUVBPdlhmQnhJMjRIUDJMZDFmeXdSdzZWUlU4Qm1CU3FRUnRLWkN4VHZWMkV6NVl6RGxGN1FJUkRaeWlRdFFwRmRUQzdZNk5oU1BmeWI0aHp6cklMMENxQkxvdmpvZ3BadUt4SjJnTlVPOFRkMkxQN2RnbjVEdjlrazdiYmlOYzk5QXJBZ2xF?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-28T06:23:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "'The Best Prediction Markets Experience': Vlad Tenev Wants Robinhood Users to Have 'Choices' Too",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVJsVnFnbHQ3MVV0UEJVWnBYVkpNZFFwY1pKLXc3RVU4Z01NaFA4S0VIemNRNk1tMWh4UFJFOWJTRjNiN1NXbHNxNkVpMlJlNXVqMm5ST09zSlNwVUxQU1duTGFBM0gxc3p2UEdmQ3lYNmtTcTFTSHZxdDlWVFhqaUh0MkY5TkpVdE9YREFpb0RHMlZiOTBGcF9JRDhJSE9yNUh1R1BPOWk?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T06:16:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ASTS Stock Logs Best Day In Nearly A Month — BlackRock’s Stake Takes Spotlight After Bruising Selloff",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOU4xVm1VMm9pS0JoTkVGQVRCVUZmN3dwV29nXzVMaWJZNUpVX3F0d3FwcTZKTmdUZDFRQ0ttbXpWLXJmY0JqUlBleFlXRHp0YTgydFdwUG9MTWRVSHMtZ3FDd1FYdXplTi1UMjM2N1M1TEFWVlItWlB4WG0yX2Q4dVJJd0RXZU1VOEdTTC1UQXMwYlE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T06:11:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AMC (AMC) Stock Looks Reasonable Against Its Current Sales Base",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGwzNTgyMThJY0lYR2E1Y1pXaWlkQkpiS19SZlJxR1FTRS1fUE1fRzBzTTJHa21LNXd5YjgteUFiU3ZoYlQwZkVjd1ZMZVBmN3dDVEtocTBVY0NHYmxINkxDTW1HQzczR08tc2tnZ0ZjR0ZCaUtFY2d3dm93a3JzQjRPNDlmUktwTnE0ejhEOWNET0ZyVHc5em9pRQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T06:06:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Massive state buying can’t reverse China’s stock slide, analysts warn",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTN5Ti1pRVBBdDZuWjYyZlN0ck5BZnNYalZYVXNlSDR4ZDJBeGtqOWtLdmJlVE1wSzBmTXIwaDFoclpCckRld0xSRXNSZzM0YTRkYzhRQzg1WWtXQ2RHNUREcWtKMER1RmNZbkphbkVCZUlCX204SFBCNTRNM1dhZzFhZnpnOEk4QTdtVi1lZXlNM1l4LTVKVXIwRTg2ZjljTVhCRXhDN3JTenhJNWtCVWJzNEhWWC1URW9mTDFUVm1lSkJ3blRJZmdFd9IBywFBVV95cUxPdVBFVXJrWFBKYXF4S3YtNFgzeWRESzFYSjF1SndnaHRPbm5HVUtJd1FZSl9ST0huVW1leGtRbDJ1TlBKYVM5UEJnOW51RHN5OVRSQmkxazgxTWV2V2ZRcGkzaVdFRFlhZGJ6d3UwX1pFNGFaWk1rbWhETkZXX3RxczkxQ3A4LURCUmVzSUxhU2M3VG1OUFhXWGo1cFlMbTRTeHhCQWdqMzRaaEdwemJoMWdoNkhTWEM5WGdRWExOZFJ1RE5zUnM4TFlFbw?oc=5",
+   "source": "South China Morning Post",
+   "published": "2026-10-28T06:00:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What to expect from Crocs’s (CROX) Q3 earnings",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWN2Q0NRYWNtVVFyN2hlNS05MTgtZ1QxWXpEM0IzemtZOXJQVnhGY0VkSlJfRVUtV0dld0VRNE9LdEJmZ3FzVHIzN2tYZnVpSURncjAtOTdMd3RLdVFqWW9pRzM2cmlfYWVrTFZncDBhWFNMNVhNQ0tFVU9hRmdnbDVQQU9SMGxJOHFFeUI2c1c2clFuODhqWWJ3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T05:58:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Danantara bids for stake in Indonesian stock exchange, bourse chief says",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREtvUnJXQVQyaEhIMkpxUmJoVW16YkxNMktZSW01NjZGT3Azdlh6XzI3M2pCUmUxY0RxdlZ5MzVXal92MjFQSGtVdWdqRjA0dUFSQWVaNFVmMjFFQVNTdngyOTdObzctaEtBT2FzeW4zR1N2akpKOHFZV3FlNjRzNmJiTHRSQk1jb2ZMOTBSTUdaSDctZTRTZFVpV1FlR2NmcldzZ0ZNNnNKTHMzUlBIUGlxVExZcGdKTFB3?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-28T05:57:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Equinor to commence fourth tranche of the 2026 share buy-back programme",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHdGUWg3RnlUVWZPOVlrVE1Cd2dIc0VVcDRURWl4SDJGcDFjVTF4NmpqMnRTVkdpNWFNVmtMUG0wY084Zl9oSjgwWkw0QUlFaHVyU2tLRXVONTR2SEp3bUR4VzBIdHBLNEVwOVpQX2YwRVE3V3Y4eV80VjJDN09aYXNUSmQ3aWNTd0ZFQVdEWmsycDVUQVNuUWZKLVl0ajIxN0ZB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-28T05:47:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bell-ringing ceremony marks the stock market debut of Jio Platforms Limited",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0tmQmdBc3dGTmlpMWdJWUpzQzh6bkNmcC1zX1haNnJORkJRb3hhYmNzaFpuNHFDcHYzYkpKQ2xRMXpJT2ZnbFRyb1JrdjJUcUctSFlzcG10ZWpkSDR4Z3VYWTcxR2tNMjdsV1BQMHpHU21CUWpXczFPMVM4RkQ5WlQtX1lMYmlpRDlPa3RtNXYxMEFWOTlvbTJRblpWT2ctUmJRcnQwejVCZG02SHJzUnl6Vi1KWU5KdHRJc3J6eWx3VWl0NkU4TlRKQWM4V0pQSXVvR2VZUTg3S2lZcDJoV1V1R3Y?oc=5",
+   "source": "Facebook",
+   "published": "2026-10-28T05:46:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Anthropic's First-Half Revenue Rose 1,300%. Should You Buy the Stock When It Starts Trading?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNajJ3Q2pCbFhtOHFuOUNRYUFHV2Nvd3RpM1FnT0RuRnd3QlR5Q051azdZQlZuM3N6TU5DckRFVlBZU3M4TEFUaFBjdWdFVFRORk5fdlpjd1paNFFDNWxiYkVUUkMycTA1ZEFmOXNIM192YkFaTENfX1NCekF6cm9KcVVhRHdLaDdYU3I4RXlFSTZpT0lxVmRhQmVlVTI5LURwcFhCcExmWjBXZ2RPZ2ZGanQwT1B2VnN4YVcySDNvTGlJdmNYc3I5c3NWa04?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-28T05:43:00+00:00",
    "snippet": ""
   },
   {
    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDhLdDZxUjVza2w0ZHNnVkp2c0o0WkJ2TnEwOVZ4Z1J2R19zUldKZkJ5aFdScWVVeWFJOTUyMlFwalQ1Wm5zcFA0VHhSNG1URko3eEZEdUtwdzdDM3o5cnl2TDQtTHZnR2VXdTloZ0lLZU1CS0JuX0FBVU5TZ2VlXzBEd1FBSWxra1BVc3c5N2NTVGg4TU9IM0xBMzE1N0FtUGNpc2JtaEZLNjJUNVJMZnFSY3ptUlk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMF9TQTdubV9ORWY2WkQ3VjZqWjB2bktoZFVmbVZuUFYzY2FuMHo0WDVwN3hUbGliRF82V3YwWEFTNGNfQ1BCc2VuU1BzWWFVSU5vQlk1elZsODlJV29SaS1ZQWoyWE1kbmdIY3VfTmRMZVRVQTdDaFJfYzNDQ2V5RzRadEI2QVBhamd4a2VUQnRyM1ZPOU1fVVQ3UlNFOS1aVGFwYUhVUHpTcjJlT2h1OVVTdE85d1k?oc=5",
    "source": "Benzinga",
-   "published": "2026-10-27T06:04:37+00:00",
+   "published": "2026-10-28T05:36:20+00:00",
    "snippet": ""
   },
   {
-   "title": "Investors: Oct. 28 Will Be an Important Day for the Stock Market. Here's Why.",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdkNGx2a0lKckI1dXh4TG9yTmdyNUZ0TGlFR1VsYU9tRXZudHdCRlBHcDNpOUlQVUN5Nmx6LTFRdTkwMmEzVGEzZ0ZlTEJ6WktjMDEwZzdkRUlpRTZMQWZDTWc3WDF2T2RqNF9HYmRqQVMxZG5KSjEzVWFDLXlaOHJQbE1CODM0dnhuSEpEakxzN2gzNUFFdlNJTQ?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T05:50:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Investors: Oct. 28 Will Be an Important Day for the Stock Market. Here's Why.",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWg1YzBDSURBdkVvcHJSeFJWV2EyVzdOQ2k5N0FmbkhvWVlkOE04ZWo5c3M2ZFRVekgycmtNcnRneXN4akY4bW5ibFpTNU9KTGZoSDdFR2ZpcW5WNVNMNXpEQXlub0dmcFRCOVFkNWNtUFZ0Z0czS0VWeXlCQlVaMURqNW1Dbi16alFDTHI5MG9faVZLR3BJ?oc=5",
+   "title": "Is AI Overhyped? Apollo Economist Sees \"Zero Financial Payoff\" Beyond Tech Companies",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlhSWGxZQWI0Rk1naENGN1VnTnBNYnhxdHU1ZFJEVWdRa3dkeXVEdkVoZWctX0ZRQ2dhS1U0YWVGNVpFQUlOZDNQNGVNNnh6RTR2WXlIUWpUdzlfU0s4R1JBRmQ2bzVsZ3JhWDBwOTJDa2Q2SFFTWlNlemlUMktKY1F6VTQ5WE94WnhCR01Ibk9yb2xKWHc0?oc=5",
    "source": "The Motley Fool",
-   "published": "2026-10-27T05:41:23+00:00",
+   "published": "2026-10-28T05:30:24+00:00",
    "snippet": ""
   },
   {
-   "title": "Anthropic’s record US$2 trillion stock market listing highlights the growing risks for all of us",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3l1TDJrMTNHdEZENGRzUGdUdS1tOUJqcUpSdGpaY2tobF9FV3NBUnB5NmcxdXRqOFpkVUI3b0lUWGVXSy1QdDNmLUhkU05tdjhVWG15NE1ROUgxVlJVNWVrQm9yY1VOVV93SnRqcE5uZUV4VkI3c0lGcVlQTVg3UDNBb3BLeGJmZU9Ya25BN1Etc2NJOXhZcGdjSXA5bVMySnVldHBrMUlzS1JHMlo3MjJjaFRhUkJ2eXowcEhrc2NPdWlKZDI4a3p3?oc=5",
-   "source": "The Conversation",
-   "published": "2026-10-27T05:26:46+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Indonesia Announces New Measures to Improve Stock Market Transparency",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUhFM2hzczZ3MDZDY1F1Z3o4V0ZOdXZRTU9yUDZIS2dENGxaeDlBR1NNbVNSYmllMGxZQnl1WjRvcm1sdnZrSUVEdGFOaW5fbnMyWUdtczFhR19RTEg2NUI3QVhIdFhJeUxzV2dBSTlESFAxR20tMFJ0akR2QWhUWjhaOFYtbm5wUENnT0d3X0lRNWVEQk1MM21KWHdITUJJMmQ2cA?oc=5",
-   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "published": "2026-10-27T05:20:13+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Is a Stock Market Crash Coming? What History Says a $10,000 Investment in an S&P 500 ETF Could Be Worth at the End of 2027.",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEE1amsydWVwNFNoZ3Z2TkNFTG53Z0FNVHBxblZKY0xnMXpOeHptWnpTVldaRVBycXduWmQyQXRNWEtJeWRrMkp3ODdPQVVCRjJrS2FwcGIteUNfdG82QUZCS3Uzb0hJNjRBN2RKQlVaTmRicWhWTFprQTNwR2RYLVBwZGpZVC0wWklOM0RpLVFOeFJQVXk4U2pWZWtzSjA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T05:20:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Goldman Sachs names top EU construction stocks amid market headwinds",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2dTSlZMYzU2dHZKLVQ4cF9QQXNQLTVMUHpDZTJjcTJMbHpOQk01b3pCeTBOSkFkaXlUMFo0STl4N2VlSVVCZ0M0ZEtlQzRWbTNEWTNiYmtzZFJ4Y01HYXhZeTM5VjdDQ1RCdjh6cng4eVYzMzJzMGIzbHd6TVB3TW5HdXo5N0Z3SXVON3U2UExDU05Rc0E?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T05:20:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "UiPath (PATH) Stock Could Be A Bargain On A 73% Five Year Fall",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHNyeENBdzVtY2JDekNERDJyZFJKY3ZSQmJBdDN1My1YUXNFVVBZaUJOYXFsbUJPeWdxZF9PTTgtTndkR29lR2dzR3NPWkwtRldqVHlvNlUzZ2xNNkVJRUdtUDh3R04ySHdFZk5VME9UOEVQU1RCNU9wWkR2bURXOE42UHRoejZ4ZXl5Q2lETUtkUWpqSzBKLVlDVTc?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T05:11:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Top 3 Penny Stocks With Revenue Growth Up To 63%",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUUzTHhlNWd5LV83MklNRFBUUkpNa1h6cnV1NlpIeWhrT0t5c1JRa1hVd25QS1c3VE4xMXRlRlR3NnBsbkhLeEc3LWZ2VlQyU0xFc1ZHa1N1OVhZd0xoSjR2TE1oUjRHX3hocW9HUzhOaFBMNmR4Rng4VFlJRVFYZXY2TVAwc0lLeVhvNC15bkJ3WW5KeHc?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T05:11:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHVuQ18yUllVWC1KSDF1ME5QTzdhRy02YjVwSHU1d1Qtb2c1a3pfWld3ZXBXZUswVUIyYTVPa2JMNUxwWnJGVVVKNU1hMGtYMnJrVVYtR25QN1VtMXE4Tm8zU3BrR0ZIQmZ2S0NWV2RwRURJQkJfbHJ6bkV1TlY4MWNla2pmMXhPSFJaT2t0NWtlS2tSRDBGUXA3RFdwZWJ5LUREODNiTWc5VWM?oc=5",
-   "source": "Ya...",
-   "published": "2026-10-27T05:01:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHVZRnFMZ3RKdmREOW9PaTRrdURtSVJQN0NWcFhJcUFXYlNuVzNpajdYVVFPWjd2enJ6bmh5TUgtVWVXTTBvOWFVS0x5YXlmeWp1Z1NuaDJnM056RjRudXFuWVQ0bllKdGNsTFlEbV9ia18wZjVrZ0JuU1hkOHYtNHJqZThRRU9lWnhzS2dud3ZtWjJD?oc=5",
-   "source": "The Guardian",
-   "published": "2026-10-27T05:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-27T04:57:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5",
-   "source": "The Guardian",
-   "published": "2026-10-27T04:42:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Aker (OB:AKER) Stock Still Looks Undervalued Despite Its 118% Run",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0NZWEtHWmNiMkRTRGpqaXo3aTYzNm5OS09JTHUxWXU1Z3p4UlJGNkEyRDFMYWVDdmd5ZEt1ME9uUFdWeXBXaVZ3ZVotSWJDSUs4VEFiS1RWSC02UlptQkE0Z08zRkpkUWFFenZPUFlLTnZJaHhEeDBzeEZ2c0ZDOHB3ajEyQjNOSWN4S3Q0WHlqdUk?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-27T04:28:00+00:00",
+   "title": "Japan's Nidec likely to miss month-end deadline on audit, Nikkei says",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXVwQXRUSFhlSzFvd1hVSDJoSThvS0Jibjd1YWVSeHhhREFOQ0RROGoyalQ1bUtaT05UX3VjMXQ1cjZ6VlY5RGs3MHIyVWVqSVlhUTRMa0VQNEJwVWVnR2xWRXM2TjVpdWVINGpvNTRSNU95Q1RSaUNwOWQ1ZkFBN1pRR3Rkc0dWbTI5ZFNSWmE3ak9OZWNpRXpWck9vSUNUcFhmRXBqZ1ViZ0p1d25UZVBCZTlDYmp2ZFE?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-28T05:29:00+00:00",
    "snippet": ""
   }
  ]
