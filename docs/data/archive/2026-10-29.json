@@ -1,0 +1,250 @@
+{
+ "date": "2026-10-29",
+ "updated": "2026-10-29T07:27:30.765267+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 22812.0,
+   "change_pct": 0.94
+  },
+  {
+   "name": "Sensex",
+   "price": 73781.61,
+   "change_pct": 0.9
+  },
+  {
+   "name": "S&P 500",
+   "price": 7743.98,
+   "change_pct": -0.17
+  },
+  {
+   "name": "Nasdaq",
+   "price": 26549.85,
+   "change_pct": -0.57
+  },
+  {
+   "name": "USD/INR",
+   "price": 95.35,
+   "change_pct": 0.67
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4044.5,
+   "change_pct": 0.15
+  }
+ ],
+ "india": [
+  {
+   "title": "HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms",
+   "source": "Economic Times",
+   "published": "2026-10-29T07:14:36+00:00",
+   "snippet": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 crore. Jefferies, Nomura and JM Financial cu..."
+  },
+  {
+   "title": "Three Reasons Why Markets Are Rising: Sensex Jumps 600 Points, Nifty Hovers Around 22,850",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1l6QlN6SUJqM0FLV0M4MnlVWU9IYndGOG03emVPN0ZJXzRMTnI0SGg4Ymh4UHhpcnRyWmpDanp5VUIwSzhwSnhrYUtvYnlVYjk1czBqeFkzT2hEMVBZMllqcGxMWlUtQmFpQ3p4SGRMaW5WejN3MWNqRC1GaEpidUFKc3FiVU5TMXlhYlFqR3ZBaXBMYXRFVUNZMUdweUh0ZjNpcGV4N2ZoYVNMcU93LXdoQkVTOXdZLWpaWW5QSi1aMFQzRF84S2RWSdIB0wFBVV95cUxPcElqNUotVFRQdmJJMk9VeW1SaWVBaUU0UjVSeldWTS1RVjZISjF0NmFiVTR2a28zbmFSb1U5NDYzaDdaX3ducV90NkNRaFJHVmZ5dWlzU0dJNUx4WHdaeVN2Nk5TU3V5aDViNDIxYXVSQlhyOGk4b3F0OUhrSEp2V2lKNEJ1eHlCY3V6RFY3bUpQQnlOYXFrSUdyTEJzM1c0UlJIbjl6azFYREU4MHdyTWtwLVM1dVlweG50enNCVDJxQjJLcm1fcGtoV21RbFhVbG9z?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-10-29T07:09:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Indian bonds track US Treasuries higher amid oil-price relief",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-track-us-treasuries-higher-amid-oil-price-relief/articleshow/135294873.cms",
+   "source": "Economic Times",
+   "published": "2026-10-29T07:07:27+00:00",
+   "snippet": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the extent of the gains observed. The benchmark..."
+  },
+  {
+   "title": "Global Market: ECB rate decision in focus as Lagarde exit speculation grows",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-rate-decision-in-focus-as-lagarde-exit-speculation-grows/articleshow/135294625.cms",
+   "source": "Economic Times",
+   "published": "2026-10-29T07:03:47+00:00",
+   "snippet": "The European Central Bank is expected to hold interest rates steady as oil-driven inflation risks, rising French borrowing costs and uncertainty over President Christine Lagarde's future complicate the central bank's mon..."
+  },
+  {
+   "title": "Sensex Gains 608 Points, Nifty 50 Rises 163 Points as FMCG and PSU Banks Lead Gains",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONkpudDMyVGVYY0dmRDlpaUFZZVo0b1V3QVR1RjR2bEdrYnhDNDZ6U1FSSkd2anNVVzNpcWxEUUhBcE5LaTBuRWhNelFqMjVNMlVYUUM2amFPSDBoNG5pcGdVeEx1YlhMYkI1OEZJcjhwMUhWVVRDVUljRlBYWkFIWG92aUt6M0s1bzdLOFhOdmJkUW02aDNpSFdPemxEWjA3VjRyREdZZ2MzekV4dml5LXR1OE9PcWFybnpldFVOa2dUQUNfNFRFSzlyaw?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "published": "2026-10-29T07:00:18+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Hyundai Motor India shares gain 5% despite profit slump; Why brokerages remain bullish | Check target prices",
+   "link": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-gain-5-despite-profit-slump-why-brokerages-remain-bullish-check-target-prices-11793254220802.html",
+   "source": "Mint",
+   "published": "2026-10-29T06:58:03+00:00",
+   "snippet": "Hyundai Motor India shares rose over 5% after it reported record Q2 FY27 sales and revenue, despite a 23.9% drop in net profit as costs climbed. Three brokerages maintained Buy ratings, while analysts said the stock’s te..."
+  },
+  {
+   "title": "Fed Holds Rates, Signals Inflation Concerns As Sensex Rallies 650 Points",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUklJTXY3bWZrZ1Z5d1VPemtvczJYbHZNQkhiUWpaY0dEYzZsNDZWUXBSV1N2NmE1RG5xQXVHVUJBRE1aSHgwcExueUFpZWVHUVVrTndXSjRjaEdwckRuQzZsYU8wRGM0UG0xUVFvbXVac3czZWV4NTk3MjcybmlReHRMTWhVamdrZ19UMWprQUxSVDRpeXVheVU4RkpxY2VBMi14YmpEeXFWdHYtbUNyS9IBvgFBVV95cUxQbkxyMkpoZ2xMQUptbDBEeUVERE1RM05EbzJiaFFEOUpjeWRxVk5OUFVxVVFrNDF2RC1RZHR0XzdNeWJyMEVPRG1ValAwWmwya2NNTWtINWpWbElYQ3YtLWVzcDlROVFtbGk3VVJLa3FKNGM4N2NWLUpBVlhKczZ6S3Nab1Njd1JDb1pfaWRjNHdacXdYRFpZWDJBN0JuSG5GSFdVTDVQLVFNcGswdm1WbHVqdmUwMk8tYWFDWF9B?oc=5",
+   "source": "Outlook Business",
+   "published": "2026-10-29T06:56:11+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "STT hikes backfire? Zerodha's Nithin Kamath says traders are moving to ‘riskier options trades’",
+   "link": "https://www.livemint.com/market/stock-market-news/stt-hikes-backfire-zerodhas-nithin-kamath-says-traders-are-moving-to-riskier-options-trades-11793255134366.html",
+   "source": "Mint",
+   "published": "2026-10-29T06:51:58+00:00",
+   "snippet": "Zerodha's Nithin Kamath warned that higher securities transaction taxes and other curbs on futures and options trading may have pushed traders toward riskier behaviour. On Zerodha, about 50% of individual futures traders..."
+  },
+  {
+   "title": "Jupiter Wagons share price rises fourth session straight; jumps 9% today; here's why | Check target, rationale",
+   "link": "https://www.livemint.com/market/stock-market-news/jupiter-wagons-share-price-rises-fourth-session-straight-jumps-9-today-heres-why-check-target-rationale-11793254615637.html",
+   "source": "Mint",
+   "published": "2026-10-29T06:49:19+00:00",
+   "snippet": "Jupiter Wagons shares opened at ₹186.24 on NSE today, as compared to previous close of ₹181.05 on Wednesday."
+  },
+  {
+   "title": "India isn't out of the AI race as private equity investors see promise",
+   "link": "https://www.livemint.com/market/india-ai-investment-private-equity-public-market-opportunity-11793243733769.html",
+   "source": "Mint",
+   "published": "2026-10-29T06:47:56+00:00",
+   "snippet": "In its 19 October report, investment bank Goldman Sachs estimated that prospective IPOs over the next 2-5 years could add $50-$100 billion in incremental market capitalization to India's listed AI complex."
+  },
+  {
+   "title": "Jio's strong market debut boosts confidence in India's IPO pipeline",
+   "link": "https://www.business-standard.com/markets/ipo/jio-s-strong-market-debut-boosts-confidence-in-india-s-ipo-pipeline-126102900518_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-29T06:45:24+00:00",
+   "snippet": "With 113 companies cleared to list and another 115 having filed draft papers, Jio's debut could encourage large offerings from firms including PhonePe, Flipkart and Hindustan Coca-Cola Beverages"
+  },
+  {
+   "title": "NSE: Growth levers, easing regulatory pressure underpin Jefferies' buy call",
+   "link": "https://www.business-standard.com/markets/news/nse-growth-levers-easing-regulatory-pressure-underpin-jefferies-buy-call-126102900502_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-29T06:44:25+00:00",
+   "snippet": "Jefferies, which assigned a 'buy' call to NSE with a target price of ₹2,085, expects a 17 per cent upside from the last closing price of ₹1,770."
+  },
+  {
+   "title": "Vedanta Aluminium more than doubles profit; cost cuts in focus to drive earnings",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-more-than-doubles-profit-cost-cuts-in-focus-to-drive-earnings/articleshow/135294042.cms",
+   "source": "Economic Times",
+   "published": "2026-10-29T06:42:31+00:00",
+   "snippet": "Vedanta Aluminium’s September-quarter net profit more than doubled, while revenue rose 41% and EBITDA surged 83% year-on-year. The company expects higher production volumes and lower costs to support earnings despite dec..."
+  },
+  {
+   "title": "Aeroflex zooms 18% on huge volume, over 31 mn shares change hands",
+   "link": "https://www.business-standard.com/markets/news/aeroflex-zooms-18-on-huge-volume-over-31-mn-shares-change-hands-126102900503_1.html",
+   "source": "Business Standard",
+   "published": "2026-10-29T06:38:44+00:00",
+   "snippet": "Aeroflex Industries stock today: As many as 31 million shares representing 23.23 per cent of the company's total equity changed hands on the NSE and BSE on Thursday."
+  },
+  {
+   "title": "Sensex surges over 500 points, Nifty gains 150; IT, Media and Banking stocks lead rally",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdE9pWi1iOGdlLWtVNTRGWnJpSDRTX1M3WFZxbzVkM1oxek1Wd256cTBCWTlsNWFYTTVDUXRiQXpKeGhZOWtyWG53YTIyZHBNM3hhM3d0MVp2WXJyMzJBUFVyZUkxLTJCTjNvUW1wemRhazRqcDQ3Y3ZuLXE2RURtQXI5bHBiQWxOdHJPdG1rTTNheEktanJETUVlNXpCMkVBM0tXRXltQ2JYUlNFbUhtczB3Z0dmc0FTOGZIdQ?oc=5",
+   "source": "Punjab Newsline",
+   "published": "2026-10-29T06:38:09+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "History Says This Recession Indicator Is Almost Never Wrong. Here's What It's Saying Right Now.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzFVSF91elFvdFoxQzVSdXhfLW43alFnYjdodzFYOUNvQ2lpd0dJeXNEckR4dm1JN3lCVkhzVFAzY3FoQ0RwOC1fUmlWTURRYTd3Zmd1MmxGbHNsTU1YV2s0ejl3VktuX2duRmx2ZVdTbW1nX0ZYd1Y4Zy0yaTJzcHlQX2k1U3RmSjQ1M3U2UUVBOUxyd3hPdg?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-10-29T07:04:34+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Transaction in Own Shares",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2VLMHNBY1hISzFfaVdWV3prOUNZWEVGaHpRaEx0ZmV0UmhSMFdNWTkzdHA2SXZSdFpvVVU4cjJaYmpzX05jNHhoYWFiRUV3TGtYQWRzTlZfS29DRTFpSkREN0RHR3NzQVh2OVlsWmJLVy1vR0VDWVVWUmxYT2oyZFZfOGZ0NHNRekFlWkt0SzI?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Prysmian raises 2026 outlook again after record Q3 EBITDA beats estimates",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDVlUjZnaG4tRlJoSnkwcGFGemNzTGFLcHNacUhGMGhYanYyVWFsTkMtY3VDNzVKcTR4bUNMNHJEUmVjRDBfbXFTRVhWMGp3dmxzN2VuT0N5Y082Z2lLV2lfNk5jbTV4TjlXMXYtVzNuNUdmdm5ja2NFNjlFX2ZFemdFTTRicTNfdnQtdUp0U3NoaXRiX0U2OWxwZGtGckRD?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:52:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Chinese Insurers’ Profits Plunge as Stock Market Slides",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXpQNzFybDBmVHRDN0sxNFVnb28yOEtwZG9lWmtSMVJxMWloY2EwdzlPX0k3N3ZlZVl5aVZibXd4M0RqMUhmM0hZcXJUQmJVaENFSnNyWHBtaDdkMHlXYnZxSlRUSkZKTVFsdmNiUEtqaFdXRlZMOGRfdmNvdnE3UVNqNlRhclNZWFBlRGRva1JBOGkwX3lZLVg5ZTBTd3g4SVVBMF9STkl5dnBEd1E?oc=5",
+   "source": "Caixin Global",
+   "published": "2026-10-29T06:47:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "BSX Stock Looks To Snap 3-Week Winning Streak: Analysts Downgrade Boston Scientific As Cyberattack And Slowing Growth Cloud Outlook",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWhpRDhfRmYzeGVkNVhmdzZlTWNlUUlkd3BJYXJnbmRqMEtDZWdCREZRdTQ4NkdKVjlIQlVDMXRrS2pZVzd5ek43amR3Sk82czZQODZlSzc2RERFdUxkYkg3Zm9Sb04wWmdtR1luRUdVZnNWNGItTWZ3aW5fM1RqeEVuV2tDU0RDT3lsRGMwQkc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:41:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 US Consumer Stocks to Watch as Strong Spending Tests Household Budgets",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzd5UVhvdFBwSDRSaU1jNEJmQ3BRdEtDOU1GZHRlVF91aFVwRFVMWTFuWGJMZUxTQkFnbk1SUGluSkpySVlMUE9zMzVUb1VzYWdKUndpOTRlazdVN2lYakw3bFJBb21rNEFINUJ3alM0bnF6Ynp1X2NNeUF4LVFVTFdCY2ZyeWY5dnVCZnpyMHhUTDktNUE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:30:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Is Berkshire Hathaway (BRK.B) Cheap After Fresh AI Deal Interest?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3dNQmcyZGI1akpVUTVjVWVRcFVQeGpid0w0QXR2SHdtU2tqRWFaVFJsRWs4OXZxa2V4c1MtTEczUGtrYzl4emFvR0hveVdRb0xUMGRmV3NsdVFISWRScnk5ZWNIWnZiQ1NoNkNKSTFkdjJVVnNKNEhVQ18za0xrT0haQkZNX29JYTlOM2NzQjRYaDNNSEtWaW1PTQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:28:34+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Chugai Pharmaceutical (TSE:4519) Stock Price Trails Strong Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU19vLUtHWnAzT0RzVVJGU0s4blZ3ems2VDMzdzVCSGN3Z2JVY00yb3JuUENpbDRMUHJsS2w0Tl9GSXIyR2FuaXhZbWQ1WHVXZ1c3TV8xZUtQZGhCS0libzUzNWgwOHcwZjhsU0UzVlZ4amFsdDV4Tlp3XzUwTmowTGhJX1NVX2Q4VG90c3FuV1E4Z1BvTl9FajZsSElCejk0RFlz?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:28:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Zedge (ZDGE) Stock Fair Value Falls As Margin View Weakens On Traffic Risks",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3BWSDN4ZGc1clFhNWlDZjk4blpZNFoyUU4xbnRyaVlacHNNUGxRR0cwUnlqM2cwMFN2VkFQTGc5dXV4QXdZdVhNU3p4VnJZdFE2NV9FRDdncWlJRTRiMFpNUGpzQ29FbjJQN1RzVi1VNmpyM2JNMUVtUVd5NlB4aUN3LUROamFWNnJoR0s0U2h0M2RCcnc4?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:26:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Can Bread Financial (BFH) Stock Sustain Q3 Earnings Credit Progress?",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXlEYUVHZURVOGlqVE50cVVwbXJYRGJ4cnhpQWFFY2JjVnp3aGdJU29JQmU4ZlNsTXYzeVM0T1g2T3hvaGRIVEhhX0tmUVFPRlBnVk1vZVRBaThKbklGWWp5ZWRxOGtOamlaalRrLUpsaFo3NjR0QUY3UEFPMkVCWWl4LVZBd3JuMnpsQlhSQWg1aUdZa2NwQnBmRkJfem8?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:24:07+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Marathon Petroleum (MPC) Stock Looks Discounted On Its 7x Five Year Run",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXhYXzA3aE03YjU1dXo3dHdRVEhPVVJGRE5VRnJ5bXpqQW4zbEtCZUFuMDU5Z1U5elUxcVlqZXdIYTNQdkhPNnVPTEZZRXZRM0VqN1oyQl9KX3ljRmNyMjRQTGZjSzhfZm5lN1h1TmNXOFdKMlBaNUxIMElwbDNfcnl1MHhyanBCR052SVprYmlBNm5yclZrd1NjeDgyQ3ow?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:24:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Learn Why The Bull Case For Phillips 66 Stock Could Change Following Earnings Beat",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1J1QTI3RzF0MFBETGdFd2E1N0pXTmxHTU1QSUxJVXVQUzg2TnlsX2ZOWG1fell5TmFMb20zTW1PRkZSeXJYZEtoQ0ZMdExKVEI3WW5tVWRQblNrbFJRWUZfLVVMVEM0THVLRVMyYVF5TDMzdVZ2MnA3VzdBNHVZNTIyV2tFd1F6N0hwQ1RLUzJ6dVllN2ZBUQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:23:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Is Parker Hannifin (PH) Stock Reasonably Valued on Cash Flow?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnp4elFOMHl3aXByU1pYbDB6UlptcHVVRmdUVkxibWxWQUtQUEhYRzNNU1lfX1k2NlhiVDJvbmpaZlY4dDhraTBKMTN1M1hHeV9NWWpNb05ha09EaEh5clA0OEFCdXZBRV9oWUFnQnNCU09BLWFVT0hxSWp1TXRqOWRhNzF2SjdhdmVabjdYWEtlNV9IZG9yd3JxMnFQUzdxTmc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:22:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Asian shares wobble as Alphabet earnings miss drags Wall St futures lower",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjBPTkdNTS1MdFEwWlB0TjhJbHN6ZEw4VFZjd2FpMmd2YTA5alR0aDhZdzE1Qy03eUZWVU5ScWxEeE9EbmdsNXFka2pZZE0tU21BS2NZd0pIdlpiOWtUbUM5V1Nvak11TlRNZ3dvWXBnOTdPWTdTZU40UExKWHkxdWc3VWU1ZUk2S3owbF9lYjJEbThvSkEwM0pfYWZQYVYxb2c?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:19:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "2 Reasons I'd Buy Marvell Stock More Than 20% Below Its Record, and 1 Reason I'd Wait",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEo1ZW8wb3BhTkZPWXk4aHJKVDcybG1nQWVkNFR0bFBwc0JmSzJHaGJQc2J0aU11U0NFTDJBX18zNUJjbUFPWGVHb3RPOVcyZVRmOG1rdW0tanlSeDJycDRZbjF0Q0FORGlwd011WTV4UUNOcWdjYVhqRnpDaFNKbzBJaVBKVHFsMFAwMFByUjJOYWc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-29T06:16:02+00:00",
+   "snippet": ""
+  }
+ ]
+}
