@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-01",
+ "updated": "2026-11-01T07:50:04.507337+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 23053.1,
+   "change_pct": 1.32
+  },
+  {
+   "name": "Sensex",
+   "price": 74459.53,
+   "change_pct": 1.16
+  },
+  {
+   "name": "S&P 500",
+   "price": 7580.07,
+   "change_pct": -0.57
+  },
+  {
+   "name": "Nasdaq",
+   "price": 25437.0,
+   "change_pct": -2.0
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.95,
+   "change_pct": 0.01
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3898.9,
+   "change_pct": -4.31
+  }
+ ],
+ "india": [
+  {
+   "title": "Bonus share: Just single issue with record date this week: Pharma firm's free shares with 68% returns since IPO; ratio",
+   "link": "https://www.livemint.com/market/stock-market-news/bonus-share-just-single-issue-with-record-date-this-week-pharma-firms-free-shares-with-68-returns-since-ipo-ratio-11793517001201.html",
+   "source": "Mint",
+   "published": "2026-11-01T07:39:26+00:00",
+   "snippet": "Concord Biotech has set November 4 as the record date for its 1:1 bonus issue. Investors must hold shares by November 3 to qualify. The stock closed 1.25% higher at ₹1,245.30 on October 30, though it has fallen about 14...."
+  },
+  {
+   "title": "Nifty: Will November 2026 bring more returns or disappoint? What does history suggest? What 25 yrs of market data reveal",
+   "link": "https://www.livemint.com/market/nifty-will-november-2026-bring-more-returns-or-disappoint-what-does-history-suggest-what-25-yrs-of-market-data-reveal-11793512040411.html",
+   "source": "Mint",
+   "published": "2026-11-01T06:54:21+00:00",
+   "snippet": "November has historically been positive for several Indian market segments, particularly Bank Nifty and midcaps, while December has also been a strong month for the Nifty 50. Analysts see seasonal and festive support, bu..."
+  },
+  {
+   "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T06:52:22+00:00",
+   "snippet": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge de..."
+  },
+  {
+   "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T06:37:22+00:00",
+   "snippet": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors will track oil price movements, foreign in..."
+  },
+  {
+   "title": "FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T06:25:21+00:00",
+   "snippet": "Amidst rising economic fears, foreign portfolio investors withdrew Rs 34,843 crore from Indian equities in October. Although they had made significant contributions in July and August, outflows continued through Septembe..."
+  },
+  {
+   "title": "Private Equity Fund Gates Are Features, Not Bugs",
+   "link": "https://www.livemint.com/market/private-equity-fund-gates-are-features-not-bugs-11793512962906.html",
+   "source": "Mint",
+   "published": "2026-11-01T06:02:42+00:00",
+   "snippet": "The sound of fund gates slamming shut is never welcome. But when it comes to private equity, investors should be less surprised than with real estate or private credit. Still, Wednesday’s news that Partners Group Holding..."
+  },
+  {
+   "title": "Best 3 stocks to buy: SBI, Britannia, Biocon by Ganesh Dongre of Anand Rathi | Targets, stop-loss, stock market views",
+   "link": "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-sbi-britannia-biocon-by-ganesh-dongre-of-anand-rathi-targets-stop-loss-stock-market-views-11793467488582.html",
+   "source": "Mint",
+   "published": "2026-11-01T05:59:05+00:00",
+   "snippet": "Stock market outlook for next week: Ganesh Dongre of &nbsp;Anand Rathi believes a sustained weekly close of the Nifty 50 index above 23,200–23,400 would improve the near-term technical outlook"
+  },
+  {
+   "title": "Broader markets outperform; Ather Energy, Piramal Pharma, Laurus Labs surge over 20% each",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1RjX2RsbnplVG1MZENCd1FtTkZ5cHNIYkdTZE9ZRkhQYVA3UmtOeENjYUo5QzA3aEg5c2NYN3dLTGhGVkk3UnpYZUkxa2Q3NVl2clJmcHB3Y3ExSjFsYmZ4ZGpmVE1oVHMtQnlDWTlZOTBPM25XSnZTT1RaRVAwQ0JKaWJxX2RoNWRNNEJFakthZVVQNktySGxYRmJDVHVvRHYtS29KR05PSEVVNUcyelJ1bmk0N2owenpFT2kxMWp2VUZUbDBxZGhGak9FTFA5Q0VrbkhMcDBvZ25iMXZaRkh6Q084Rmt4ekHSAeoBQVVfeXFMUFdUY19kbG56ZVRtTGRDQndRbU5GeXBzSGJHU2RPWUZIUGFQN1JrTnhDY2FKOUMwN2hIOXNjWDd3S0xoRlZJN1J6WGVJMWtkNzVZdnJSZnBwd2NxMUoxbGJmeGRqZlRNaFRzLUJ5Q1k5WTkwTzNuV0p2U09UWkVQMENCSmlicV9kaDVkTTRCRWpLYWVVUDZLckhsWEZiQ1R1b0R2LUtvSkdOT0hFVTVHMnpSdW5pNDdqMHp6RU9pMTFqdlVGVGwwcWRoRmpPRUxQOUNFa25ITHAwb2duYjF2WkZIekNPOEZreHpB?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-01T05:58:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ITC Q2 Results Preview: Profit seen falling nearly 30% YoY as cigarette tax hikes bite",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-profit-seen-falling-nearly-30-yoy-as-cigarette-tax-hikes-bite/articleshow/135419165.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T05:57:43+00:00",
+   "snippet": "ITC is expected to report a weak Q2, with brokerages forecasting an 8% decline in cigarette volumes and a drop of up to 29% in cigarette operating profit following tax hikes. Nuvama expects consolidated revenue to fall 3..."
+  },
+  {
+   "title": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T05:55:57+00:00",
+   "snippet": "Nifty IT’s 18% October rally could signal a sustained leadership cycle, supported by improving momentum, a bullish RSI crossover and capital rotation from global AI stocks. Analyst Vatsal Bhuva sees the index targeting 3..."
+  },
+  {
+   "title": "IPO Calendar: Primary market cools after Jio frenzy, but 13 listings lined up",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T05:41:56+00:00",
+   "snippet": "India’s IPO market is set for a quiet week, with just one fresh issue worth Rs 56.68 crore opening for subscription and no mainboard launches. Vedant Poly Fabs will be the only new IPO, while 13 companies are expected to..."
+  },
+  {
+   "title": "Jio Platforms vs Bharti Airtel shares: Which telecom stock to buy after Reliance arm’s IPO listing? Experts suggestions",
+   "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-vs-bharti-airtel-shares-which-telecom-stock-to-buy-after-reliance-arm-s-ipo-listing-experts-suggestions-11793507858149.html",
+   "source": "Mint",
+   "published": "2026-11-01T05:33:17+00:00",
+   "snippet": "Jio Platforms’ strong market debut has intensified comparisons with Bharti Airtel. Experts view Jio as a higher-growth bet on 5G and digital services, but warn its valuation is demanding. Airtel offers stronger earnings..."
+  },
+  {
+   "title": "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-infosys-asian-paints-among-over-40-stocks-turning-ex-date-this-week/articleshow/135418410.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T05:04:32+00:00",
+   "snippet": "More than 40 companies have scheduled record dates for dividends, bonus issues, rights issues and stock splits during November 2–6, 2026. Major names include Infosys, Asian Paints, Coal India, Power Grid and Info Edge, w..."
+  },
+  {
+   "title": "Reliance shares: Buy, sell or hold after Q2 results 2026? RIL stock up 384% in 10 yrs! Brokerages advice to investors",
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors-11793504303710.html",
+   "source": "Mint",
+   "published": "2026-11-01T04:31:38+00:00",
+   "snippet": "Reliance Industries reported record second-quarter FY27 profit of ₹29,550 crore, up 33.8% year-on-year, as a strong recovery in its oil-to-chemicals business and growth in digital services offset weaker retail earnings...."
+  },
+  {
+   "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
+   "source": "Economic Times",
+   "published": "2026-11-01T03:53:11+00:00",
+   "snippet": "The Securities and Exchange Board of India (Sebi) has taken serious action against EKI Energy Services Ltd and its Managing Director due to financial misreporting. The regulatory body discovered that the company recogniz..."
+  }
+ ],
+ "usa": [
+  {
+   "title": "Why Israel, why now & the AI angle: The case for increasing exposure to the Tel Aviv stock exchange",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByMzZQX3ZJcFo3Y2JhWTJmM2NsbnF3TTloaEZMUExSVHlSbjZUaDFzMjdJUFJRLUhDa2Izbnhzd29KQkxia1lwMHRTRFRFZDBuU1kxQ18wVzJlYlBkc3RXUldMRU14cTFpa3E0TQ?oc=5",
+   "source": "The Jerusalem Post",
+   "published": "2026-11-01T07:42:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Douglas Dynamics (PLOW) reports Q3: everything you need to know ahead of earnings",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2taU2VBWkJKNFJ0Y0tEM1AtZG9VaENEWndvLWRkQWxPby1Ub1EwZ1BMVXRhdFNENnlNQUMzTVVob1R2SUp3TndLekdZQVVKb29kczM0b0NleFVxMmIxYkR1U0dZUmk2elJPczJjYWFVeXJ0azFLbUtQbHA1Z0JxTlhzbW4zZVIyM09uUm1rZ1NDRjgwcjh1Q3JNTkp0QQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:39:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Tilray Just Posted Record Quarterly Revenue of $257 Million. So Why Did Its Cannabis Sales Shrink?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzJLYktCbXdQbkNOOG0tR3F6aGd6azU1NXNqbGNQU2xRSEJBRDZTQnpWUmdYYU5QM0l1VTlISjAxYXoxZTllVDBDTDRoMC1xOEJWVkVjNWFqNHk0VWgxVFl1azVpVDlFOFJDVzdxVS1wa0g2eGhoa2pyU3p6T2ZYTXBFRE1STWJ5T21tTUdyZ2FKUzdXaVBDd3ZkeFlTbnRaM1E?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:20:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Advanced Energy (AEIS) reports Q3: everything you need to know ahead of earnings",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGtBZFh4OHQ5SWN2bUVmUEY1ZWx6bFBOQW95RTF3bmlIeTlnMDhWeUpnaDNjeFN6eXgyeTRGUzB0TldRYno4ME9YTDYxek1XQVFYRFhrR29EQ2VWZ1R0a1dVb041N2NuRElBMnQtRzM0Q2dqVkVaVWM2OGZWRUcwV3Y4dFl0U0ZuY2FtZEdHem1yWjBoeWhIa2FhMjg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:15:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "RealReal (REAL) Raised Guidance On Strong Q3 Results, Is The Stock Still Undervalued?",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmMxc0Q2WDJOdkUtSlJ2TnpucjZicHJ6ZGxuQS1pTndRMUVsdEJ2RVR1dGFsSk0xT3J6QlcxQWVmaDlkaVU4UGk4LVJ2TnQxRGphRWVwZzhTWGx0THh1Vlo5Z1dSanp5Z3U4aER1V3JKd0lNcDlHVHFOTW9DTXNSTGY5c083TS1YMncxbkR3MUNRcVFxZkxwTFdUWC0wUW1QQVRj?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:12:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Acadia Realty Trust (AKR) Stock Looks Reasonable With 31% Value Upside",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVp2RnBiWHJjM2V2R0dxSlY5STFuVUVEU0JfckNLandjZ3FJdUJMbU9xSDNGSkhCSGVCTk1LY0VhR2oxeUdGU2JiU2RCZG1Zdkh6WHRESk9ZemFVMHVKMHcwUlBiUTN6YVdWRlVFTlhVQWF0QWJHaTB5MG1WN01Zdm96bF85VzNWanhMYjNsUUstSkE5SnQ5dXJR?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:12:35+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Clas Ohlson (OM:CLAS B) Stock Looks Fully Priced On Stable Cash Flow",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHdHb3FMcUNuOUVKYnRZOEJRamJIOWlSdGV5MmhNOWVESDZ2WjJyR1NOVkFLUGFzS1c2ZzU0dlgycndZUTlIREhiZVFLU1NKWWdjS3NCUnpOUWJnZl9adUZjN0U1SGZMbHo5c0pVd2NFZnBFVVhUbDhqNXhJRmRYcGxiV0pzX2ZwcXBuUHR3NA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:12:01+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MasTec (MTZ) Stock Sees Modest Fair Value Cut After Analysts Trim Targets",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUURlbXF6SzEzZVdUUk4yR3BIb05PN2xueXk3SU1RWHN4aGUtbGhMUjByREtORzEyT3JIQzBZM25Eck5sQld3aEstWHI4d0JzTTYtU3ROZUZpZDdDMkJXRmNNUFFJZG5sOFZmLUJwb3pCYWJSR0ZrMF9wbW5rNS1waDBSMGFFSW56TzBBSC1rTmg0emhfMTlxQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:11:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Mohawk Industries (MHK) Stock Rallies On Q3 Earnings Margin Resilience",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFp6ZEpXSk16YlVqdzF6ZUhIN0M4ZVJQVkRmclM1SW96c1pqbURDWEN6VTU0aElMc1dTV1RkSWpiYkxVVTRYZ1R4V3VPaUxTQ2Z6Mjd2ZGktanpuOEFVc0xvUnV0YkNZakViT2MwSk91SGNmRS13WkhaQjh1LXNKSVE1S0Vra0h1ZUV3LVpZZTlaUTVwZ0doRUszNlBxalBzY1E?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:10:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Manhattan Associates (MANH) Q3 Earnings Lift Guidance As Cloud Growth Impresses",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHVub3FBNG5ET1dtN2NpMklFai1wb0swc3dxejFtTUdCazByMENhM3d3Wmk1clpOajhVTDlXNlh0SzFmZ2JpaUdIeUpnMGkweUhucFk5V014S0pFUk5CVmMzRkxVT2FFTy1iamcxaGFFWm9Ha2xMX2hSQ3Zqa3dQYnFpUnYtR0NtTGlqdEpEYXVwVnBCNzJGX3EtdnJRcWNLa1k2Vw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:10:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Nippon Yakin Kogyo (TSE:5480) Stock Can Q1 Earnings Revive Sentiment",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjVRV0NEei1uV3k3YlZ3UURBUkZsVzRnclY4TVZ5U0FxdnRLSXFGcGZMbk5wWTVoUmx1Znl6eDhxdVJUdXZ0bnRmckhEa0xmN1JmM1F1UlA2dTdxSk83WThUeFh4bVpyRmFDWWt2NzhFcjdzUVI1U1J3Sml6STJqb25QZjdIQkJEQUpuQXVFMDRHajJ0NmZV?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:09:57+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Rocket Companies (RKT) Stock Looks Overvalued Even After Strong Profitability",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcS1acUFHeHZiMjZfSUNoTXZXdU8tUUh4UklaczVVNHdhT2cxOFUxU3U4b1ljdUtjc2w2a0R1NkVGSm54WWtha2E1UWloMmM1TVJmSFlFLTNDbkVRUW9HcHI0Y2RQYW8yN1V5ZzExS2p3clBGM1hoVDhLZEVjazJoVmNTMFpJTk5manh5Y2ZWQ0pybk1zck9IbFExWnlLZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:09:28+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stellantis (BIT:STLAM) Entered The U.S. Micromobility Market With The 2027 Topolino",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTE0X0RqZXpGZkVkaE9BR1BYaFk4bGRzQUhsLUJER2p3RjJLRmZxZ0RoWlhKaURnZEM5eEliOGk1SnhOSFJnZkZBVmctUFJWREpCdU54TjdMRXR0U2ZYYk9GeG1OZE16OVA1SEQ1RkVSS2V2bm8xN21yVnVUdlNHUldKWDVqRjdQZjg3a05La3RMbExvbWYyUXRpbw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:08:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "CALB Group (SEHK:3931) Stock Price Sinks As Q3 Earnings Margin Questions Linger",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHkzRERuTXpvNnN4SnFPdy1FM1prOWlmd1Z0Y1VQQ0FjQjdoVjEtRWxhXzNidVlmRUxqZU5fLUJEMTd0R2QtTjBUZm9Lc3ZEci0ySWlBdnY1NWNXcFl1T0xKSlA0V3JDNTlzNDBTa3JFZno3LWR2WHhXSnpnNlA3NGs1bEJ1TGpNTHMxdVpzSk5UUm9BdUE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:08:28+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 Indian IT Stocks Better Placed for Tighter H 1B Rules",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnFWNDh5ZjJuLThCYzdGYTRDUDZiUGt6WGFQcFVXRDZxRy11RGM2dVVFaGNXMTVfenBrN1c2Wk5wQzNCU0tPM291Zl8yUGs5dXlKUnpvYkQzaGFMck4xUFVCMTJqbUp6bmlZZUlQdklzU3llMy1rSldoUlh6TkdiWmJ4VldxQVVGdEpRNGFUZEF6OVdUZGotS1ln?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-01T07:08:04+00:00",
+   "snippet": ""
+  }
+ ]
+}
