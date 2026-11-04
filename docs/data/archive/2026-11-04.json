@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-04",
+ "updated": "2026-11-04T07:45:50.274732+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 23850.05,
+   "change_pct": 3.98
+  },
+  {
+   "name": "Sensex",
+   "price": 76996.28,
+   "change_pct": 3.84
+  },
+  {
+   "name": "S&P 500",
+   "price": 7568.92,
+   "change_pct": -1.99
+  },
+  {
+   "name": "Nasdaq",
+   "price": 25372.01,
+   "change_pct": -4.18
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.84,
+   "change_pct": -0.39
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4036.1,
+   "change_pct": 3.52
+  }
+ ],
+ "india": [
+  {
+   "title": "Petronet LNG’s inventory boost is not enough to sustain earnings growth",
+   "link": "https://www.livemint.com/market/mark-to-market/petronet-lng-q2-earnings-growth-inventory-boost-11793772628043.html",
+   "source": "Mint",
+   "published": "2026-11-04T07:31:42+00:00",
+   "snippet": "Petronet LNG’s earnings beat estimates on higher volumes and inventory gains, but core profitability weakened. Delayed pipeline connectivity and volatile trading gains cloud the outlook."
+  },
+  {
+   "title": "BSE shares fall 2% today after 5% rally; Kotak initiates Buy on strong options business, eyes earnings...",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeEl3bDA4UGdVSWd3NnU1OW9tOUtDYUVpMlc3U3hhQWlzVzNSTGRfWkVUYnk2ZkdXOXY2XzlIQTkzQ3htWnZzSUNSbnpQS2xzSWJTNUZyQjJlMUxxQUtDQVNqODI5YVBhRllEWDA1UlRKWXl2ZGlqYldhMkhnZGxCRW95SXZfcHVSMDlkUkM0aXRNUGFIUmtvLXVVVnRmbHV4SWpONlg5OTNMVUctdTRjQ2pvOFNEVEdzZHJPLXMwN1puNjYyZ2VBbURmUGJURU05aUdqZFlPR3RXMmxLRHM3cS1oa3ZLTGU5cTFISkQ0d004Z3dEX19Oa2dsQzhwZU3SAYQCQVVfeXFMT045X3l2ZXd3MTcxSUN0aXo4N01HU0dmNmVGQzlNNGM2Szl0NUNUZWE1RW8wajRfQldLSWt3ekx3N3NPSGs1RFF1V2pOeGFHUDFVVndBU3NxS3dKOFNZRUtidFU3WEFaVUFUVEpTSXp4R2RBeXlBeVZyVHZETE9RQU9aMlNJdWwxSGlyTW9ONFd6Y25UMV9URmxsVjdDQWhpV2p6dzJHVXZVXy1Bd05RLUZUUnMtTlBUb3BmRlpYdHlBY1dKTGtnQ2hrdFJmQ2p5VWl0dkJkU1NtZmlBQmljcm1RcjE5dGJ6aE5YcFJlR0k1d01xaml2U0RicndEVzU1V3dDSEI?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-04T07:27:46+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Frozen Turkish Funds’ Blue-Chip Holdings Sold Off-Market",
+   "link": "https://www.livemint.com/market/frozen-turkish-funds-blue-chip-holdings-sold-offmarket-11793776847983.html",
+   "source": "Mint",
+   "published": "2026-11-04T07:20:47+00:00",
+   "snippet": "Banks overseeing Turkey’s fund liquidations sold about $254 million of blue-chip shares held by frozen funds off-market, in a move that could help remove an overhang on the country’s stock indexes."
+  },
+  {
+   "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
+   "source": "Economic Times",
+   "published": "2026-11-04T07:17:53+00:00",
+   "snippet": "South Korean and Taiwanese equities tumbled as a potential Democratic sweep in the US midterm elections fuelled concerns over tighter AI regulations and slower data centre investments. Chipmakers led the sell-off, draggi..."
+  },
+  {
+   "title": "'India's crypto market to broaden, smaller cities to aid growth'",
+   "link": "https://www.business-standard.com/markets/interviews/india-s-crypto-market-to-broaden-smaller-cities-to-aid-growth-nischal-shetty-founder-wazirx-126110400699_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-04T07:17:44+00:00",
+   "snippet": "Nischal Shetty, founder, WazirX said that for Bitcoin, $90,000 is a recovery reference and $100,000 remains a possible upside outcome if sustained spot buying and ETF demand continue."
+  },
+  {
+   "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
+   "source": "Economic Times",
+   "published": "2026-11-04T07:14:25+00:00",
+   "snippet": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD & CEO, shall take effect from the date of RBI approval or such other date as may be stipula..."
+  },
+  {
+   "title": "Small-cap stock under ₹50 SC Agrotech hits 5% upper circuit for 8th straight session; gives 160% returns in one year",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sc-agrotech-hits-5-upper-circuit-for-8th-straight-session-gives-160-returns-in-one-year-11793774492421.html",
+   "source": "Mint",
+   "published": "2026-11-04T07:13:00+00:00",
+   "snippet": "Small-cap stock under ₹50 has been hitting 5% upper circuit since 26 October 2026"
+  },
+  {
+   "title": "Bombay Coated & Special Steels may list at 10% premium, signals grey market",
+   "link": "https://www.business-standard.com/markets/news/bombay-coated-special-steels-may-list-at-10-premium-signals-grey-market-126110400698_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-04T07:10:56+00:00",
+   "snippet": "The issue, which opened for subscription on October 29 and closed on November 2, received a strong response from investors. It was subscribed 63.89 times overall."
+  },
+  {
+   "title": "Sensex Falls 134 Points, Nifty 50 Slips 39 Points; MidCap and SmallCap Indices Outperform",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR3pyWWFCNHhQYXpMcy0wN0Q5UjVFQVhiZHlWZ0FnQ2xaNEFvdllFNURrVFFOYUF3T1JqMXpCRUVYRlo0RzlFaDVHU1BHY2JmajVYTnBhMGRVV2NYdlVsZGs1ZlMzRnB6WkJyRVJmbjVqVUU3YXlwNEZnNmJzUklIeEc2aVFWRHlFNnFwNG5EUEQyRXdiNVJsbUNpVHRlYnU0dmxLN0ZzVlN0SUExNDZVenJIdmVGaURhVWZqVGstX2l5WG9vWFRaUDBqRFp2ajREbVE?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "published": "2026-11-04T07:08:59+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Adani Ports, Bosch, Divi's Labs, Marico, Welspun Living hit record highs",
+   "link": "https://www.business-standard.com/markets/news/adani-ports-bosch-divi-s-labs-marico-welspun-living-hit-record-highs-126110400669_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-04T07:03:35+00:00",
+   "snippet": "Indian Hotels Company, PVR Inox and Zydus Lifesciences from the BSE 500 index have hit their respective 52-week highs."
+  },
+  {
+   "title": "RBI forms financial markets consultative panel headed by Dy Guv Rohit Jain",
+   "link": "https://www.business-standard.com/markets/news/rbi-financial-markets-consultative-committee-rohit-jain-tccfm-126110400682_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-04T06:59:14+00:00",
+   "snippet": "The committee will engage market participants on policy, liquidity, resilience, infrastructure and operational issues across money, government securities, forex and derivative markets"
+  },
+  {
+   "title": "RBI forms markets panel with Citi, Morgan Stanley, SBI as members",
+   "link": "https://www.business-standard.com/markets/news/rbi-forms-markets-panel-with-citi-morgan-stanley-sbi-as-members-126110400636_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-04T06:56:04+00:00",
+   "snippet": "The committee will serve as a forum for discussions on money markets, government securities, foreign exchange markets, related derivatives and market infrastructure"
+  },
+  {
+   "title": "RBI forms markets panel with Citi, Morgan Stanley, SBI as members",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzRPb1FPREQzMU91RzVyVHdDWFltdnN2UTcyV3RyRU9rOGF0YW5yS0paZ1RhazFLQ2ZWeVF0cURzUm1ZeFRqUC1CeUZrRVpDOGY5dHhJOHlyU3NLbU9LYUlTU2VYTnFkcW93UXltVDdDZDR4MG5LSks2djc5LXVFSGJhcFVLcHVuOXdHNFJfbzBpdnJnVlZyaUJuQWd3dVN4VkVVU2dJUng5RTdCbGt4RDdDdlYtRncxeFhxclA5WVRZZ2gtNlhyZzRn0gHPAUFVX3lxTFAtSTBhbVBjelZ4Z19uTFJaUFMyZlRkNEZKckpfTm56OExOOVQ4bVF2NVh1bXM5MGFDTVRQWTBvY1VOQ1F2Yjhyb3JFWlpLVThzNlBSSGhhcTFpb0dqbFVoX0RucS1RVWhTejZic19zM0REaHlIejBlQmpBMzJYUWRfUVRWYjktTmtVZy1oVzY3SVBzUXpCcUxHMWJvLVp2c3hfVzM2cDhwOVVhdzVGZXRvUk51cUtJbUNJRlp5SF9qOTFzd083RmRIR3JfU2kzNA?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-04T06:56:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Awfis Space Solutions shares rally 13% on strong Q2 results | Check stock returns",
+   "link": "https://www.livemint.com/market/stock-market-news/awfis-space-solutions-shares-rally-13-on-strong-q2-results-check-stock-returns-11793772312307.html",
+   "source": "Mint",
+   "published": "2026-11-04T06:54:28+00:00",
+   "snippet": "Awfis Space shares opened at ₹257 apiece on NSE today, as compared to previous close of ₹241.20 on Tuesday, as compared to previous close of ₹275 on 4 November."
+  },
+  {
+   "title": "Super Micro stock soars: AI server boom drives record earnings",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/super-micro-stock-soars-ai-server-boom-drives-record-earnings/slideshow/135529517.cms",
+   "source": "Economic Times",
+   "published": "2026-11-04T06:50:29+00:00",
+   "snippet": "Super Micro shares jumped after record quarterly revenue and upbeat guidance highlighted strong demand for AI servers and data-centre infrastructure. While profitability improved, investors remain focused on cash flow, d..."
+  }
+ ],
+ "usa": [
+  {
+   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "source": "CNBC",
+   "published": "2026-11-04T07:27:48+00:00",
+   "snippet": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections."
+  },
+  {
+   "title": "China Boosts Market Defense With National Team Buying, Buybacks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtvb3lwUzJuQjFxNlFVeExIN0tHeUhtVjdldlV5aUUzc3R5R1A0QzFjTzBYdmh2RzF1VGZ2cVJrRnM0ZUpNM0hnNFgtLXBBSnFucm9SakY3LVhkMHBLb0R3dUFwZ2o3d1Q5empFNHVMbmNDNzBlQzIyNGJlY2dZTm9PcUVPcGdMdjdQUjdFNWFwbXZBVHN1Z0xzYjd5V2NLbndUWXd2MHY4Y0JXRHJyaUh2TQ?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-04T07:22:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Billionaire Stanley Druckenmiller Is Backing the Company Bringing Hyperliquid to Wall Street. Here's What It Means for Investors.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzkwOHd6dFN6VTZVY29ZNXQ2aWVxMV9CQ2hESVZlWVZvY1VqM2VIczlpOC1rU0kzTW11S1FNX1lDb2RGSVA5YXh1ajVmeDN2UFE1NVA4eFpHSmVfS3NKY1J2TksyU0V6UGhwcGZBaTBLMFpYRWYzbVFhOG9TQXFQOXhaNWRsNDYzeWJuTGllRTVUVE8xeDZfVGx0LUtsNXcxRWRHM1RVenRQTC1fQUhjQXhRUUM?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:20:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Rolls-Royce Shares Have Slowed Down. Is This a Buying Opportunity?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjJ2aGtfNlVfMzJRQndfNDByak1HS01fMGs3LUJJRThOenBDakYwNkRFYmFIakMxSlRma0tSa2sxNk93aHJUV3Z6bkRwQWhHcEhZYURteXFtcVdOQ0IyZlRKUkVnSHpyWHl6eXlYX2taUXczLWhxMjM1dXg3dnhmaHZmcVFPa2tORE5vN2FZMVM1MTQ3cnpSdklKT29ucW5YU0FqRE9CeFQyUQ?oc=5",
+   "source": "Morningstar",
+   "published": "2026-11-04T07:16:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Pershing Square Q3 Earnings Call Highlights",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFVZak5fM3lzMXdtV2ViMnF4cVhiNndBNlBwaDBud3RDZ2wycEZMMzhpbTA2WThKbzRObmVfZjhDSVhfaVhVSkRtOEZ1emlGeURxQUNoN1JvcUh2cjM1NUVMWkxzcmVjbW8zaWNqdzZFX1pKdnFmaWtPX29wb2lMUTY5emFHRG84UWJ6MUg1S2JEX3gtZ2hfT2pxZ1NiZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stocks, dollar slide as stunning victories for Democrats jolt AI bets",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHFuUEZ6N2U3M01ic0NsQWlyekdKaVJ1MVVtX185Ny1qRjNvekxZOUZxNERmZmVSQjNXUk5yNWxtbjdBYTYxcXN4Wnktc2lpenNzNXY4alNTNVBCQVpmSUdVTUlsVXhOYXNaSzhMQjJ4dHNKUDZKNVB2VTZIeWpianEwQW1URUQxNkgyVExqTjFsUkJ1Ny1kYU9YZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:11:08+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Investors May Respond To Broadridge Financial Solutions (BR) Earnings Beat",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2tFRWFVRTVucFZ3ZVZRbkpGYWRWLTVqeFhlZEZRaTZrTnV1UXpRNDBodm5vWjR2S0s3M3k4SC1uaTB2a3hBaWVCdHA2QkNobXRfdy1BTThVYnk2bXowMlFtaVctOUJrQVkzaWRmZTc5bncyV3BkeHNWUkNsdndkQTBOa2plRUphX3lMdW5CRnlHUkttWTNfRG5pVmhOMHphMFpsOUx5ckVhZjA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "LENZ Therapeutics (LENZ) Stock Fair Value Moves Lower As Analysts Split On VIZZ",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTNqRjByOXZMdHpLWG1RbkU3d1NmRkNYWGF2ZHppTHB0VFNtanlwdHc1dVFlb0hXdTlMXzg5aFpnaDJpbGxoXy1xMXpxYVBUV2lQT3MtcldacGJGXzByR0dzOGxSLTd2YzdzX2JiMFlzVlQ1WFloZzN3UkNxZHk3TVQwaHJPSU9DRlU0NmowMG05bUdWSW56SG1rLWsxZGc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why Capri Holdings Stock Popped 32% in October",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3h1eU8zeVJDTWVoQVQ4Z0JrTldHTWE0Q09JX3I3bDhPX3VxcndYa2c4R3RfUzFJaWpkQXJ5eHdLMjBjdldicDU2ZjZhWTVBSHM3YVZOZmp6UVFxSjBEdGxncmRvNHN6d0lOZFo3d2MyMTBTeEwyTW9yNFZGWFEtazg3cDZYMzhxdUR4dGhjcld6eHhxYkQ4VDJsNVI?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:05:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Europeans really don’t like to invest in stocks",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa29acGRQWkxqRWgySHlYTzRiX2IwNVRSdmRVM1c1a0UxLTh5NTF1VjNpc2RqejJvekpscHBDM2pSMWRjajdpeG5hOEdRWG9vNWpLR0RzQVBLU2lQejNzUmEtdzhSY2N4dHNVeEhZUjNuWGhaa1owdy15V0JNUHlHYTVxb1c?oc=5",
+   "source": "Klement on Investing",
+   "published": "2026-11-04T07:01:30+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - November 04",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlJNLTR5N3dEYW96VUJPR1lFa2FubjJGcXhERTh1Zzljc2tNRl9xeVFxb2tzNW9XNGZ4UkNtazRCNk53UTNoNmU2RGVRREpoS0pKaGlQbmtpejlZYkdISDdNOHR6d2F3aWtHZUlxSkFDNjhQbjVfSjluRWp1cklNcVZCb2xWaHFSRDl2V19zYkZVQWxESzNfSDlKS3djODdfMkNzdTlaczY3Sjkz?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Daily Stock Market Report (Wed 4th Nov 2026) - agenda",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3VUendvRWJwWkZhTDQxNXhDOEs3d3dUMXQwbUlLNnVaX1gxdkNKUlloQXBhSWlLaGdrSTMxamhqV3h4a0lFNm9oNEVTMlN2TjNkOVh3SGp0UXJaczY1bmtRQWlUWGVjWDBqX2dkaHZTVGNDWkhtRWlxMXZHdmFzWlRtQldEOUpJeGhRRERYZzlZWElZT3lIZjhn?oc=5",
+   "source": "Stockopedia",
+   "published": "2026-11-04T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Asia Markets Get Midterm Whiplash as Selloff Gives Way to Relief Rally",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlRYYzBIU3RjVTEwd1YwX1BWQmpsR1oyeVVLOFFZT1JVNDRJU0JPVFlZb1IyYWZnWGtCZ1Y5ZzNqSkMzbWM0NTYwU0dIbmx4V0xJandodEFGcjB0b3h0c0kwXzczVFE3R3NJdGV5OHlKeUpvTDI0dXhGZW5sTFRPZmw0dG9pRlpvMU8zTXNYTW9fTklJbmUwdXRRbnl5WWI5dTlYaQ?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-04T06:59:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Here's What a $10,000 Investment in UPS Stock Could Be Worth in 3 Years",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXpZb1VuT0JJb3ZrX21yQkgxWjdLRFY2eS12YUxwQWxGZnpFaU5JRkM0RXhkQjBmSXNFaF9Wa2luZ05USjRGbEZFc2M0TW1HdXViRGsxOHhycE9yYlRHeVlxSDNSQy1LdzZ5SUoyRzJ3UEpYY1dmN21PSjBRZENCQlUySWYzY3FFbGxFVHQwYmhPZTQ2eXlV?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T06:50:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stocks Slide With Dollar on Rising Blue-Wave Bets: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-04T06:45:00+00:00",
+   "snippet": ""
+  }
+ ]
+}
