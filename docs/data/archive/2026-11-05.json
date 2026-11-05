@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-05",
+ "updated": "2026-11-05T08:11:39.668409+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 24535.55,
+   "change_pct": 6.43
+  },
+  {
+   "name": "Sensex",
+   "price": 79135.29,
+   "change_pct": 6.28
+  },
+  {
+   "name": "S&P 500",
+   "price": 7688.62,
+   "change_pct": -0.71
+  },
+  {
+   "name": "Nasdaq",
+   "price": 25736.51,
+   "change_pct": -3.06
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.43,
+   "change_pct": -0.76
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4132.9,
+   "change_pct": 4.11
+  }
+ ],
+ "india": [
+  {
+   "title": "Sensex surges 1,644 points, Nifty advances 467 points in afternoon trade",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmNMVWxrOHl3TmlCamVLZU50Y3VhZWlrQU11bDFieDZOMWw5U2tfLXhpYndqMDB3VXJMUlNBVDFsSk1SWVQ1NVZfTHVfSWJKMDZ3bk55ZVpxMlZsd1ZyMkZTWkJfTWV5Rml5YnJTVkQ1YUtFdVlqMEdyMGxEbzlfcEcxdDFjT3Z5NWZZMi1VaWFTcVVRWENTUnBNMUE?oc=5",
+   "source": "News On AIR",
+   "published": "2026-11-05T08:03:23+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "India bonds climb in step with Treasuries as oil sinks",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms",
+   "source": "Economic Times",
+   "published": "2026-11-05T08:02:52+00:00",
+   "snippet": "Indian government bonds increased for the fourth consecutive session following a Democratic win in the US midterm elections. This victory led to a decline in crude oil prices, easing inflation concerns for India. The 10-..."
+  },
+  {
+   "title": "Biocon share price rises nearly 6% despite 52% dip in Q2 profit",
+   "link": "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-05T07:59:57+00:00",
+   "snippet": "Biocon reported a 52% dip in Q2 consolidated net profit at ₹41 crore, while revenue from operations grew by 2%. The stock recently hit a 52-week low of ₹318.40 on the NSE."
+  },
+  {
+   "title": "Nykaa's Q2 fails to impress Street despite 200% rise in PAT; stock falls 2%",
+   "link": "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-05T07:56:30+00:00",
+   "snippet": "Nykaa reported an over 200 per cent rise in consolidated net profit to about ₹101 crore in the second quarter ended September 30, 2026."
+  },
+  {
+   "title": "Why is OnEMI Tech stock rising today? Kissht parent firm's shares jump 7% after AUM milestone, ₹832 cr fundraise",
+   "link": "https://www.livemint.com/market/stock-market-news/why-is-onemi-tech-stock-rising-today-kissht-parent-firms-shares-jump-7-after-aum-milestone-rs-832-cr-fundraise-11793863799441.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:51:12+00:00",
+   "snippet": "Kissht parent OnEMI Technology Solutions shares rose 7.34% to ₹338.60 after the digital lender announced that assets under management had crossed ₹10,000 crore. The milestone followed a ₹832 crore fundraise through a pre..."
+  },
+  {
+   "title": "Sensex jumps 1,750 pts, Nifty above 24,450: Oil hitting 2-month low among key factors behind market rally",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeXpxWmdDbExLdF9pVXA4eWFnXy01NVdXN0VnMy14bHVsWXh5VFlKTlRra0Utcy1xaXg2dDZHVklWcFNvVmFmWkNjOTZITzZXei1lR1RKY1gzdlgtaE1hd05zalc3ekNqenFjSW50ekFyaEd0dFNGSzNQeDludGFHREc2cW51eEljYzRNZUFOZ0IzZEhjcGVWOExMcVZUZGFQWC01bjdidzg4ZDBWQzJtMC1YcFFhMDYzdTR0a1BNM2N2a3RpNDdCSnBJbnJrMlBxWE5JUmZkYWgtbDFXT3RHbENyc3BpVnk5ckdsSER6RlVnbnhaYWcyV0tyNNIBgAJBVV95cUxOTHNoZXFLSWJuUnpBYzBnaDhpOUx2eWQzTEsxc0hIcXZZcWMwTHNXaGNHSVJFbTZiWmZBc2FBLXZNa29RQ2pkMUJiUHFqUnR3N0I4TG9PN2FlWThPM29ncjRENkhMQ2YtWTN1cXVHZHAtNUFLNUNTcktWTUpxOXlQUTZZYUcxbnlub1F5d1A3Zjh5eWRLQ2VpOEdkbDdXaGxiV19vQ25RYnN3TGNCTVNlNy1GUUhoMG53T0tmbHVZVUZNMkZmYUdoc3pDbGxXd0dQSTgwNlJjdWNwN0c1ZUk1dFU1dUdmZnR5LUx5Tm5GdTFGN1Axc0czWmVTRlJKbHlN?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-05T07:44:44+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why is Sensex up 1,700 points? 3 reasons behind stock market rally today",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2U3U0lfVGYxQzBIYTBNNk1IbkxjdFpSVGh3Nm5ncVhFTjB2MUM2X2NUNEFFS2ktRlQtSVhEcVFud09ZUHI2dmhzdm9CX0lid0FYMTc3RmpxZS1ybWh4RjJ5NjB0cDUzVEJyQWVXM3JSdGZFY3o2dkYzT3I2aHRPY3JmWGFlMzNVSXVVT3JrVTFpZG1xLXBwdWJmcDM1cU5DdTJubm1HMWJOb3huNWRRMmdRaWlJazJHSFZVREJoN2gwQ2I0TVRQeVIxRHJzb0tId1F2TzhxeF9GZDl6eUgySF9ocjd4MVVaa0dQMjNLSlFmUEdUdThN0gH8AUFVX3lxTE5NZng4WWdJcTlKWTZSX1BkR2pPZXVMRjZCU0VZWS1kZ09CeDNWemtLWEh0X00tM0ZyVWg4YnB4bzRESnN2Y0FVUW1DR3ZvTnpyOWh0Z0ZqXzVnSVBmVmJmTGFNQmZmM3VMdjJDMDM5MzZ2b01PMHg2bGI3RXJMcmZMRjA1eElBRDF5dVE1ZDR1TGcxQU5ZcnZiMHBnYWV6c0kwdFg1T0JrUVlKTnUtQzB5R1dCNEp5M0tJS2VCdHdYX2FDLVVVaDl4R3VRR0xKcjRfa0dyODFUQjY1Ri0zZ0doNEt1TzM2S2sxTlY0WERkTmJYWmFLU29mUlh0Rg?oc=5",
+   "source": "India Today",
+   "published": "2026-11-05T07:42:05+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "HDFC Bank shares witness strong buying, rise 7% in 1 month. Can new CEO, improving fundamentals drive next leg of rally?",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-witness-strong-buying-rise-7-in-1-month-can-new-ceo-improving-fundamentals-drive-next-leg-of-rally-11793861115989.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:37:00+00:00",
+   "snippet": "HDFC Bank shares have rebounded recently but remain sharply lower year to date. Analysts see potential for further gains if the bank sustains its technical breakout and improves business performance.&nbsp;"
+  },
+  {
+   "title": "Sensex stocks Adani Ports, TechM at new highs; Eternal, ICICI Bk near peaks",
+   "link": "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-05T07:34:52+00:00",
+   "snippet": "In the past two weeks, the market price of Eternal, the parent firm of food-delivery marketplace Zomato and quick commerce platform Blinkit surged 18% on the BSE."
+  },
+  {
+   "title": "Worst Samvat in 15 years! Sensex, Nifty crash up to 8%: Can investors expect a bull run in Samvat 2083? What experts say",
+   "link": "https://www.livemint.com/market/worst-samvat-in-15-years-sensex-nifty-crash-up-to-8-can-investors-expect-a-bull-run-in-samvat-2083-what-experts-say-11793860986454.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:30:07+00:00",
+   "snippet": "Indian equities enter Samvat 2083 after their weakest Samvat performance in 15 years, with the Sensex and Nifty down nearly 8%. Analysts see earnings growth, more attractive valuations and resilient domestic investment a..."
+  },
+  {
+   "title": "Democrat Win, Oil Crash Ignite D-Street: Sensex Soars 1,676 Points, Nifty Nears 24,450 In 6 Straight Days O",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlN3VzRNeHJPczBQNmVqNnBYMU9vSG1uZGE0MjJGZHpjWjZXdzNINHV3MnFFSWtQRzVWVTY5dVpTeVhPWWFZOWVMX2VUU3hMRnlpMWRSYmJOdjNwaVZfSlZkS0llWEFYdUlYX3BWQTZxemR2TVRBcVBONkxJeXNWMnVVel85OWIwLWVPWjg3NE5CTHZlMUljRHAyT0RyelNrbFZ4ZElQNVhWd01MSjcyZ0VMVXFBamhqeEVKa1ZkOGFtakNadE5hNHZiM1R4LWt3MVhlYVhoR1VhVFk5djhFNjhsR0R3R21odmhPdXFXN3lGYVNPNWfSAfsBQVVfeXFMTl9sZTExNWw5Z1pJcjdMY1ByTmFUbE54UTN0eGRWZ2tqaTVsUlk0OHppRWdKMFFLcG4yd1F3bkVXODFEdU5qeWwycXNFejNfdFV1c2JWblo4QVcwS0NoTFdPaVhqNnZHWnFuV2c5M29lTFl4VXp3THI1Mk5WVndSMWNfdThDOThxN3hUa21odUsxWFNLd3RibGZmcVhXRlQycTFhejlibHBwdkpodkVrNTJmblNqTVBJeVZ1WnNDNi0yUVNxaWpocFN4UFY2LWlzNDRDOE9PNzhDdXlOenM5b29OdVlKQXpHdktOUV9HVEpSc0tKWTBRaTVic2M?oc=5",
+   "source": "News18",
+   "published": "2026-11-05T07:27:38+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Rajesh Power shares: Up 12% in one month! Will rally continue as order book expands 35% after ₹1629 crore mega order?",
+   "link": "https://www.livemint.com/market/stock-market-news/rajesh-power-shares-up-12-in-one-month-will-rally-continue-as-order-book-expands-35-after-rs-1629-crore-mega-order-11793862935569.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:27:13+00:00",
+   "snippet": "Rajesh Power’s order book has grown 35% to about ₹5,400 crore after securing a ₹1,628.74 crore Gujarat distribution-network contract, due for completion in 24 months. Shares recently rebounded, but analysts recommend wai..."
+  },
+  {
+   "title": "BSE vs NSE vs MCX vs IEX shares: Which exchange stock to buy after Q2 results for good returns? Experts' views",
+   "link": "https://www.livemint.com/market/stock-market-news/bse-vs-nse-vs-mcx-vs-iex-shares-which-exchange-stock-to-buy-after-q2-results-for-good-returns-experts-views-11793860967633.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:20:10+00:00",
+   "snippet": "BSE vs NSE vs MCX vs IEX shares: According to market experts, MCX emerged as the strongest performer in terms of revenue and profit growth, BSE also delivered robust earnings, supported by growth across its derivatives a..."
+  },
+  {
+   "title": "Diwali dhamaka! Multibagger stock to consider 1:10 stock split, 4:5 bonus, 100% dividend; record date, other details",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-dhamaka-multibagger-stock-declares-1-10-stock-split-4-5-bonus-shares-100-dividend-record-date-other-details-11793862848124.html",
+   "source": "Mint",
+   "published": "2026-11-05T07:16:34+00:00",
+   "snippet": "SC Agrotech shares rose 4.98% to a 52-week high and hit the BSE upper circuit as investors anticipated possible corporate actions. The board is scheduled to consider a share split, bonus issue, dividend of up to 100%, an..."
+  },
+  {
+   "title": "Sensex 1,600 points up; oil eases as US midterm results lift hope of Iran war's end | Business News",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2ZOQi1FeDBZeE1Ba2cwSzBMYzBTYWtPdE9ua1NxM1Y2dEhscWdfYmN0aFZOTzVPYkQ2MUlzVWd0aGJtUGI2eHRhZzRyT2lvd0VwanQ1U0hFbXlqU1o3MjlKcXQxVnk2QVo3R2t3Q2gzRnA3NGxkM09jeThxd0FmaWRTbFJNa21adUJITzJRMzBQcTFMWnY3Wl9FMXpaSDViQkpvZFBUREswRVFlaEVDQS1jaEpaQ1B1NzRQRUZIT0xSZEx4SXZfTE9IVmtqZkFjUVFoZElEVDVJd1lsSzZ0cTFRa3Y4OWljSUHSAe8BQVVfeXFMT0lGcS1zSE15RDQ1dXpERmlVNFVFR0hkY0JVemFQb2tGWlNiOEc4YmkwZHU1cXU5Zlg0TXNkZnFxU3RpXzFXMGxYYVJiOUlJN0VqMDBhN1RRUHZkUkY4QmhEQjRlanR0em5oSng3bS1saHZHS2d2WXBIVjQ1Sk44Y3ZqS3RFcEE3TFg3dXFVSVo0N2ZvT3ZhY0NuN0VyRnh5X241eU9MLXR5d0U3bGtGYmRNYUdCT0lnM3F3enpZcktvcGFiWldzLUltcEpPVDFacS1MZVhsZWY4bFUtZFkyVDRldW1ENklwNGI3R3drTVU?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-11-05T07:14:07+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "Asian shares are mixed after US midterm elections as AI-related stocks sink in Japan and South Korea",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd01GczY4dEJ4Q2lhY1ptT1FzQkUwS2N5OEExSGNTY25NRVhDQVNWcTJobXd0YUQ0MHg2VERFLWxiTmk4U1d5R1JmajdFUndhWUl3ckZaaTFxejJnTFFIUzBQTEh6MjAtTk5FNDJxenM3NXJWSV9IZkpISWVtRHJtOHFBZElIcnFVT3ptVmNsYmFsa19PcDdIVWt6cXA4R21LRjVxR0otT1ZSQm1SUUN1YlhPQjQ4Mm9YMTBwTEFzMl8zVFBZZkg3ODdaa0VnMHpxdmI0dWVfZ2tBT2FMbHYzQWVxYkRvc3dxS0k3NjVEb053Sm1mWThFN3ItN0lfb2FRUzQyZjBLOFBxcE5fNkVuWVNR?oc=5",
+   "source": "LancasterOnline",
+   "published": "2026-11-05T07:59:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Berkshire Hathaway's Stock Portfolio Is Worth About 3 Times What It Paid. The Gains Alone Equal About 19% of the Company.",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmxkMW4tQXR5X09YUWJIXy1QMFE2VTA1NjkyTEx0MTBmZHRhQUJiTzAxMnBBR0Q0dUhpNVB5VHBrWTJ3N0g2b3RvYkZybnlmM0IyYmpXMHlhNHZQLVM4b0VhOXhxYmNSaEZCRF83WVFiQXVjZDN6bWJQSE9MSFR3TE04akxPWWhzOWtGMC03bVlOei1qeFVWLTBVeVh4QjZFWmtNajNKWGpxZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:50:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AMC Stock Heads For Best Week Since July: CEO Adam Aron Claims ‘Triumph’ After Q3 Results– ‘We Can Finally Say AMC Has Recovered’",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWc4ZW1GTE5hZjFGRlJvaDZHb0dDWldqb1RscGFQRXRSdnN3TGdYbHV1VUR4M0ZWMXQxN3JWekd6azBHZHdadEhZVEtxVFRuOHBaSmpFeUlTMDRubmxnM2dya2lTR04ybEJ4Ynd1c0RkeVpfdERpU18weHBSUWJNazVFV3FiN3JiMTRSeUxEVWJINU1P?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:37:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "\"Memory Giants\" See Shares Plunge: How a U.S. Stock Analyst Navigates Adversity",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHNieC1tLUthMmlZd0psTlY5dkRHcWE0dVNfUDJNNTQ0YWljeUpuTVVkY3BYekR3RXp3Z19LMDVfMVg4RURYbXJzdWRhSERJRHUtZnRUc2c2UlNDUWgzTjRheGZLcHRQamZ1MC1SQV9iYWd1eXJScnBlaG16M3FyQ1Iyc3JtdEdlRzhuMGV6WE45clFQQTNOY080NmFmWFdKcXNj?oc=5",
+   "source": "Moomoo",
+   "published": "2026-11-05T07:32:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why SBA Communications Stock Is Up 5.8% And What's Next",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV05PellhbURtd1ZWbE9WWS1YN1B2Y091bUlyRGNTZ1dZeXJCVnE2ZExOeGJwRmUwcXlrRzItWmdvSElHSEMwekN5bTk3QnBrMzkxNmwtVWVxU1JvOHljNkx3ZWJqMDRvWl83clVubmpSaHRNLXJvdW5KUkxTSEtSLTdneXExTHYwRDg0QWYwd2ZiRUlsQ19XckpmTQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:23:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Unity (U) Stock Looks Pricey After New Game Financing Deal",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelN5Ri1zak9rdnZFeU1FanRhQU5kbVF0VTN0LUZHMUpxM1Q2N1ZTX2JMSzc5UjBBS1ZJSDY4blNDUG4ybnBYMEhObi01T193T2dpSUh0cUVnSXFSUDk4Y3BkWHZNRG9vX2tDSHlKWWFHMTZzb3RaeDFmZ0N3djh3a1p6Z2dqcnJLSExhMDZjcVZfUmlJRnc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:21:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "UK Stock Market Today: FTSE 100 Futures Hold Steady As Traders Await BoE Hike",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEEtZlFoQ3dYNEtVVl9ONTVpVEgyMUJnZng5bFBCSnZ5ZkhOdHdhSUlZQ2p3bzlvUXVFTWhOTkdvVkRHaF9GNERDbDUydHlmZkt0VEs3TmtGS20tcmJ4c1pScGp3UXFPM0pkUnVxVzZlZjBBLTRUWFc5Q0FNTEYxOUFMOG14MURhdFNpWERWRjllbXI1RUE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:18:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "NuScale Power (SMR) Stock Looks Undervalued As Book Value Sets The Tone",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1FUOXFocG9QcThMU0J2U2E3bzk1dmV2TDRQMVA0Rnk0ZG16YXp1TDZ6T0xzUFVSMG1BeTVaVEhIMy1BNVdEQUlySUhYcFBONTlTTGVsQnBIeDFuTmFvV1pUMkdlUVRtYU5MOGxaRWx4MUtaZjV1Yml5UWliY09SaHlUX29WdlU1T2xLQlhQX1BTMmtXM0NmOXVB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:18:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Top 3 AI Stocks To Watch In November 2026",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVFibmQzUDZ6TXhzdlVCSkxGYVV4d3VQLWhkbWJ1clUxa25BNGpXWDZEbjNaaEVOQkNjZWs0Si1ETHFJS29nbHZVTnFzYmg1S3hUcUd6dkJndDNBdlc1R3hzZWpScmxnQTFiaXRNLUZLRm1CQm1OOFNPUU80a2JlN3F3VjRHZTBpenNXTUJB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:18:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MARA Holdings (MARA) Stock Looks Above Fair Value After Its Pivot Plans",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEtMRUVVOXg2YU4zR3RESERGTWJqc2tnMC1UUHZ6SFMtQWhBVEhJX2tQLWpMLWEtdllVeWtUc3NiaXpPaUQzeTJsZlNESVIzeEhUTEdzVlg1RXFGMW14N3U0WWlsWTBTSmx3Ri10Y3lQbjFwODJDZVpycURyaGV3TXpHd2Zuem9FMkpoOE9qOHhCc3pTT2VzVml5TQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:16:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
+   "link": "https://www.marketwatch.com/story/most-investors-are-blind-to-the-possibility-of-a-market-crash-here-is-the-five-part-strategy-to-survive-one-a1762911?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-11-05T07:15:00+00:00",
+   "snippet": "Wall Street veteran Jared Dillian says the biggest problem is many investors these days have not lived through a major downturn. He’s got a portfolio that offers protection."
+  },
+  {
+   "title": "Qualcomm (QCOM) Stock Stays Hard To Call Despite Fresh 5G Network News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFh4M2huMXVDMFRPaE5SV2ZLSU8tWXVja3E5VXVnZlRzbV9VZWlOVTcyS1c4ZDc0amp6QjBteUw1bURMYXRyYzNkTkwwRS1rOV9iYzlNRnd5QzBzNmswNUhhcmVGWlZLT3B0NWFOQTJzRF9ia0UtSEgzazhaR1JRUmNVNGtCRG5DYUlUa3V1aHV0ZWY1YXlhMDVsYw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:15:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What International Money Express Holders Got Wrong Before The Slide",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDJla3pTaWM1RXlGRmtfYXRqTFRkd0ZTbUNfWE9nc2pYaE1TclpTcVZRVVFzZjBWeENfYk9EUjFKS0lsTnB3ejF1SEdycHpFbVBkX2VuRlFTSmo2NFo1dWZ1d0lvWW1iQ1hYNEJTeW93aWVIYTh5NUxlTmlBUFFQSjZ4YVJFeTVOVHNqaktHbTFUUUR2cTViaF9wYXZQN0l3dE1zWng1Zw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:13:14+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Trinity Capital Inc (TRIN) (Q3 2026) Earnings Call Highlights: Record NAV, 15. ...",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0RZejlncE53UXgwTkdta3FmQ0dWSWxwc0VCdTMtbHR6YjV6YzFTNjdrRWVhXzlIenRaOVJrcklpelVockxSa2lqaDN2d1h0YUM3b29CcnR0d2RmaGpvNUZvejkxMlVPa2xWckthS1d4STZ6MHlSdVhzeWRNcGtrWUJfTGZqOTRjQ2N3bGxCSFdCdEFJVDNB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:08:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Transaction in Own Shares",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3RXc29KRm1WNDVnekx2RzhEcWJtcnhlemZ6dm5rUV9RWVVOLTdSbmFhRS1lTWxtVEowQWdqWnhLTWplUHJ0d0pJaDUtX0ZKZzhNaXF5amZDcF9xWGdlWVVWMGVyVFhKVm1nVElXUURxUTRXZHdLMUswVnprVktFN19aSU1FblhIZ1VZUjZqYVg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-05T07:00:00+00:00",
+   "snippet": ""
+  }
+ ]
+}
