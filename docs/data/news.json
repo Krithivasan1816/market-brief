@@ -1,249 +1,249 @@
 {
- "date": "2026-11-06",
- "updated": "2026-11-06T08:15:33.290778+00:00",
+ "date": "2026-11-07",
+ "updated": "2026-11-07T07:32:11.604286+00:00",
  "quotes": [
   {
    "name": "Nifty 50",
-   "price": 24786.2,
-   "change_pct": 5.74
+   "price": 25030.35,
+   "change_pct": 6.78
   },
   {
    "name": "Sensex",
-   "price": 80140.57,
-   "change_pct": 5.88
+   "price": 81028.02,
+   "change_pct": 7.05
   },
   {
    "name": "S&P 500",
-   "price": 7353.73,
-   "change_pct": -4.75
+   "price": 7376.86,
+   "change_pct": -2.68
   },
   {
    "name": "Nasdaq",
-   "price": 24315.0,
-   "change_pct": -7.14
+   "price": 24579.42,
+   "change_pct": -3.37
   },
   {
    "name": "USD/INR",
-   "price": 94.0,
-   "change_pct": -0.96
+   "price": 93.91,
+   "change_pct": -1.05
   },
   {
    "name": "Gold (USD)",
-   "price": 4065.6,
-   "change_pct": 2.42
+   "price": 4074.9,
+   "change_pct": 2.65
   }
  ],
  "india": [
   {
-   "title": "HCC Q2 profit slumps 53% to Rs 22 crore",
-   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
-   "source": "Economic Times",
-   "published": "2026-11-06T08:10:34+00:00",
-   "snippet": "Hindustan Construction Company reported a decline in consolidated net profit for the September quarter of FY27. Income and expenses also saw a reduction in comparison to the previous year's figures. The company secured a..."
-  },
-  {
-   "title": "BSE Capital Goods index slips 4%; Thermax, Apar, Astral tank up to 20%",
-   "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-slips-4-thermax-apar-astral-tank-up-to-20-126110600832_1.html",
-   "source": "Business Standard",
-   "published": "2026-11-06T07:56:06+00:00",
-   "snippet": "At 12:24 PM on Friday, the BSE Capital Goods index was the top loser among sectoral indices down 3.3 per cent, while the BSE Sensex gained 0.84 per cent."
-  },
-  {
-   "title": "Titan shines 3% on Dhanteras 2026 after 2x profit; Noel Tata's exit news from board adds to spotlight - Outlook, target",
-   "link": "https://www.livemint.com/market/stock-market-news/titan-shines-3-on-dhanteras-2026-after-2x-profit-noel-tatas-exit-news-from-board-adds-to-spotlight-outlook-target-11793949103558.html",
-   "source": "Mint",
-   "published": "2026-11-06T07:53:47+00:00",
-   "snippet": "Titan shares rose over 3% after the company reported a more than twofold increase in Q2 FY27 net profit to ₹2,393 crore, supported by demand for studded jewellery. Revenue grew 23.54% to ₹20,337 crore.&nbsp;"
-  },
-  {
-   "title": "Diwali Muhurat Trading 2026, Samvat 2083: Date, timings, history, settlement rules, more - Top 10 things for investors",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-samvat-2083-date-timings-history-settlement-rules-more-top-10-things-for-investors-11793949250215.html",
-   "source": "Mint",
-   "published": "2026-11-06T07:32:31+00:00",
-   "snippet": "India’s exchanges will hold Diwali Muhurat Trading on Sunday, November 8, marking the start of Samvat 2083. The main equity session runs from 2:20 pm to 3:30 pm, with separate windows for pre-open orders, commodities, IP..."
-  },
-  {
-   "title": "Dhanteras gold, silver investments grow nearly 4X since 2005: Kotak Neo",
-   "link": "https://www.business-standard.com/markets/news/dhanteras-gold-silver-investments-grow-nearly-4x-since-2005-kotak-neo-126110600794_1.html",
-   "source": "Business Standard",
-   "published": "2026-11-06T07:24:33+00:00",
-   "snippet": "Over these 21 years, gold and silver have been through several market cycles, but a small and consistent annual purchase would still have accumulated meaningful value."
-  },
-  {
-   "title": "Rupee hits over 6-month high of 94.06 as US dollar softens post midterms",
-   "link": "https://www.business-standard.com/markets/news/rupee-hits-over-6-month-high-of-94-06-as-us-dollar-softens-post-midterms-126110600788_1.html",
-   "source": "Business Standard",
-   "published": "2026-11-06T07:21:59+00:00",
-   "snippet": "The domestic currency opened at 94.50 against the dollar, depreciating 9 paise from its previous close of 94.41 but later recovered to touch 94.06, as per Bloomberg data."
-  },
-  {
-   "title": "How US Midterm Election Results, AI sell-off impacted US stock market, Nikkei 225, Kospi, Taiwan and China; data details",
-   "link": "https://www.livemint.com/market/stock-market-news/how-us-midterm-election-results-ai-sell-off-impacted-us-stock-market-nikkei-225-kospi-taiwan-and-china-data-details-11793943446082.html",
-   "source": "Mint",
-   "published": "2026-11-06T07:15:56+00:00",
-   "snippet": "US Midterm Election Results: The sweeping victory of Democratic Party triggered massive sell-off in the AI and Semiconductor stocks in the global markets"
-  },
-  {
-   "title": "Gold, silver correction may fuel 15-35% rise by next Dhanteras: Analysts",
-   "link": "https://www.business-standard.com/markets/news/gold-silver-price-crash-offers-scope-for-15-35-gains-by-next-dhanteras-analysts-126110600774_1.html",
-   "source": "Business Standard",
-   "published": "2026-11-06T07:14:08+00:00",
-   "snippet": "Axis Direct has a more upbeat outlook of gold rising by 18 per cent by next Dhanteras, with target prices of ₹165,000-₹171,00."
-  },
-  {
-   "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
-   "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
-   "source": "Economic Times",
-   "published": "2026-11-06T07:04:25+00:00",
-   "snippet": "In early trading on Friday, the rupee slipped by 9 paise to reach 94.50 against the US dollar, driven by a robust dollar and surging crude oil prices. After a brief bounce-back, it peaked at 94.36. The domestic equity ma..."
-  },
-  {
-   "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-   "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-   "source": "Economic Times",
-   "published": "2026-11-06T07:03:11+00:00",
-   "snippet": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investor confidence. The be..."
-  },
-  {
-   "title": "A market meltdown in Asia, a Diwali party on Dalal Street",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2RCNzRzbmQ1ZGN1SGRVR24tNnNRNE1LY3E4TW5WalF0bENzbWxoUDctcTlMSS0xdXA5eFRpcGMzeXVTeHVmTm1XMjl5RW1vZW9ZdlRManllMTdZNjdwdDE1dWthZ1JYeWJPVVp0aExnWjBkZ2lnQkwtaFNEak5YRUJiR0JHby1FQkk2cTJPUnlVVmY5Vkl0N004RWxjSXJJSTlGeGFkckRKZkxLU1R3T01CWldvdElrSEtxUlZ0T3lqQk9qZGxTZmZGbUZ1V3hTalpteNIB2gFBVV95cUxNUUtkZG92ZGNHRkxTMFF6S0kxSldNYUh0SFpWZmNDa296Nm12SUpOM3Axd2RMeGtWTkhibjFma3BUT0RqUWRYVWw5NXJBVzV2S3NPOUVPVzVDb1d2NkNsMVJaOXk0OU9kc0Rpem1DZWw0NzNfcVR6NVQxUFhWNkhyaHJDdjVTTzlzNFhTaUFWRHBYTWF6ajZzYXVuTC1jUTJvVHFWYTN6MV9XcUltQ21uTHRBX2V3OVkxM2NTcUpndG1YWjZWRHRZWms4ampoWm9ZRmpjOE1IZU1Zdw?oc=5",
-   "source": "India Today",
-   "published": "2026-11-06T07:01:59+00:00",
+   "title": "Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUM3UTM1NXlvU3BSOTNYUFlSLTI0cXhZNGJVZVpkaEZVbksyZG96YVc2dFEweWltaDRnTy04MHFBel9ybVdTY0pCM1VvT214R1BnZERPWjAwTWJqNUg5TUF0SmlkMGdLMVBRYWs5T1NCeE5TdGdpTi1YWXR3VFBZV09zQlRTVW55UDVMVVFnUHRZeloyb28tTzk3VUplSV90Q2ZORWM2YWtCR20xd1hrVVJRSFpaa28?oc=5",
+   "source": "BW Businessworld",
+   "published": "2026-11-07T07:25:46+00:00",
    "snippet": ""
   },
   {
-   "title": "Midcap, smallcap stocks plunge up to 18% despite Sensex, Nifty gains; India VIX jumps 9%, market breadth...",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ1U0cDkzdk92aUZidjhkcUxzRWVLSWxsZi1sak5ZTXBWdmtmR1hQWk5taGhnVlNJajlRcElUeFJnQXFIbmNLZ0JYWWhCanFKODMyMC1MSDFpRmIxTW5BX291UkZVZHczUXhwSk82V1hYZDFLbWxaVVJ4WlFyWDV3YWt5ZjFVM01KQjdzcEVITGJrV2ZaQ0kzWG9scXR5Sng2emdtX1hWQk11bUs1Y2ExWWhkYVdTb0M4Q0ZpRXBmS1VfeGs1d1F0VnkwS1VsOFVYeGlnanRtbGxaUlh6ZnZoRnJmZlNzU0RPYTluUFJIRlZMdVVTRFJmQVRBMETSAYICQVVfeXFMUHpNdW9La2lPQmpNX1lXTGJoQmROdFJpZkppQTQtSGRoSVgyT1hGeFV0ZVBOVkNrMVhrQ0NJSklCV3JFRU9rMmEwLXVEUFlaUjkycFRrNjlFWlg3Wjl2TkZ6WDlzMk10SHo4Z1dGdGRkcG56SmNKVUNOVnI5LU03NlRCZ0M1eDAxbHgycVBHbGYyaE9qXzcwN2ZTUlJBYUJZelNPX0J2MkJHS1pqcktmZ3hncC01bkFGcWxicVR5SXFERkh3N0xJaEJvQlFxbjJscUtPTjZhWFFSSHkzcFFOQnYyTWNnUDEwMUlYOUJxd29hTUlVcFZpTFRNQ0haaXFfQTVn?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-11-06T06:59:18+00:00",
+   "title": "Rates Blow-Up Triggers Rush for Cash at Austrian Property Funds",
+   "link": "https://www.livemint.com/market/rates-blow-up-triggers-rush-for-cash-at-austrian-property-funds-11794035553993.html",
+   "source": "Mint",
+   "published": "2026-11-07T07:12:33+00:00",
+   "snippet": "The surge in global interest rates may be a tipping point for a handful of Austrian open-ended real estate funds that for years have defied one of Europe’s most troubled property markets."
+  },
+  {
+   "title": "Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVExHdkVaYnFELUx4UTJHV3hGSDhxaFM5ajBnak4xOWdSeU45R1drdTBTUWU1WXBzUGJjeVpEUGYxZlp6Z2FSNGxPaDh0Tmxzcm9CMFVXZmZ2V3hWTk5FbEQ4aEg0REswUmN5SHotNHdzM1dNaTJSZDRKcm5aWlVoMzJlTG1PUGd0TWphdGlZV0lJRUFkWWtzRXNGcjRWWmMzSEsxNkU4a3FMTU00UVZmbXNMZ05YZEpBRHljSktMalpMck1uVXY5elVWTFJ6dFNuWXJWTVNQRzR6aW1EYVRGdg?oc=5",
+   "source": "Mid-Day",
+   "published": "2026-11-07T07:10:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Dhanteras 2026: Gold price soars over 360%! ₹30,000 investment in gold 10 years ago is ₹1.41 lakh today",
-   "link": "https://www.livemint.com/market/commodities/dhanteras-2026-gold-price-soars-over-360-rs-30-000-investment-in-gold-10-years-ago-is-rs-1-41-lakh-today-11793945633056.html",
+   "title": "Muhurat trading 2026: Ganesh Dongre of Anand Rathi sees Sensex at 1,00,000 next Diwali? Shares 3 Samvat 2083 stock picks",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-ganesh-dongre-of-anand-rathi-sees-sensex-at-1-00-000-next-diwali-shares-3-samvat-2083-stock-picks-11794029018255.html",
    "source": "Mint",
-   "published": "2026-11-06T06:45:32+00:00",
-   "snippet": "Gold bought on Dhanteras 2016 rose 4.6 times by November 2026, despite periodic declines, outperforming international gold prices. Analysts recommend staggered purchases and a measured portfolio allocation."
+   "published": "2026-11-07T06:58:33+00:00",
+   "snippet": "Muhurat trading 2026: Ganesh Dongre of Anand Rathi has recommended three Samvat 2083 stock picks — Eternal, Reliance Industries and ICICI Bank"
   },
   {
-   "title": "M&M in top gear even as margin compression, weak tractor sales woes linger",
-   "link": "https://www.livemint.com/market/mark-to-market/mm-top-gear-margin-compression-weak-tractor-sales-woes-11793943490311.html",
-   "source": "Mint",
-   "published": "2026-11-06T06:42:59+00:00",
-   "snippet": "Reacting to its Q2 earnings announced on Thursday, the stock rallied 10% over the past two trading sessions."
-  },
-  {
-   "title": "Sensex Rises 450 Points, Nifty 50 Gains 0.32% as IT Shares Rally; Mid and Small-Caps Underperform",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmgyNjJiN1JmRFpqc2I5UzRDQmR6SXpHV3UzRUpkWEVybTd3dE5XdWFqcEdSeGNSMEphb1JrSTFERGRzVEoteklIX1JvYWdXUkFGR3RHZGVJNTBjMG1MNm5Vb0tpdXFWTXFld1NpWWhZTmxsR0pvakc1SVFJSXhBX0V0ejF6d2ZLX0tyTlJSanJlTUxlRWd0VlRKNXFrWjFCak1hSl9neC10clgyWHcta054aDJnTktfQThnT2dfd21FOTUxb1JhWHJ1Y0Z4ZFlleU5mWU9RZ1U1UQ?oc=5",
-   "source": "Dalal Street Investment Journal",
-   "published": "2026-11-06T06:41:24+00:00",
+   "title": "Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0VmVkx6bVhCc2k3WE00MFZyenlHUWxKUFM0WUFPM1BDRmNoMXJvMlNzdXc1TmhjLWRtS0pIZkVYVHBMRnY5MlNrRUgxUDJCbVBRTElSYkU1NFN0cF9qdlpBb21mcUphZ2xPeENYNi1aLXlHXzV4YV9YT2tsUHctRHRxOXR6VkhNQ25qNVdMUnMxTXFhWi1BMTVYY2gwZENyUTJ2Nm9OZjJDTzlDY0Q1NDFob1M4azRyeXc0X051Y29qd0Y0SGVSQm56bVc?oc=5",
+   "source": "Investment Guru India",
+   "published": "2026-11-07T06:54:39+00:00",
    "snippet": ""
+  },
+  {
+   "title": "Diwali Fireworks! Nifty surges over 8% in Nov 2-6 week, best in 6 yrs after US Midterm Election results; RIL soars 13%",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+   "source": "Mint",
+   "published": "2026-11-07T06:37:46+00:00",
+   "snippet": "Indian stocks surged for a seventh consecutive session, with the Nifty gaining 8.58% for its strongest weekly rise in about six years. Foreign investor inflows, easing crude prices, a stronger rupee and solid earnings su..."
+  },
+  {
+   "title": "Diwali 2026 wealth creators: 8 BSE 500 stocks shrug off market weakness, deliver up to 191% returns; do yo",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeEMwWTZfQ0hEOE9jUkdCUXVrYk52SUtlZkctZ21pWHVTa29HOXJVYkR1UUlENGpwS2JYa294MUFzQkU5Z2dtQ21CTHBFSVd5VnVMLXJvMDdpeVRRcU5PSGtnUzVQRWVybk1nWDl5Qk1iU2xRT2Z5LV9ScVgzV0k4blZSODlQdU9kM3M1c2w0MHZCZ1FoUTJuUlNDb2MxN1JCbHBfLTZnNXFMdENjR2JTTjV1X21ib0I3UDB2QmNOWUZiNkE5UzJZSXZKd2VRbjhSU0hqbi1yTzY1aFRkMWx0TlZ1WGV0NUxTTXpLWi05anNZRDlJTktnZE9LaVdkUV9HcnhJWHpYVWFIbm9IMjhiQWctONIBmAJBVV95cUxQZHZhMzJXUS00TEsyVzl5eVZiMUpkd0dZRWFRbUI3dEhWOGgxZzJxZnpQU0Y4eWY0OEJ5bWlBRndPT2dlVkZEWHZ3ZlRhTFBOVDdmMDFCVkZtQmF0cTRILWkzaWlzQTQzVURjVWVMaUxCOVpPeVdtbWpqemJaMXlUQUxYdjAxcEdIbFpUd2xWSV9xLUt6NGpwWlBvaEFpSWUxWkptc294aVE3UHRCaUxnR25udUluNFItdmw0STVjbXFCdnE2Y2M4eU5xMTd4c0xoMWgyZmV6U0E4b3Q2Z1FWUk1LOUdsWG5ucmgzc0JmdmtvLXA4ekdQLXdPaC1PN0ZEc19ZNzBBZWoway1vSXRoa1B3bWVvTm9v?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-11-07T06:23:42+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why is the stock market open this Sunday? Check Nifty, Sensex Diwali Muhurat session time",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONC1EMEl0SkxWLUliR1ZMME9hR0d2TUV5MTZndjZNT1FwWjZuMEFhaUNRaGU3R0FQc0FQZWYtdHhFYS1NZmVzdjg2VGZRZXRNcTZmWUdxLURHb2ZYUXpGa1JvOVVHRGtMQ20zZWZFTHdjX1lYX0lVOENKX2dtbHVzWDMyMVc3dFJSYmRTYksxeVBzLXhBMTh2TzRSQ0UwM3pRbEp0c0c0Qy1KNVNJdFJwc1k3S29JV3JHOUstX25RX2M2SUdqc1FOc1AxZDg1OF9PaWpQQWt6ONIB3AFBVV95cUxPekdNSmhYQXM2R1k4LWUyNzg2WkFNUU5xNy1PR002a3BjN09LQWxPaXBkV2VtRUV5Q3E0OGllRThSNmpXZkN2SlZkTmdkcl9ZUThRT19mdVZ1b0VseUI1V3hjYWI0MTFIa3YtTDNueFdQMkxUVll0eFBzWURnaldveVZFNXJkUXZsRGZNX2dNQWw1c19UZ096c3JzQ0N6WHRXSjVkRm5VUENIYS15ajZzOFV3MXBYWFRhY09WNjRDMXFBUDhnQTRTTEdaQ243MGVjbDF4bkl2YzdZcmlR?oc=5",
+   "source": "The Week",
+   "published": "2026-11-07T06:15:15+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+   "source": "Economic Times",
+   "published": "2026-11-07T06:01:15+00:00",
+   "snippet": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutiniz..."
+  },
+  {
+   "title": "F&O Talk: Nifty’s bullish structure intact after best week in 5 years; Sudeep Shah on HDFC Bank strategy,",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZ2c3NVZRaXc5cnRSWmZKckNoVWZZYkp2TG1ZV25YM2hZRUh2TzZGWGR3WVBVUjdnMGpDM0VYWElwVVRUcEV0X0hGZUYxZ1BOV1RDTWJqVVJqZVNNNXpESVNVT2lCTjZwcXdYNTJhcTZvcTJUWm16YWhQa2lMLWpOQnNxTzVfbFdIcXU4R0U2QkR5QWpYVWY2NXpRUjdON25qaUZhZVpodDBHbFRaNEd1TzcxeDBfTGJNRm5ITUo1UVc3QmpjOWxNUUZWdTRGVFdpQUgzV3J3QUhiakZ1dUR3TXhhc3JheTRoYXFnTkxKb0VLV2tRTThMYmxZWF80RlVWMTZfcUthNHp3WE11blprWk1PdW80LXdQTlFmR05YVF95Wlh4c0pLUHRlS2JuMXQxTVF30gG4AkFVX3lxTFBHbi11QXZQOW1uZF91YlZRdW8ta2hvZ0pxM1RBcG1oa0J6WGwyaGM1N2ZrSC1hOWVQV0g0N3NoRTV1NFpsanhFQWEzTmFXWDA3NjdPYk1KTG5pOWdnSEQ0ZXZnaTZhVmtSMFBzeG9CbDJGVWZhNnh4YUtJelAwN2JCUEhqbjg1V3l3d0x4T2lveGFjRmhYOFp1Z0Fmell3QjlKb1RoaU5yMnBoTUU3Y1M2NHJHcmZwVWZIS0d3akY5U2FRclJyNDRsM2pQNDdIamN2MXFIMUVmVVd6Ym9FN2hfRTk0RWFKNnFFOU5ZZTBRV3o0WVlSM1VJUUxPc2F1b1hSMG4xUjZQOG1RTkJ5Y1hJT0ZOUkJRR055bDJNUXdyZnVFNlZwZnFZTF9iYmozbXpMeGFPVU9NYw?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-11-07T05:55:30+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Market weekly wrap: SENSEX jumps 6,568 pts, NIFTY50 rallies 9% as FIIs return; top factors explained",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmhSWUxsZmJ6Y19vbDNFdHRadjAxcWdrYU9iMTRWTnBDR0FTR21tdVJXcTBFQ1JYWmpMTHY3VmdkVGNGVU1uMmFXbnkwT3FDMjN5TU1DODg4RHhWTER0bWVPOFB5eE1uSUZ2aVNzZXZqQ3p0Sk5TMWgxSFo3SnlEZFEtWEtkLUZ2bURLdGRkc29XWk5GSU5lTEsySTJHMENGdzFRZEZwRlc3ZkJqQkJSMDF4aXMtODZXV3F4Qm1tY2dhSmpXTGVXdHhOOTRWNDhWSFJQa05FbktvMUVyVUhONWt4VE1fR093cElSMHNB?oc=5",
+   "source": "Upstox",
+   "published": "2026-11-07T05:51:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "US Stock Market Crash: Nasdaq Plunges 3.4% Weekly",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWNDTEowbS1iNjdNZ0VYOUNwcU9SOXM5R1RKZVFRbjdHVVZqM1g5dC1aTlhSZjBJb1BxZl9TSTlVWDRfWktGQnJZUDRzWHd6ZElub2lZVWNiR2M4OEU2VzE1VDk0RDBXRGhtVHo3RUp4eUJkYXVkUXVEY1BQUE5rUVc5TGhYMzlGX0ZhYjYtUktKamVGTjFvd2FzRzFNSFBqSlBkUg?oc=5",
+   "source": "HDFC Sky",
+   "published": "2026-11-07T05:50:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex Soars 8.82%, Nifty Gains 8.58% in Best Week",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTMyUGpWS0Y4aFFwV0RNU01HRnZTdlBFZW9rcWYwT1Vod2lSVnpHeDZZbWtKWFZuMlJZblN5SHlUMWxpWnY1bnVmYk5XQW9ubEdSTnZzY016d1lOVl9rejdqcm9SdF9KTm54cjYwU3lpUWxDbC12VE1BR3J2emdRbnFJbVJoWGlsbTZiQWlkekdmWFRaQUo3ZkJnZFg5Y3NpTU96UW9XRFVDX0RydjNVVUpWNnZpYjFSRHljZG9kVFJwZTZMNk05ZW5B?oc=5",
+   "source": "HDFC Sky",
+   "published": "2026-11-07T05:48:51+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Hindalco shares jump 22% in a year: Should you buy or sell after Q2 results 2026? What brokerages say, price targets",
+   "link": "https://www.livemint.com/market/stock-market-news/hindalco-shares-jump-22-in-a-year-should-you-buy-or-sell-after-q2-results-2026-what-brokerages-say-price-targets-11794025738874.html",
+   "source": "Mint",
+   "published": "2026-11-07T05:44:22+00:00",
+   "snippet": "Hindalco reported a 58.8% year-on-year rise in Sept-quarter FY27 net profit to ₹7,533 cr, while EBITDA climbed 42% to ₹13,757 crore. Shares closed 1.88% higher. The company expects coal-related cost pressures to ease in..."
+  },
+  {
+   "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+   "source": "Economic Times",
+   "published": "2026-11-07T05:43:51+00:00",
+   "snippet": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth."
   }
  ],
  "usa": [
   {
-   "title": "November US Stock Market Outlook: How to Position Your Portfolio for the Remainder of 2026",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTBzVlJUNDJiazlQdkE4WVBCNVFGQ0w3YVZfak1VdUlyeFBoR1hfTk44dU53cDJoSkVnbURmM0ZJdkZTb21mVHNvWk5vR21RVW1kWDdGb2pOeGtLNVBpNVlZbGpaOEcxOEhBOXhSQ3NMcFVQUnBadEFYUkl0ZG1fVUcwV1FfWnJreDJLMDl4Z2FOMFBEUXUxT05zQ09YUjh0NXhEV3A2ek0xOWpSOWRXNVFIRVFuV1YwbWFVbA?oc=5",
-   "source": "Morningstar",
-   "published": "2026-11-06T07:35:45+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Global stock rout deepens as AI data centre fears fuel worst US chip sell-off since 2020",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1BNLTFsLTlOM3lTRFFFSE1Tc2gyRThDWVVibjVyUi1DYW5Rdl9fSThvZUYwX2UtNmZzc09RVDdxZm1pSjJkRDdmVGk1U1R1akpZM1Z2UHJLYm9vVTFIUFdjNmhJTzhCejdCV1hkbWhHQVd1czVNSlBtSlB0NXdENF9seFNyVGROeDNuMFJNTERyVXBLMTZuZA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-06T07:34:08+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Analysts rethink AppLovin stock price targets after earnings",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0puX1RYdS12VDNqNUIyV2NJRGNSWkZKWWgwSVRONnJtX3hURnRYZzJmY2h5ZVBvSjZISHh6SDd1ZVh1QWthb1p1cENnODJXY01kd0c0SXM2QTV2RUJRNlk2aWYyYWJqTEFnQVg3OXFLSkxSQm9ZS3V5c1RpMXprYlZVaWhvb1NSaWNoWURzWkpyT2d1M2J0VFl3ZnVjdDVuaEkzcg?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-06T07:27:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Nasdaq futures rise, Dow sinks after AI rout slams Wall St; payrolls in focus",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejlpWUc4VUFvcFM5UHNqNjFVR1phSkVfMVdfOEtnSEdXSmhQcndibElOb1pvQVplbm83MXNpSWhmY255cjN1TjVCOENBdmRtOEZVdW5lTVBrbnpqMHpXSk14M2VJSVJNYk5IVFpEVmpQbGNzMnVWbUkwVlhFcVRweFpsRVVHaTl3bGttQ2VMTDV5cWlELWN2UDBSdHhwRjFBU3ZkS3lGcUlqeG1rd0RKMkc3QkxsVTZwcWM5WVlITzloRG1YVFJZQ25yRQ?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-06T07:07:30+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "The Stock Market Loved the Election Results - Until It Didn’t",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNCRTFBU2tDRmdjY29NOVRrbTdZeFlWQ3E3WlQ1SnYzSUp6dXVGbWZoaWV1TG52TkNIYm81WGNfUk9ETVZlbnRjMjNzUTFucXJmZEt3VVk1VlZwbmNuSHA0OXVzZEl2QjZULUUzdUdQSG1mUEVfUFNpbmVPNi10UzlqNDhsSF9TZVF4QzBXbVJHcUN0Z183cnhNcHZrLVQzNHBnb1Fhaw?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-06T07:03:35+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Transaction in Own Shares",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGtYYTFMQU95dFpKRjlGR01pYm1HQnZCTS1TWlFENG11U0dFenFxdmt1OGU0VzlTRno0M3YwRzlOUzRvOGlhaGpGWDkxeDQ3MF9jTlA5bS0yYU5tRjllUjZESGtMeE9haWJJRVh1STkwdHFQLXJ2dlF5NU93NngxM2YtOUNkXzlDdUZ6d0o0Q0c?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-06T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Tech selloff wipes out hedge fund gains, prompting risk cuts and layoffs",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlRzQUpxeXE0WUdkVERWLW1QM1AxWDhXM1l3Vld6RG1ZQnZGLW56REV5U1JLREVGSExIQW4yTnE4OWI1QU5pVjgtVzZfUXZSaEEwekQxUWpPQ2hzX1ZKYjNlNnItSFBBNlBSTWpKSDBMTzZObTUyTlo3bmZFcW1HTmU3MkNlcEwxdEw5OENXaVNEN25KVloxYl9JTmptVjI3Ry1ZTGtWdU5xTjBvQnprbEFjYmZjdw?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-06T06:55:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Nasdaq Stock Market Correction: 3 Words From Warren Buffett To Remember RIght Now",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDNZX3M5QzdfMjFlUjRrcUFsTUcyRXVkbC1fUFRrWVNrMElyZ2Z1RzFvNXN4TGdTYjVQYmhnSG10eEVOakVicXJEcGpxR28yd011Mi1TWDQ1cmQxa3JmV3I2MEx0TU5ZYVdmV29XNmZpRFNLRUMzT2ZkSk9fR21PV3k5NGZPSGFCT0Nzck5YU0kzRFJ1MFBWVWQzS1dtQQ?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-06T06:27:02+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Trump Pins Stock Market Crash on Voters",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQWotU2dzNTNnaUlXMTdqWWViSEwxSWl2cE43TkNZZE5mRlBtQXZza3pNMm1nTXIzSno2cXhVY2VodWhoVVVDLVBmS0tEaFdSRFYxQzBJVVhUcUZPR0ZsRnoyU0ZGZk5waGZsQUxreEVWS3ZQRW00MHFqblBrdkVrTlpLUjYwZGM?oc=5",
-   "source": "Newser",
-   "published": "2026-11-06T06:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcm9mYXlXVWk3a1dseGdaWnltd2xTTVdBTV9sTlJIZE9sREkyVlZELW9vVWJoaUE3OWtlTkVVYUtCbWhwWTBxWFZUX0YtSjJsZEZMaHRFSjVveGhOUjM0VTZxdU53WjNTcEVabkI2OVJucl9xOUR6WTdfd3NDYTg1MGtPZlppQXNmbFVybTBJeUx6aE92MlAwQV9WbGtCcTVyY1BUYWEyN2NFOGpIV3g2bDBVYjdxVTQ?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-06T05:56:08+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Stocks tumble, erasing post-midterm gains as markets weigh future of AI build-out",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUpGQzkxVmNmRExmRDFCaThqUVpEeHRlaW9WaV9tYUJ0TFFPUEdtRllXUE1CNHpsRzdhdGJkNHh3M2RsX0hQLThEUm5WRnFzYXJ4VFF0S2dwVS1sWWI4Y3ptQlBQVzBLbGlwSXBSSEhvYWVTUXM0YldfY2luaDc0TURVUUE2aWZhdnFTc2Zlcm1pdXljRHdfb25ZaDJfZw?oc=5",
+   "title": "Tech stocks steady to end volatile week for markets",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTW13UV85bWhRYVptdDMyaWUwSkx6eElHVEluWE83eGdUOFlqMU53cmUtenF5akp0UUVFcXhVLV9rZHNZNHMxSUNjbm15bzZaSzNpajJfdG1VRnZsaC01eDBZcnVxejhUd2k5QVV1OE1lTjVOYTRDVVhWSEhZZXctSkVVeXQxekxTYkc0Uy1kVHZaZ0o4MTdVVFg5dDYtQmV1eXBDZVlBWXJRMnBLMjFIYzFn?oc=5",
    "source": "The Washington Post",
-   "published": "2026-11-06T05:32:15+00:00",
+   "published": "2026-11-07T06:45:22+00:00",
    "snippet": ""
   },
   {
-   "title": "Can Japan’s Stock Market Revival Survive the AI Rout?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTS0zcTdDYlpEbWVWd005ZUpQdDY3ajhFLVkxM09kNlA2ZksxOWFpemt4SVIzUFYyTFR3bFJmbW0yeWVhdzJ3WU9OWnZKQnpJRGliSHpGZFJqNG96LVZwQTQwd1B6MWVOY0duZm5kbHh6R3BpU1p1c19obkxMZm9Xc2d2cEJQQTMzdmVwM0FmVTFMa3BSQ3laQlViaGVnMm5XLTRsbUw2SW1QSERLYW8wRkJ6bGlFcGc?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-06T05:24:41+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "El-Erian Says Stock Market Is ‘Overdoing It’ On AI Fears: SNDK, MU, AMD, NBIS Hit Multi-Month Lows",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjZlMWlqLTdwYnhoaEo5c2JDNmZvVHZuNEJFUkpham1GZ3h1cWVfT3F0QVh0U2d2NXFBVzJpaXRVWlBPbnB1X2wzVk1BTU1vbFIyeldUVUxDMzhpRlptSURFUXd4MEN4MlRNNTBTSVBmcGdGMzV2MU41empIOGMzY1RDSTB3RVhYU1VQVk1sZjF5b0Jiay01YUJtRXQzN2NycFJlVmlhT3N2aUYzVlVIeF9TUm1Hak50TGtQWnBZZHY3ZnZjcFh3VG9SYm5JQ3BWMWhFSHpJczdVUQ?oc=5",
-   "source": "Stocktwits",
-   "published": "2026-11-06T05:22:30+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Why China Uses a ‘National Team’ to Influence Trading",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGZ4NFVYSllGdXQxUWhaT2g5VEpYSkUydFF4ZnVHelAtUkFRdXV6dF9zcVFxaEJMSUVJSFp4VDlOVlFYUFRFa1ZpR01SdVpfTG5INFRldXdPNHpzbXU5SndLbk5SMFBfb2ZIMGk4SGkwUzZmMWZKbExqZW81TW5Ob2xfNWk0RWNMSGEyMUc2bWVUa1I4UjFka1pfa3Y4bURpUWtWTC1ZbWhkRFF5SHRoc0lXZw?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-06T05:12:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "HKEX shares fall nearly 2% as Q3 profit slips amid slower market activity",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTE9UYlgyVFNxQ3gtZnc1RFpPV09feFRjM1E3OUJacm5EV2duTWtRcWhVX3k1bk5VZDlFbzRLUmJiS3Y1bHpIeHVhbXdKc3dJRXNDTFJvSThTZkM2X1pSMlBhbjBZdWdVNnRNSTRVV0x0RmlyaTRDSHZWY0lvT3RHNFMxNlIyS0M4S1hNa01rdmF0Tmtl?oc=5",
+   "title": "SSR Mining (TSX:SSRM) Could Be 31% Undervalued As Earnings And Guidance Land",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWTVQUG42eWExMi1tRHByY29wR1NFMW1Ta0M2Z0hvQ1cxT1JhT18tTkUxeE1rRFMtUEpyd29pRlFVNm1SQUxIdHd2R1ZCWHZoUmo0OXphZ0hLYmtKQ0d3b09yNVZLWndHWlFXV0Q5X2pPUmhyMGlBTm1ZLW8yQUhlS2ZxQVVzUzV0WkNwSGo0ajlvNkJZ?oc=5",
    "source": "Yahoo Finance",
-   "published": "2026-11-06T05:00:00+00:00",
+   "published": "2026-11-07T06:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "S&P Global (SPGI) Could Be 10% Below Fair Value Following Strong Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVZSellIY2RuUnExVUVOeDFlWUdFbE1PZGJSbFAxdm1NekdiWUxwMy11cUpRa2xCUG93NVhSQ0E2MWJZTVhtWFBUQl9Yc1lkS25VSDc4aHJYaXRXaHdKblFxUE1KZm1LN0pPTDN2MnlFcEFfNFJtX3R0cXNEUnZ1di11SHRwanoyZ2tlbUtONU8?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:13:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Harmonic (HLIT) Moved Today, What Is Behind The Attention?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0xmZjlGM3ZLT2xRbW05VzFYcmFzRkdPTTZ1YTBJNzdDT2hMdXg3dWg4c3Q1OG92S19LcHQwd0JLSWptY2o0OHhpMHlXSkQ4cFk1djZRVDI3VkFVdmdCNE1GRXVFZndjaWZ4Z2NIZ0prU1hCdGY1QVQ2YjVzSFpGamdURHluV2l0NEQ1UXF0ZFJ6NE9kVkpUM09lZ1h3Zw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:12:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What AbraSilver Resource Stock's Diablillos Development Progress Means For Shareholders",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTJsZXdNd2dvQUx3M0hJTHhuMWlwV1ZfNE9yOUJKbWZ3V09tbUVJRXNpbTNTakI0WHI1N3NWZEZpajF2THNNQXJpRUppTktCTm1wanJJeWFHWFJ0MnpYYWEybTdwRlFqX0VRSDhockdRN05jcGVuRUpkazJtWVZzem1xdzJPdk54WXlTSkVneVk0SFgxOHQ2TWFIVFNpYmxtQ1ZDaFdJbExEcXJMUGozTFhfSy0?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:11:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Is Genpact (G) Fairly Valued On Its Earnings Beat?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWxnSkZzanlCRm1lcXRYVmI3bEpJcEZSYnk0VFBkNVNFX3JwdnhSb3h1WlVLMHBPZE90SXR0MWZsdDZKSUlRakF4WjVDWW5HUUoxWC0wNkxHUTJIeFZaWkY1cnJmWlFWaTNIdUEyMDdfaHZJcUYySDU1YXNIOEl0aFVtRDdjb2doQzNJZnJ2SG1tampvaHd4SDl5b21ZQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:11:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "International Seaways (INSW) Stock Looks Undervalued Relative To Its Earnings",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3R2LXduekVTMWdWSjQ2aUdZNzlqUEJ1N0RuNWpEOUF0OFRFRWJQSFBCVjVBd3h4alFqVWJPNEk2ZzVoRkxwY2pNV19lb0dxSERYQTBqeXFlYzhESjZaWXBaNldIVkE0VGpKa1BuOUhVTkZmU2F0VF9Wc0ZZRF9PT0NDZHBUTEljc0FjUjFoVGx4bmZDOVZ2WUZpa3RvVFhVNWJGVE9R?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:10:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "United Parks & Resorts Stock In Focus After Mixed Earnings Report",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTB1Y2xWTWFhYXh2c1hFVHR6dHFfNHFCalA3bldGdmd4WTN4eGdhRUItWjJZc2loV2ZPeWVaempPTW0tNXppZnhlaFBwNUxQRkpIS0tidktjV1NnTmVjYk5fLU85MUFxNDNQaTJCckhNck5FeGd5Zkx2ZWE2SzRGR0x4Tm1fUTBSS1JHVTZjSGhwQVVoVWJuLXhXT3BoQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "General American Investors Company (GAM) Stock Could Be Cheap As Earnings Stay In Focus",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1Z6eGYzRzEwS1hRM0hiX0F4S0dwVFNoYUlXSGtHZUtDWEEtajdSTHpxUTBycjRRVHZzRmdaNlJCemZLWGd0QUNwUE9Qc2JCOGRzSjJIeEtVM0k2TmJvSU5ZTzQ0M0ljOS1oREt5ZHJzZTBZdGxwQ2RRbnpTcHB1VGNwQzNkQW5vbGl4bXM1a0Q3OURqTE1SbUtmTWhXZ21Fdl9LRjhB?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:04:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-07T06:01:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks — But Sells CRWV, AVGO, LLY",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUENMbkhuZXdXTHJRUkp3RTlCMEk5UXJxUlJGMnAzTHlLc2t0Z0ozNzdUZG82T0Frb3BUNGlVUFlGQmdOR0ZoVk1PaXJDdG1IbWNkWnNNbC1QSmVIeXVfbkQ0RERUM2ptTDBycmFCSWhXcTl2VjBmVjZKZ0JVWDA2QU40OHJxQl9hU1luRTBPSEY4S1Bu?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T06:00:20+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Mike McGlone Doubles Down On $10K Bitcoin Doom Call: 'Stock Bear Market Has Started'",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUNnSmhDbnBYYlpZZmJBTk9JX3JFSk5iWHpfWjN4ZjA5UHNtYndKNzBBSkVYWWYwQ3FQd2M4bTV1ZzFodUNwcWNrdWhUTXJmOWFuelVYLWV0cWZpSUZBMkVsNmVDbGtrZVJBNFpmTkt6SU1mejZqNFp4cURmYU1GZ3JyZWtKY1FiU3RkdmF6Y25UMTd0b0t1d09n?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T05:21:33+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "StepStone Group (STEP) Jumps On Earnings As Valuation Questions Still Hang Over The Stock",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWVRLUQzc3lNUVcxZjZ4Z1c5WUNUb1Q1Q1E3b05tRzhrWHBtUmY2NnhtR1NwVi1HU2FyYW5vaDg5RDJheWNEU0JoVGJjejRJNlJkNElFTGUzakhudVRDZVgyQkljTmx5M0VzNWVDWWd1al9DMHB0OV9uT2xTbWFNY0ZZZnQ0YXhjV29VUzk2NEl3QV9VQ1NWVjFkSThSNktuTXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T05:17:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The Call Jupiter Fund Management Bulls Got Right",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1dGUWtUZ0FFblJQS2NwdUJvcjBIT1pUYnhJcTZTUEtHOUhFTkI1V2xzTzFCVEtTTE81UG9kenlNVXo1YkE4UEJ0Um0xbmZ3Tko0QVJJVnRTZXpBS3h5Wm5XeUpFU2NYRnU2VFRDRVIwdlpoVkxMankxcEw4bWRQRUR3bzUxY1pwWEpqOU1SWURjbWZlM2twS3F0QldHazAt?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-07T05:14:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Wall Street’s all-in bet on AI blew up",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejNGdnBjLVFKeVJnMjBOVm02UzM0SjVPenAzZGJ3X0ZSTWJTMHd6OHp4ZWMyaEU5UzhmZjhYSGFjYjM4N3NQMDFqOHExcFAtSkhhRklWRzFTbTVnYXhUT0RaUTVNdkRNVGREQ2cwNmtPbUdXWFprcXVoZ2U0ZklBNnBFaVU?oc=5",
+   "source": "Financial Times",
+   "published": "2026-11-07T05:00:31+00:00",
    "snippet": ""
   }
  ]
