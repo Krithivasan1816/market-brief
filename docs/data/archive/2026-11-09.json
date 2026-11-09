@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-09",
+ "updated": "2026-11-09T08:23:37.609626+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 24942.6,
+   "change_pct": 4.75
+  },
+  {
+   "name": "Sensex",
+   "price": 80716.04,
+   "change_pct": 4.94
+  },
+  {
+   "name": "S&P 500",
+   "price": 7376.86,
+   "change_pct": -2.68
+  },
+  {
+   "name": "Nasdaq",
+   "price": 24579.42,
+   "change_pct": -3.37
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.08,
+   "change_pct": -0.68
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 4098.8,
+   "change_pct": 0.63
+  }
+ ],
+ "india": [
+  {
+   "title": "Muhurat Trading Winning Streak Breaks 3 Years Short of Decade",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOG9SdG1DdGhDQ2ZiaEN5VVVuemNSM1k1M2xoSzkwQ1pNRGEwYkN5RkhTTDBzVjN3WGxXVGZHdEZUZloxT3hMa1hVTWFlMnN6ZDZiQ1lFaGxfWENzdHljUTVSVHl6c280QlJVV2p2Qmd1V2hhb1NQUFVvaUI0ZGxMTnhCcWZpUzUzRDFzeDRnSmxURFVJdVMxNEdYY0dMY1nSAaQBQVVfeXFMTXViaGNWT1l1ZWU3RHhlUjdlYVB6NkVYNGNNSmttZFNrT25MejRMaXp3TDVSZFJfSWRiTFJwN2h3Q24wZ3NoQkZpbkc0SWtnU1NpMG5tMTBleVYwenhxbDBGclAzb0l5akdXbERIeWVMVGZqcVB0SXl1U1h6UjZSTHBaSVhhM3ZtMzJFQ0dTckZVRmxmZGN2WFRTNlpuUzJ1aThlaUc?oc=5",
+   "source": "TheWire.in",
+   "published": "2026-11-09T08:18:15+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
+   "source": "Economic Times",
+   "published": "2026-11-09T08:12:31+00:00",
+   "snippet": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity..."
+  },
+  {
+   "title": "Nifty’s 25,000 hurdle: Bulls see breakout, bears dig in for weekly expiry today",
+   "link": "https://www.livemint.com/market/stock-market-news/india-stock-markets-today-nifty-sense-levels-call-options-put-options-11794206566782.html",
+   "source": "Mint",
+   "published": "2026-11-09T08:08:56+00:00",
+   "snippet": "Nearly 9 of 13 percentage points gain since the 52-week low on 8 October came in the first week of November following the oil price decline after Democrats' victory in US midterm polls&nbsp;"
+  },
+  {
+   "title": "Muhurat Trading 2026 Close: Winning Streak Snaps",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjVxOFFvbTRVVDNSRm5SazdoY19aZmhCQk00OXZveDRMVzF6cldWSF9qVC14SGlmQjl4YTFiUHo1TDhJX3duVHRhU2VLOTZwMTBURGJxcUVNWUY3TTBudWd5Wk9yUUdJb1hnVkQwd0hwTDQ2V3RPb3lQNUIwckxqUDJMOFJaRlExUjhtT2NTZ19vUk12SGhPbjlDZldlc1d3U1Q1SlNqVjg3MDhncVFFbXEyRW4wZFdlaGYwOTBzY2VKWnVoUDZMNg?oc=5",
+   "source": "Univest",
+   "published": "2026-11-09T08:02:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among key factors behind market...",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYl8yMlVJN3ZmdzJya3BxRGExYndObFdMa3pIMnVkY1Y3MVFTNWd4MTIxRl9JYXlqcEE5b1paOVAzaDY4UTNzR1gtc2oySHlzU2RVVWRpc3A0LXNMbWc5dGRFS3lNamYxdW9VcDRDRzlpd09HTmswdDV1czhPeHhfYjFmdWlpR2dlRTI1M1BPVDlyeWRnV21uVWJlMnBTbU1RNXRfb0c5VTZ1ZWhUQUFEVmRqSHBQZGlYckhSSlZMbE9vWGhrbWtmR3dhSFhQZjNUQXhnWEx1c0I4VzFRbWF4WFEtOXdicGdiVDVqX0NDYl8wMFU0dHFQOGpqMzhQMmtFVGVrRFRn0gGLAkFVX3lxTE5hV2VVczdveFphWmNtbFYyMkJiT0MxOVBvQ2k4WTJRXzE4YjJFZHE5dldVWmZDNlV3R25nRTU0M2ktUU5QMDA1UzFvTW94Z1dKbnFUWGg1dmZGcEtjWEVzQzh2Z2t5bEhVTHlKdzF0WHV2d1NKTVJmRjBQSnc2MEllTlNDSkZNQ3dPdndGb21KTV9ETnB3R1ROa09oV24ybG8wR3ZoREUzZE5NY3Vnbm40UTlwY2VUZGIwbDF0NDJXWVg5UlEwR2dObUlCcWNQRXZ6SUlqQlRsVElyV0x4Tm94RUtyWjkwM2Zva2Qyb1NvYW1NckYwQ3RsTjdYZG1yOVlIWW9Wd3QxRnJlRQ?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-09T08:01:22+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
+   "link": "https://www.business-standard.com/markets/news/zee-entertainment-share-price-extends-gains-rises-11-in-2-days-as-board-to-mull-buyback-dividend-126110900445_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-09T07:51:54+00:00",
+   "snippet": "ZEEL settled with a bullish reversal candlestick pattern on its weekly charts, signalling a potential relief rally toward the 80 mark in the near term, show tech charts."
+  },
+  {
+   "title": "PVR Inox rises 3% to 52-wk high as Ramayana's box-office biz tops ₹500 cr",
+   "link": "https://www.business-standard.com/markets/news/pvr-inox-rises-3-to-52-wk-high-as-ramayana-s-box-office-biz-tops-500-cr-126110900453_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-09T07:49:35+00:00",
+   "snippet": "Notably, the Ranbir Kapoor-Sai Pallavi starrer 'Ramayana: Part One', which was released on November 5, today entered the ₹500 club, according to data provided by Sacnilk."
+  },
+  {
+   "title": "Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock?",
+   "link": "https://www.livemint.com/market/stock-market-news/why-sun-pharma-advanced-research-shares-surge-11-despite-weak-sentiments-on-d-street-whats-boosting-medical-stock-11794207169769.html",
+   "source": "Mint",
+   "published": "2026-11-09T07:40:58+00:00",
+   "snippet": "The pharma stock opened in green at ₹198.50 apiece on the NSE today, as compared to the previous close of ₹197.03 on Sunday's Muhurat Trading and touched an intraday high of ₹219.49 on 9 November."
+  },
+  {
+   "title": "Indian bonds drift with oil; inflation data in focus",
+   "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
+   "source": "Economic Times",
+   "published": "2026-11-09T07:33:21+00:00",
+   "snippet": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the United States and India on the horizon...."
+  },
+  {
+   "title": "Explained: Why Nvidia shares dropped 4% in overnight trade and what analysts warn can trigger a bloodbath?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
+   "source": "Economic Times",
+   "published": "2026-11-09T07:30:59+00:00",
+   "snippet": "Nvidia shares dropped over 4% after CEO Jensen Huang acknowledged an affair with Alice Huang. Jensen Huang's relationship with Alice, a Chinese national, raised security concerns following intelligence reports. Nvidia ha..."
+  },
+  {
+   "title": "Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, Infosys Top Drags",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-09T07:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "47% rally in one month! Infra stock under ₹100 inches close to 52-week high after announcement of Q2 Results 2026 date",
+   "link": "https://www.livemint.com/market/stock-market-news/47-rally-in-one-month-infra-stock-under-rs-100-inches-close-to-52-week-high-after-announcement-of-q2-results-2026-date-11794207997999.html",
+   "source": "Mint",
+   "published": "2026-11-09T07:10:10+00:00",
+   "snippet": "Highway Infrastructure shares rose nearly 1.18% in Monday’s intraday trade ahead of a board meeting scheduled for November 14. Directors will review half-year and quarterly results for the period ended September 30, 2026..."
+  },
+  {
+   "title": "HFCL shares locked in 5% lower circuit, down 21% in a month despite record Q2 profit: What lies ahead?",
+   "link": "https://www.livemint.com/market/stock-market-news/hfcl-shares-locked-in-5-lower-circuit-down-21-in-a-month-despite-record-q2-profit-what-lies-ahead-11794206445672.html",
+   "source": "Mint",
+   "published": "2026-11-09T07:02:11+00:00",
+   "snippet": "HFCL shares hit the 5% lower circuit despite record Q2 FY27 results, with net profit rising to ₹394.22 crore and revenue more than doubling. The company expects at least 80% FY27 revenue growth, backed by a ₹28,900 crore..."
+  },
+  {
+   "title": "Nifty close above 25,500 by November-end will trigger long-term buy signal: CLSA",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcXNuR2FjQVJjOEJfUVg1RlZ5akQxQU1CYXJHMGR6d3JFeHRGRi1iYTdDeElnMDBDYXc2Y2FKS0lLUDF2T294Wmw2UGdxNW5oeDg4bTRyN2pDeTZvSlh1aU1abVV0ZUg1LUhXMUVnNHNVYkEzODlHZlVuWF9hclNnckJOdGctZkRRWEFnSW5KdmpicEhiQWlMemxyak1Qc0RIQlh3UDZGVW5aNlF1VEJ5d2ZEUE8wQ19adzJPc0VIWHFCOTJqX0ZvbkFZM3Q4RTBmMDBUTnBiSTNzdXIzX1NMcndqOWduRldnejM1ZGQxWkhwRzVITlZRM9IB_gFBVV95cUxPcVpDTUlGNXI4bWs4MXFma3pTYUt6OTR6bWVyTzJEYlc5QlRESVlCUTdDZXFlU2xkUmoxd3dna1k0QmNwTHlEamZFajFVV1VDal9qT0FMazQwUnZKNUl5LU83T3ZaeThIRDVMakdzLUdBdUpqQVd6TFJ3WUZPcDVGdkN0LWRVRkpEbXVRb3lXRG1lcjJCZTh1azZEZkpyTjh2enpDYzNES0lUSlNTWjBza2ZURUFfcmx4b3ktdWNwRWo5cks4Sk91ZjlsbE5VVG5yVnFOeFRuX0xPYncwVS0xcFVJQVhBVENpLTB5NC1GZDNvYjBsbGVJNFE2VjVwZw?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-11-09T07:00:17+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Pharma shares shine: Sai, Gland, Divi's, Laurus, Glenmark surge up to 9%",
+   "link": "https://www.business-standard.com/markets/news/pharma-shares-shine-sai-gland-divi-s-laurus-glenmark-surge-up-to-9-126110900372_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-09T06:53:39+00:00",
+   "snippet": "Divi's Labs, Laurus Labs, Sai Life Sciences and Glenmark Pharma quoted at their respective record highs in Monday's trade."
+  }
+ ],
+ "usa": [
+  {
+   "title": "Is the AI trade over? Bernstein weighs in",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0dpWktleXV3bzZCMFBYX25KTlhQV2tYTEhwak5LbE1BZ3hTNW5UV3l4NWJhSHFBZ3N1RUszM3VUTkJuOWpjVzllaWJRT1RSWVZCYmVGUk5NaHJwUDZpbmNJLXd4UnpINVVmSEU3ZkJTWWtCU3ZjMVlocTZFSVFJOGpRTDJLbk42V3hvRmtvTEVoNTBSYWZFNEN3TEw3UQ?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T08:13:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Gold Chuffed, Stocks Stuffed",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiTERHVkE0OFczOGJZWGtSay1ZTDJIVE9oS3VtZHFxd3luTGJ4ODBfa2RuSlhiLXZUUHNtMnZfRW1Gc05JeVZscXVONlpaOU03TWtGSHlydmxaRjlxbGdDZE1tT0VkYl9sYU1ndkRwNTduWHNyTU12a2p3UWk?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T08:12:35+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AI rout set off market alarm signals. Here’s what traders are watching By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJkS1RQMGw5OTc0aXFmanBmZnlaa3FnVjVhMzhCZC1mTnBlRXdKZ2ZpWk5kQ1JoaV9pVjFPUHpXbVdvTVVCVElkQjFFOGFoRG9FblNhRmw5d0VNR0tJVE5TVHN4bFZMdDdtT3pjWGJxNm1sYU5XQnlId2FhZzc5S0NxQnljSElvNU1raHNaVUkyWF9VamFEdGVTYk1qLUxzUi16MUJDUHVqajRkLUFXM1FGLU5xZ21ibUloNg?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T08:10:26+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "European equities flatline as markets digest Nvidia board probe",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHFrRXVRUXUtcEk2ZFJEeGxtMDE2OWVnMTlKZ2NXdzZwdlZGbl8wVGp0SGVMMTVDV3ZUZGhTVEN0MXk1cnk4SmM3M1JYcnk1VjNyVzBvbmN0LUlWeVRrWm5wZ1g4NVpfcTRvdUFrRERKdVpFTEFpcnVEaG4zUWFJY0ZyYXh0cWpkZWVDY0k5V003UkJxcXVobGJ6X2NHVWtwVkhkY18yMXpfNmZjQTVqbmZ5emdhQUkzUHhvUQ?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T08:09:46+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Should You Avoid McDonald's Stock, Even Near a 4-Year Low?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE15a1dyalBDSW9VeHc4RXBYM0Z6SkNzZXVvQWZXOWtzVnJBMTkzVnlZX0xhYVotcFV6RFo4ZEFrWVdQVGwwTUpEQl8zTHBUbWxGaDdNQm8yRGk3b3NOTm9XTXNKeEpGY1ZrX2NLdXNmTlB3X2xXRm1UVFQ2Qy1DY1pyekZ6Y1RVNVUxTmxCLWdfb1c4TkRTQUpiTTU?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T08:05:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Rothschild Redburn upgrades Airbnb stock rating on growth momentum",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0VkMUduQ0xwRG1wbURvMHpTdjBpX09FQUhsd05JNjVXX0FMUV82WDM1TDJ3X2VfV0JwV2Rxa0VWSGZwSWFIeHBqLVhKZ19oNVlZaU1oU3ZnelR1TlBpaE4yZzM1Nm9aZG9LclZhLTFuN3pEWWhTak91S2VWc1ZaeGRZNWxpZmdCQ2lrUjZMUzRKMml4Wm0tX2FZT2dXTEJBZGlvNDBNOEhrTWg4SWt0SWxEMUJLZFA2Vkdhdnp1QkxIU2Vp?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T08:04:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "SpaceX Stock Fell to Its Lowest Level Since August After the Midterms. Is It Time to Buy?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa0ZnV1NYdXl4eVZGdnZoa3Y5YTJkNV83Z1c4dlVDQ2FZNTlRYkFfcUUteWVocm50eUx0bjhtZHhKeUNuUkFGeE95SUozRVBqOTNDazZNbjJDV2VoMFRnWTRKNmhOT2pwVDU3Ny1SamYycE5zcUxHTWhMc2ZlaUVpS0QwTl9HWDhCQkc5MmxMd3RfWmRrd0tlNA?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-09T08:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "GHM Q3 CY2026 deep dive: defense and space strength drive margin gains, backlog at record high",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnM0UzBCYWtIX2tWajNyQTFmNEZwZEJaQVRrekV3eVpiQmZpUTU1NmVYRnZWVlNMNEU0TEdYNzdONm9SMzNoM3VLLUlzc3ZXVTNHTndUNnNNMVdUQWxyckp1TnBVZlYtMEEtUXZKU2k0VU9VUFZUQjNVRXE3UXZ1VlZLWFFwdlpNa1hObk52TENpZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T07:57:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Retail Therapy: Defensive Bets Extend Streak, Trounce SPY, QQQ As EVgo, Helen Of Troy, Magnite Lead Weekly Consumer Gains",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmtWM3F2cWgwT1pLbXpZbXNDWkpnNlhncXBxZG1Yb1prWk1BRjJ1RkpLY3NJdWRfNGltVVd6RWdfSWxTMDhiU0hIZGdYeWVXTUI1dmRnb2l5YlVwUFlRazNWQmM2ZlNDVXVsdVppTHlnT3IxOEdYTHUxdi1CdzJnN1kzN2V2VGQ2QjV0LWVUdWtwVFBCQ3pJWTkwTzN5STdhV2lZ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T07:51:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Are Wall Street Analysts Bullish on MGM Resorts Stock?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHZjSFBVZmJMRV9kZnhSbF9vLUhJdjAxcW5oVVBYTTMtaHZfU3dxVF9EUXRnV04wdC10djJsQUQ4VXZpcjl2NlJuQ2FLMWZ5NVpsYlExclJjVGNHTGZKdlA0OE5UWWR5dXhmZnlzYkFPNzhCRjdaelpEUXVaUl9kdlNHVGVnMnN1dWpURzhSTmk5aEF6TXhBazJvX0JNdw?oc=5",
+   "source": "Barchart.com",
+   "published": "2026-11-09T07:50:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Corporate fundraising falls to multiyear low",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFpOMzg2VFdmOHdnZUowZVpZR3FidW5USDkzVGxYNEI2b2lJTW9UQnN4Nm4yU1ZRWHhKUUpNbk9VaGJBQzE2NHBOMGNQakR6NmJCWUlKTkNvU3NZRk9EUGVmajVmSWY3QmFGbTlZTGdlU0FLS2wtbVAtZG1XZ2pPem5aYW96UXZqdy0tS0tZVkF5dHZSOWtSa1pMVVkyQQ?oc=5",
+   "source": "Korea JoongAng Daily",
+   "published": "2026-11-09T07:50:20+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "BLNK Q3 2026 deep dive: profitability milestone but revenue headwinds prompt strategic shift",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEV5V1BUUlZHb0JYMUFjYUplaktsU1F3YldyWlJPXzBWV01WUm5OVW1UczZ6VlR2eFYyOHdxZFFuTGlWVFNfaDhrSjdDMGJZVHcxYjBRRnVYVV9sY3FMMHoyVDFVb2VUY1BScVpWSnZlekRIX2FvNnZMOUhBdWdKcEVHbUJGNjBnb1NlUVVWZ0E?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T07:49:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Japan stocks higher at close of trade; Nikkei 225 up 2.51%",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjg0MHRNYzVnVFNkMmp3X2IyTUdxSnpYOUhiSFhXNmh3S2ZLZ1p2TWM2QnVyLXdzVzIxbnVlMkdWbUhCWHZRTGtZRmp3djJEZ0RjVjBaYlpESkYtb3dEWkd2NWZ1blVUSjRiNlFPZGVyTnBTX0JLbjM5VmJ0bTF0MUZrQ2l6MVo5OVB0VFo5Vnp5RzVCN0xsRm5fSmhtTVNSX0V2M0hDdmU0U2hTWHhsUnN3?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-09T07:47:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Should You Avoid McDonald's Stock, Even Near a 4-Year Low?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkpwamQ4c1BxY25iOGVyNnhqZ0tZdjU5NW8zMGplQ2NRS184dllSNWxILThtZDJFZEhwcGJKTmIzS3A4X3c5MzkzSFI5c3duS3gybnhfSE5tMkJPLWI2eDExdi10SlZvLUFfbkFmNkVNa1I4UXdVQUxzaDZKYkpScDEyM0xWZ0pNRUNkMg?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-09T07:45:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "FLSmidth: Transactions under share buy-back programme",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEFqS3E3MW1iRXJHRXM5QkwyUGRSZHNaWmlPNUY1N0RHdm8yMFRsNWxUdVhDS25ydE1mMWl3b2k5Z3lheGgwMDRTZjdZbHNBQTliYllwSFdhRkVnVXhjRzVydU5aQ0V1c19Oa2FJNmdOY3JUVkF1WUhUMGRiZE1VTlpLWU9jY3A0d3ZQVnZsTkJaTWx4RHVIak5QVVlsRGNKd2VyNg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T07:45:00+00:00",
+   "snippet": ""
+  }
+ ]
+}
