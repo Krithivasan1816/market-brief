@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-15",
+ "updated": "2026-11-15T08:09:16.456723+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 25144.3,
+   "change_pct": 0.46
+  },
+  {
+   "name": "Sensex",
+   "price": 81592.45,
+   "change_pct": 0.7
+  },
+  {
+   "name": "S&P 500",
+   "price": 7561.67,
+   "change_pct": 2.51
+  },
+  {
+   "name": "Nasdaq",
+   "price": 25136.27,
+   "change_pct": 2.27
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.24,
+   "change_pct": 0.36
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3886.3,
+   "change_pct": -3.57
+  }
+ ],
+ "india": [
+  {
+   "title": "Stock Market Next Week, 5 Big Triggers That Could Decide Sensex And Nifty’s Next Move",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUtqcGZETkZCTlFsemZXd3gweXEyZjVWdWhfb1pSaXB6cEtGNW9iMmtlZDdrTW1KRU5MUmdRX2VsNTVfTnJxVnVFRGFoajJaRUFkeDMtRjdOSkxnUFBybTRaTG1kTTNhcllwUi1tdWg4Q1pwaElyS2t5NTlSLXJVY2hQTzYzOEhuWm8wQ2hMMU11cUxfb1RGTTN3OWtDalJaQ1NYNUlTNU1sNnQ5ckxFLVNMRkV3eFh3cUtTUVEyMFY1QdIBxwFBVV95cUxQelhoQWVNX1VHZWpBVGstLTQwUXc5eWVaNVZ5UDB3OFVOcDVqemlack90N3pTejdzbmtWM2ZZZkh4VWJMdDZhZ1RGTDhXT3QwSW9aYVp2dGVvV1l5UlBlakNlY1ZOSTA3QUxvdTNtTkVVcF9UM1BMZHNXeTlmYXZqV1czR0l6SFdWZWoySHQwZUFveDZwVkpnbnFYMXlGVDRoZ2xvWjZldUJUWjIxdjFjaHF0NHlWYlgwNmdsWGNmeVRmOWdGbFA0?oc=5",
+   "source": "Free Press Journal",
+   "published": "2026-11-15T07:20:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Market Reel 1",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wb2thZ0d3ZFJUOHc4U3Z1bnRXZ0kyemhBZUp0VmlqdnRkU0FRazZmVk8zbkZqekl6azlySEp2OTRWY2dsY190SVlnd1otVEVVR1Zla1BBQWhscktlU3NKc2IxaEVxTzTSAXRBVV95cUxPM3Z5MDNOdkNxeUlkb1FxcVlXNVpSeDNaSy1aeEkxV3dINzZ5S2ZTUG5IY29qakJJYUlqTFNlSUhiOEYta0pKMVBiOVZXWGdSQUdnMC1KazdWM3BBanJsZEMxWVBhRXhzdXJINDYwbjRveU41Wg?oc=5",
+   "source": "Fortune India",
+   "published": "2026-11-15T07:18:30+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ABB India shares 36% up in 2026: Time to buy? Rating upgrade boost and target price hike by Motilal Oswal - Details here",
+   "link": "https://www.livemint.com/market/stock-market-news/abb-india-shares-36-up-in-2026-time-to-buy-rating-upgrade-boost-and-target-price-hike-by-motilal-oswal-details-here-11794724492961.html",
+   "source": "Mint",
+   "published": "2026-11-15T07:09:36+00:00",
+   "snippet": "ABB India reported an 11% rise in September-quarter profit to ₹440 crore and a 19.4% rise in revenue to ₹3,738 crore. Record order inflows rose 56% to ₹4,733 crore. Motilal Oswal upgraded the stock to Buy and set a targe..."
+  },
+  {
+   "title": "Sebi plans AI guardrails for capital markets, focus on investor protection",
+   "link": "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-15T06:44:57+00:00",
+   "snippet": "Markets regulator Sebi will soon issue detailed guidelines for the responsible use of Artificial Intelligence (AI) in the capital markets, its chairman Tuhin Kanta Pandey said, emphasising the need to balance technologic..."
+  },
+  {
+   "title": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows",
+   "link": "https://www.business-standard.com/markets/cryptocurrency/crypto-s-slow-motion-selloff-leaves-investors-weary-as-bitcoin-nears-lows-126111500203_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-15T06:32:05+00:00",
+   "snippet": "The largest digital asset fell toward $62,000 in weekend trading, reaching its weakest level since July, extending a decline that has gathered pace in recent weeks"
+  },
+  {
+   "title": "FPIs pump ₹84,290 crore into equities in first fortnight of November",
+   "link": "https://www.business-standard.com/markets/news/fpis-pump-84-290-crore-into-equities-in-first-fortnight-of-november-126111500184_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-15T06:27:55+00:00",
+   "snippet": "Foreign investors made a strong comeback to Indian equities in the first fortnight of November, pumping in Rs 84,290 crore after two consecutive months of net outflows, amid a global AI sell-off, falling crude prices and..."
+  },
+  {
+   "title": "Tata Motors shares: 22% down in 2026, right time to buy famous auto stock? What brokerages say after loss narrows in Q2",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-motors-shares-22-down-in-2026-right-time-to-buy-famous-auto-stock-what-brokerages-say-after-loss-narrows-in-q2-11794720978958.html",
+   "source": "Mint",
+   "published": "2026-11-15T06:26:58+00:00",
+   "snippet": "Tata Motors PV reported a Q2 FY27 consolidated loss of ₹5,531 cr, including exceptional charges of ₹6,738 cr, even as revenue rose 34% and EBITDA margin improved. Brokerages are divided: Motilal Oswal maintained Sell wit..."
+  },
+  {
+   "title": "Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVEwwdmNaLXVweXN3SDRIUnA4UFZNTV9zWWRlcU5qcVVVVG5sU3Bnd1YycjE4NW53bjFaUzZmRFVmdkZ0dUp3UnpXX1RqRkJqZHpBakp2ZTlBSElra19jOGZpLUlvRVREQV83MXBCbFBRTzBZai1xMzA1LTFUN1pGczVGbXRpM1FXemxNR2t4WWJVRExmYzR3N0FkajFseFJFUkNtUDE2OW90YVJiRjlUd082WGtyZG9TYjJwUFE0RnI2ZEVha1I4UHdCSFFRNVBC?oc=5",
+   "source": "Investment Guru India",
+   "published": "2026-11-15T06:12:51+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaWozWS04Sm5jVDlONkdMbW1nTVBRNzc4VExZaHBnQmRuWEJLQjhkWnN5TTRmdGV4b29VWWMwV1gwMlBqNFVvNVktXzBhTzhTd3N5QkNKX2dudWl0RHJXR2c1TVZyLTByci1MNGZPZXYwdU9CSGx0cnNKbmJsa0NWNEVWTEo2NzE5TEZINXRqRjZVcGhCamdoTDRoNndBUXJLQzhSMjc2aGpJYnotUi12NlRHTVpHQ094TkFHMEc0SWszSU5BdFFTVkhIcl9oVXVFS0hObEVyN204V0tk?oc=5",
+   "source": "The Hawk",
+   "published": "2026-11-15T06:10:15+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Kamarajar Port picks SBI Capital, IDBI Capital and ICICI Securities for IPO",
+   "link": "https://www.livemint.com/market/ipo/kamarajar-port-ipo-2027-sbi-capital-idbi-icici-securities-11794716933859.html",
+   "source": "Mint",
+   "published": "2026-11-15T05:57:10+00:00",
+   "snippet": "Kamarajar Port valuation discussions are still some time away, but the IPO is likely to be completed within calendar 2027"
+  },
+  {
+   "title": "Crypto news: Bitcoin price falls to $64,962, lowest since July as investors favour AI stocks, factor likely Fed hike",
+   "link": "https://www.livemint.com/market/cryptocurrency/crypto-bitcoin-price-today-falls-64962-15-nov-lowest-since-july-investors-pull-out-favour-ai-stocks-factor-fed-rate-hike-11794711853135.html",
+   "source": "Mint",
+   "published": "2026-11-15T05:29:42+00:00",
+   "snippet": "Bitcoin fell below $65,000 on November 15, its lowest level since July, amid macroeconomic concerns, market liquidations and possible competition for investment from AI companies. The broader crypto market cap dropped to..."
+  },
+  {
+   "title": "₹10,000 cr Upcoming IPOs: Latest GMP price, key dates | Crystal Crop Protection, Mahanadi Coalfields, Watrana Rentals",
+   "link": "https://www.livemint.com/market/ipo/rs-10-000-cr-upcoming-ipos-latest-gmp-price-key-dates-crystal-crop-protection-mahanadi-coalfields-watrana-rentals-11794716857818.html",
+   "source": "Mint",
+   "published": "2026-11-15T05:20:48+00:00",
+   "snippet": "India’s IPO calendar is set to accelerate from 16 November, with Crystal Crop Protection, Mahanadi Coalfields and Watrana Rentals bringing three issues to market. The offerings are expected to raise more than ₹10,000 cro..."
+  },
+  {
+   "title": "Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead?",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0VNaC1pVHp6dE10THhYR2tWWWF6bmpnM1JfNkhmeDY1anB6S2F4c2xCR0UwT0QyY0t3cHdXNDBlQ2lqS2lSTlZKNFYxWWtaajE3MzBHVDZ3Q0dWSW8wNC1lTnl6TmNtTDVRaXpsZGJ1X3BsY3VFOWpQU0lmQzNiZWR6clEtQlpKLWNtRmhkNERSYldUcUhCYk45M1JTT2pNNjlOd3EtQ2dkV2xjRWNXdi15MDlCVFA4Q2YtUmNNR2lLOHhKT3BrVUV0ZDVDR0VNQ2V2cW95MWFmNS04cWZWV0R3ZWVBdkdvUVHSAe8BQVVfeXFMTnppUnhLbjlSV1p4TlRGaTVPSmtJcFYxSmJnS3gwRjM4ME4wWGduR0FJdHFTOV9idmtaQmxndDcwTC1jUkJhUldxTXNxa0V4azZ5NGZuWlZNUkNSV2ptblFodEpVT19qUkoyNDdSTWNIM1FjM1V1Y2I5QkRXTGFBMmZ1SEt5aWZTZERIZkNNVUZ3NGFQa084ZTU3RlhfUmNyd1BVS1JVckFLenRZNDR0bzM4LVQyVXk2b0tDT2puVHRqSDIwdzhQcTdmM1ZmbElrcndLMVBmVlh6akRGaDZmYXlMUG5FQUw5V3A3enl5bkU?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-15T04:14:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "MCX, BSE, Bharti Airtel shares: Top 3 stocks to buy; check expected returns, ratings, target price by market expert",
+   "link": "https://www.livemint.com/market/stock-market-news/mcx-bse-bharti-airtel-shares-top-3-stocks-to-buy-check-expected-returns-ratings-target-price-by-market-expert-11794714137509.html",
+   "source": "Mint",
+   "published": "2026-11-15T04:13:39+00:00",
+   "snippet": "Sensex fell 318.56 points to 81,592.45 and Nifty 50 dropped 155.05 points to 25,144.30 on Friday, ending a three-session rally as October retail inflation rose to 6.09%. Analyst Chandan Taparia recommended MCX, BSE and B..."
+  },
+  {
+   "title": "Market rally: What’s fuelling gains and what are the risks?",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXlEeXllTDdqVFJRVDAzY09fb0ppM2V0UDRpdlZhZ0xhRDFabW9wT3QwcDVGbXNhVGFWRTNzbDNUVjYxdmJfZktfcm52ZzVSVmo1QjJHZVpfUzRrUFJXaTdON2poYU45a1AwYlVsZWhnUlRrcWRwX0MwSVNHSzNPbmFUODRKeG02MENvR0hJTUtYZzJmYUFEZVA1LXJyZ2dhc1ZiRHM3aFUtOWRjckIxQmNvUHlJZUZPaDZPYkFsU3NRM1J1UXfSAcsBQVVfeXFMTTBPSEtpRmJGQWxPdTdpVTR2YlhhWmtNaHhSTVRMMHZNbWx6UXphcFNuRDhYTjBKQWNpZExxUm5lUTI4OTd0NWtJdnp2UkEyV29jd3JyRFlwZE5IOE5ZM0lmMnIwMGJzRFg4OFZKcFozS256RE5MZVl5ZUwyel85N01Wd05CMHNsdzRJcFRZdFNvWnQxT05mektCNDlqTkxPMGItQTNhbGNid3BBU2hfTVhkU2c5Q3hfN2lzeDhnTDJmSDhuLXFCeWRmc1k?oc=5",
+   "source": "Livemint",
+   "published": "2026-11-15T04:06:22+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "Iridium evp Timothy James sells $267,393 in stock By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWE3Wm5TSFBCdDlpVXBfdE16VDlaazRaaV9oRFFaZ25lSldseW04UDRSVFlTenJJX2ZGcklmQnNOQkx1aWgwbTB0NHJIVmdVb3BxLVNVclAwVjRieUpVbUNpRXV3Z2s4Q3d2SjFUeUJGdlhXNXJ0Q0h3NFpGSVVSY1U4MkFJTjNTU2F0WDVpNWQzSktENmRjTnlKYmQ1N2kxVGtFUlVNa1JNYmwz?oc=5",
+   "source": "Investing.com Nigeria",
+   "published": "2026-11-15T08:05:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "TransDigm co-COO Joel Reiss sells $4.27 million in company stock",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmZLQV9CSHRtRXFwNFdQajNCNnhDZ0hTTHhYODBYVW5Pc2lHUXpHWXRaeFg4UzlyOTRkTzEySlI0V0ZLZ1cyZkxTcGo2WS1pSnVha2JXM2J0MEFKdElkQmxhLWdTVFVLS3hIdkJUM1JBcUxqSldCN01kcHRLMU9VdXJ4MGtPeUxPVVRyYUNlaUJVakczOEdGVExOTkhqVlVSSVVQWFZGNUo4NnBmbDBZQ1ZSdXZhaFdMZmlTdXNDRQ?oc=5",
+   "source": "Investing.com Nigeria",
+   "published": "2026-11-15T08:05:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmVIdUhYQjJveVgtdEVaMGRiSmxOdkhQeU9oOXkzS3BHUGNNZVJEeUtyOVBRTHF6Z2taSnNqRHFnNG1sd18zLVV4dTE3cWJyb1EtalhRVnE2QW04YzB3TEwxYVhsdW1NVWkzcDNXTkhvY1owbXpnUHdLN2dneDh0cmJJU0kwcTQweE1kMmUwOFNlWGQwMGxVR3czSQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:51:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "(BLCO) Stock Market Analysis (BLCO:CA)",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGNmazRoX0NHbUkxTEZtSVE2V1c0V3RPUnRhZjJQTzh5dDBycV90YV9iZEF0QlhudmNWVE00QW40TjNzOVBPa1BIMGRUY1Zuc3JvWXdsWXRlVFp1Wm00M1UzWndDUExtcVBQZFptQkI5RlA5LTRFNURzVWoxUlFLRGhpWEVpNlVudmctVg?oc=5",
+   "source": "Stock Traders Daily",
+   "published": "2026-11-15T07:42:38+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 Consumer Staples Stocks Investors Are Watching As Producer Inflation Heats Up",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3FxYy1YRGdxb3hWaGo1SFgyZ2xiUTVES2RYYThkVFhWaTgzSUZrSzNBdnFWc2U3MHFIY0lSWTlZRXRyTk9xV2xqTjc2RWx1c1hHMlphRnRHWHBhUGVZNWgybXVxNHVqS0hubHVPeHlFak14Sl9PeHAzU1ZzeXJzaGRGc2FIQ0VfbkFiMWhod2EtVmZrcEdReS1OdHpKcHBLUFE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Forget Former Nvidia CEO Jensen Huang -- This Is the Real Question Investors Need to Ask About Nvidia Stock",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3hKeFRLT3JKU1p3aGJmMl9PN2Z0ZzFqUWJJYUdOSU5OMjNNb0Zpa1Ztc2lPYl90Tlk2djlTaTFvb1NEaVgtWldlYkZSU09RbDFxWi1YWU9hZktPQktTZ0xCSTZIV0lUSExubGlyYWZMQXFmY0hmTG9wQ0UyVko3LVlNRXpDZ1FkSkt2a05waVlObXRlbWxLVFJBZmJxMGVRdjlTUDNUUUx4MmE1OXBMaUZNMmljRENjcV9VSTcySEVDeEJuZHRvN2gxS3ZWS0VNWEEycy1aQ2hta2VSUlNKUw?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-15T07:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Top 3 Australian Founder Led Stocks With Earnings Growth Over 13% To Watch",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVA5VDNmaDl0SlFqc1RfRENkVkVaZFFMNEZBR2xlVkZKMDBwM3p5REVheEFBRUVSNUp2QXdNN2hsdjRzejVCY3dHdDlwMVVwNVNCSTlvQ3hYQS1HeTNkanlmT1BFUFJ2UlFlWDhmQlB0SklLalpMZ1JaSTM4OGpxSUV5Sm1IYjNiYkFqVE1zSHA4MWZqdTBRMA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:09:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Missed Aveanna Healthcare's Run? Here's What Early Buyers Saw",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXM1QTc1RmlMMHJKaFpGUGNualJjcjJiR001MlQ4X0dmNUVDZXFTdVFlYWcxQjFDMWVRMDRjOUJ5Q0tVUUtXOXVtU1pmbkttYUhpdzZJZVpxcFFYSFFycXNldFE3d3dESmpGaE9HdmJKQV91RG5wZkdkTzR1WnJUQTVnQ2dfTTl2UzJmZkVCNnZlYWVjTWRuU0hZc2FVQQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:09:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sprout Social (SPT) Stock Sees Fair Value Lift As Analysts Raise Targets",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnVZYkR3LWFnSHkzQzZRUkRUMndSVUU5T1VNX2cwUThIQUxWMlBzSWdheUtjNTBwTVVBN0Y4cnRtTkl0MVpId2tMX2FtUTAybmFtMjBLQXcxMVlHWlFIc1dKMDJvRHBzWWZ1RWhSUm5SRFA2WlZRT1d6bFp5bUQ3MUZDb2VUeUY4NE4yVHBYaXZHb0NObnpoaQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:08:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "GBank Financial Holdings (GBFH) Stock Sees Fair Value Cut As Analysts Split On Growth",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2U4RnpHbDhMWFJCYW5RTEcxVURoNUNlbDdCcENva0RqR1dwQU96U3BwZUVmdVdnTl9PM0JYR2xGYkl0Q2loY204RjY5VGZlQUNTQlpiYkROT2VBVExiZUZFaktaRFBvZ051OWxhcTlGRmFUWnFwb0ZCT3JZWXZxNUhRdDdDQXJwSWJKdXRsaFZkSkxLRXNaSldqREx4cndwNWc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T07:08:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Michael Hartnett Stays Risk-Off as King Dollar Returns With a Wrecking Ball",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOejEzQ2lvUjJwRG55U2dGSzRzTFNrU3dsRjBaWno2TDRfZU5kN0dJT1kxcXBNaDJwTHhNRGd3c3JTVUpQSGIxcHI5V0lkM2RtemlONkRsaGJ6bXBiM0pVQ2s0MmRXNmlQWVJGbGs1c2NheFgxOHQwNnh3X3BNQjI5X3pQeEI?oc=5",
+   "source": "The Dark Side Of The Boom",
+   "published": "2026-11-15T07:02:11+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Samsung, SK hynix account for more than one-fourth of Korea's stock market credit loans",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWw2bENpRmhnYTFtV2NsYW0tWFhxS21HOVZVQjh1QXpBOUZoRHZDUTNzYmhESmVIa1BvQkU4MFVUVDdPX3NCdXpmSjdGNGpBZFBuV09qOUtMSXpDXzVSN1lReGdVM052WGRqU0VpNGsxM05hcXc2RkswUGxiX0U4c3RlMGdmVUxWSXM0Y05rTW9lUXVEWGNUY05DSjhidTFMLVRTaEMwYXNSTFQ0QTlhdHotODFncEZBNWhMOHhFYnFBbE9aREpCMUV5ME9NNVBNQ3hj?oc=5",
+   "source": "Korea JoongAng Daily",
+   "published": "2026-11-15T06:29:15+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "ImExHS And 2 Australian AI Healthcare Stocks To Watch",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1lzVndzMEpDS1NGWVJMY3BQNUlHZjE2UjRfYmhqdnEwbnNudjB2Z2RNeXFNRkJCSEpscnJsdTdBbVNFa09ndzJwQnF0QTFkNXpoMEp0YWZ2X2hNOUpvRDZFdC1NcGd4aHl6c1BrZ19lQnY5TEJDVm9zSGwtZmpKNi0xN1FmVmQwbXdWU0dNekNuMzByc3dCa3Jn?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T06:09:58+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTFQM29MVnVPbmM4NGlTR29sNGwxTURUNWFaZDRKMzl2UFJXNEM2X1RTUmhlalU3emNhdnYtU1pILVhWRWN6N3VzbEZWWEZmMmlCVHhBbjVRZ3BndVRoWi1NWlZBSnVWckV5X2F3czN6aUZLelA3UHlEZ2FMSXNBUlZrUEVfS1lmWnN2bjhUOEY?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T06:08:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "AMD Has Two Big Catalysts Lined Up For 2027 — And Nvidia Should Be Watching, Says IO Fund",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBYb0F0NFVybko5LWwxX3N3VDVRc3BMRVdXWnA1T2JrNlFBcW9xYVVtaWF2dHJySFpXbjQ2R3BnX3VQQjVkTWt3cnVJUm1rSFFzLTdaeDM4aW1IQVZzdmhfMFJfcHNrc2llNTN0eFhNeG0wTUduQ0tqYVFILU5KZ2szckZGR3BleS1YM1NWVjM1T1NTN3dN?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-15T06:07:10+00:00",
+   "snippet": ""
+  }
+ ]
+}
