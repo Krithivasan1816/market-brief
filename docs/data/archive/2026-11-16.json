@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-16",
+ "updated": "2026-11-16T08:17:15.755490+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 25242.95,
+   "change_pct": 0.79
+  },
+  {
+   "name": "Sensex",
+   "price": 82013.61,
+   "change_pct": 1.12
+  },
+  {
+   "name": "S&P 500",
+   "price": 7561.67,
+   "change_pct": 2.51
+  },
+  {
+   "name": "Nasdaq",
+   "price": 25136.27,
+   "change_pct": 2.27
+  },
+  {
+   "name": "USD/INR",
+   "price": 94.03,
+   "change_pct": 0.09
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3860.7,
+   "change_pct": -3.49
+  }
+ ],
+ "india": [
+  {
+   "title": "Patanjali Foods dips 4% as Q2 profit slips but analysts upbeat; here's why",
+   "link": "https://www.business-standard.com/markets/news/patanjali-foods-share-price-dips-4-as-q2-profit-slips-but-analysts-upbeat-here-s-why-126111601051_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-16T08:02:46+00:00",
+   "snippet": "Jefferies said that Patanjali Foods' Q2 miss was driven by a shift in festive-season timing and edible-oil margin pressure from the import duty cut."
+  },
+  {
+   "title": "Hospital stocks in focus: Max Healthcare, Aster DM, Fortis surge up to 7%",
+   "link": "https://www.business-standard.com/markets/news/hospital-stocks-in-focus-max-healthcare-aster-dm-fortis-surge-up-to-7-126111600992_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-16T07:53:45+00:00",
+   "snippet": "Share price of Max Healthcare soared 7% to ₹1,007.70 on the BSE in Monday's intraday trade, bouncing back 26% from its 52-week low of ₹797 touched on October 22, 2026."
+  },
+  {
+   "title": "Nifty holds 0.45% gains at noon; Bank Nifty hits all-time high, TMPV slumps 8%",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNenp0a2JoMzFzRmhGdHJrZUg4alpxVmdXeHdzald6X09vdTlDNDRqTUVLbXRmU19TaXphTFkxa3VUREJZTFJzUUh3c2kwaDJnbFVyUUNEdzVPd1VUWmV6dllGZE9EQ1ViUE9PMGFYZks5bzE5Znd0MElsa08wa2sxR0lmYko1ZFNlTkNLRFo4ZHkxNXZYYWtJWnVieEt4bm5vM0VxSVltRnh0YXMtZWhfaU5wYkVwMGtUX2x5X29iSHpXQWpSckdSaWVYU0JWd3RBX3B3MtIB2wFBVV95cUxPSGwxQWxtazdpcHZ1N1F0Y3lDMkFiTDlXV1VtZ3E5RGNmT0xkc0VBYk1EN2poZGp0YU01MkM5bjU1al9iOHZWWHhPWmRoanNSaC1vQWVjUXdLVWROV1V2YmhyX1F1bG54bllLZUs0WlYtN3JBRDdVZFRWVTVnckZId1JmYXJFRy10M1FwM19yTXBSVThSVnJDa0NjQVJ4S0g4TzBCWUpDNVlWVndqRUJLaTFPd0VEY1FRWHRTOWd0a0E0eG81VGtZenZzb1ZSMk1JOGZERkRwMUpIaTg?oc=5",
+   "source": "BusinessLine",
+   "published": "2026-11-16T07:47:58+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why Vodafone Idea’s q-o-q drop in mobile subscriber base is a worrying sign",
+   "link": "https://www.livemint.com/market/mark-to-market/vodafone-idea-mobile-subscribers-drop-worrying-sign-arpu-11794810234187.html",
+   "source": "Mint",
+   "published": "2026-11-16T07:42:49+00:00",
+   "snippet": "Instead of Q2 revenue and profitability, investors should focus on cash Ebitda, given Vodafone’s heavy capital expenditure and government debt burden of almost ₹1.5 trillion."
+  },
+  {
+   "title": "Amber Enterprises shares resume losing run, tank over 8% after weak Q2 from peer Kaynes Technology. Is more fall ahead?",
+   "link": "https://www.livemint.com/market/stock-market-news/amber-enterprises-shares-resume-losing-run-tank-over-8-after-weak-q2-from-peer-kaynes-technology-is-more-fall-ahead-11794813833370.html",
+   "source": "Mint",
+   "published": "2026-11-16T07:41:17+00:00",
+   "snippet": "Amber Enterprises shares fell 8.4% on 16 November as weaker-than-expected results from peer Kaynes Technology hurt sentiment toward electronics manufacturers.&nbsp;"
+  },
+  {
+   "title": "Sensex Advances 0.56% Led by FMCG; Realty Sector Drags Amid Mixed Market Breadth",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVVhcDlCZHBxaGxJeTZza3g1eFBINjRxV1MzT0l2OXlwek5CTndURTVXNlNhXzRoSzZJd1QzYVRYTVZyWVZNRVd1T2lRXzFVUGkzcUlqWGlpSG9ZMjU1UVdZeVRSMzN6cjFrVm1SYi1qLTQtekluZWVuZUtrZ1BOdkhjN1FHcVRZYVdaQ0xINml4QmdyaC1IZ0FFenB5dkNCazVvamhIczZHNDVFb1h2SGloaDhXT1gzT3VrclRCUm1FcTc1VWdCdnhHbjJEYUUxVUE?oc=5",
+   "source": "MarketsMojo",
+   "published": "2026-11-16T07:32:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOFFGaWp2X0VLUzdoMGI5NF9qcUdoYzA1SVA4U0o4eUVqaTZvaFp4THlHRkd4SURTNHpwRWpRalN0UFM3RU1BT01LUmplOUhFSXZFaFpmTVdtdloyYmpUVm5MMk5zMlNpRHZVQ0lvR3hLenZ6M3NseGdHYnplWGVncXpZc2dPd3JfTW9FSTNrYjZEMDBvNTktOXNiVWRpQm1rNF8ydExXU28tTHhXVTBGdVJXSk90azBQVExr?oc=5",
+   "source": "LinkedIn",
+   "published": "2026-11-16T07:30:28+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Mahanadi IPO explained: Valuation, reserves, risks and Coal India strategy",
+   "link": "https://www.business-standard.com/markets/ipo/mahanadi-ipo-explained-valuation-reserves-risks-and-coal-india-strategy-126111600933_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-16T07:27:29+00:00",
+   "snippet": "Mahanadi Coalfields, Coal India's largest coal-producing subsidiary, is set to enter the stock market through an offer for sale of a 10% stake"
+  },
+  {
+   "title": "TVS Supply Chain Solutions shares jump 17% after Q2 results, surge 24% in 2 weeks; what lies ahead? Key levels to watch",
+   "link": "https://www.livemint.com/market/stock-market-news/tvs-supply-chain-solutions-shares-jump-17-after-q2-results-surge-24-in-2-weeks-what-lies-ahead-key-levels-to-watch-11794812073703.html",
+   "source": "Mint",
+   "published": "2026-11-16T07:17:52+00:00",
+   "snippet": "TVS Supply Chain Solutions shares surged 17% after Q2 FY27 revenue rose 38% year on year to ₹3,687.2 crore and net profit more than doubled to ₹36.5 crore. The company cited broad-based growth, operational improvements a..."
+  },
+  {
+   "title": "Mahindra Logistics shares plunge 14% after MD and CEO Hemant Sikka resigns",
+   "link": "https://www.business-standard.com/markets/news/mahindra-logistics-shares-plunge-14-after-md-and-ceo-hemant-sikka-resigns-126111600947_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-16T07:11:38+00:00",
+   "snippet": "The company has appointed Mohammed Turra as Additional Director and MD & CEO-designate, effective November 16."
+  },
+  {
+   "title": "Stock Market Today: Sensex Zooms 500 Points, Nifty 50 Near 25,300; ITC Gains 4%, Tata Motors PV Down 8%",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYjNnY3ZXU2JxaGNwekotVmVYd3YzZEJhbHZlVkU1LUk1N0RuazRxelo0VkI0VkFBSVlQZ1k0cEtBbUhWZVJvTXk1cHNYbHFIV3RqZnNDZk9rWlJ1ZzVMb0VUeVAzVVM2ZGt1VnRBUFpnYW1sTlZyczN5SGwtT1ppT3dCX0ZKeFd4QUpDRWIxd2NyLUMyY1BxQ3Z2c1JIdEdEajJxZS1UcG43akQtejdQaUlkSzl0TnNzb1FxaFc0cFRreUdaMGVzbUc2U0NWeDFfb1gtUWJSYzY1QWxVbUV3dWpwb3RHYWFXdm9xSElHV1pfajd4OFNkdjVON29Mc2lvZFdCNXAyaVFncHpaTFF6OE1WNGXSAZwCQVVfeXFMTzBtLXJKeHVQNEFDWVdoSUNKVFdrVF9HUllPaUFlVWNZV0NwT0hYY2ZIT3FQZEJRS1A0Q2FfVE8wWXpWVzdzaVkxdUF2U1ZjN0I5akxvc2J4LW4yc25nWVUwa19iN2FQa09ZQlRkWm50cHNSMTQwWHRjS1RrNWx1MWdFZGZjMzZzTUNDcVc1cEVEbEdiVjlSMnBXbHlxb1cxZ01ud2FZNHJyZVlwTmZVeEV6dldyZ3hPbGRWT1FITi16Z0RoMmRrS3VEVVhvc19JTG5NXzBOc3RsOW1OUDZ1UzBEbEZtazJlMXVfOHZXRFloUzBTZnlySEstNTlJaDhXUWdNVFEwWmFKT1A4NURGVW5ycm9pdlF5V2FpS3Y?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-16T07:09:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Dalal Street's great comeback. Is this the right time to put your money in stocks?",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlhZOWhUemtVYnBpMENkeTZFcVUwUzBXeFdOb3AxZjN3ei1BdGd1T0hRdEtyU0RMdE5qMWRhTWRNejlQVE9XMUY3c2NPUGFIQVpTZFNMRks1Yll2WnZaS2k3dmkySlRONnhPRnRMSWY3X2lscDdQRGpMcDRDRTRZZjc4RUg4dDlwNC12a0xhVkhfSDRIVl9rcUNaSHRMLUktNkJIRkFSc0NKVlNoWkIxQnlqcjN0VGk0SGNSZHh0aUhvZnJzejNBSnFxV2tkNVdxQ3fSAdIBQVVfeXFMTVpYWTloVHprVWJwaTBDZHk2RXFVMFMwV3hXTm9wMWYzd3otQXRndU9IUXRLclNETHROajFkYU1kTXo5UFRPVzFGN3NjT1BhSEFaU2RTTEZLNWJZdlp2WktpN3ZpMkpUTjZ4T0Z0TElmN19pbHA3UERqTHA0Q0U0WWY3OEVIOHQ5cDQtdmtMYVZIX0g0SFZfa3FDWkh0TC1JLTZCSEZBUnNDSlZTaFpCMUJ5anIzdFRpNEhjUmR4dGlIb2Zyc3ozQUpxcVdrZDVXcUN3?oc=5",
+   "source": "India Today",
+   "published": "2026-11-16T07:00:51+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex Gains 371 Points, Nifty 50 Rises 88 Points as Oil Prices Decline; FMCG Leads Sectoral Gains",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeld2S0R3NW1mZVJyYzA1QW40ZXduNUxoMHJKOHFnQVh5eUI3R3ExSzBBX0NxZmt1SzUxZC1NdUJpR2ZsS0dVWVNpTWlyWWVibHRWcVkyYnZKSkMyX1FCY1NPcTNNNmhNRGdaUUE0STEwdm9rTm9QM0RpQ0tvSnBhYUljY0xYdE1jNXVuVFBWZ056Z0dZNkNOSno2anhvYVF1MmhHX3FWcEl4elhTbUtCaGY5UUVPN2dxX1pMLV9RQ3pIZ3MyNzVpWVJldG56WFBWZlg4cmw5dExaTG5ZcWc?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "published": "2026-11-16T06:53:13+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Investors earn massive ₹36 lakh crore in 10 sessions of November",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDZmMGhYWVQyQTJGMnJDd3BGMy1xOF9DSzUwWmN2STByeTRSV0xILU1IZmU5ZU1vSUhHTEdvRWh6djBPT2xqazF4YUM4UXM1cGNSenQ0R2RqVy1IZnIwV1RZLWZ1Y3l3bXBWeG8zR1ctc2w2OGlVbWo2YzcydXB3blFZbnc2Z2h5anZqUHU4Yy1NZkVuY1dEcmVUeVg?oc=5",
+   "source": "IPO Watch",
+   "published": "2026-11-16T06:42:58+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Sensex Advances 0.52% as FMCG Leads Gains Amid Mixed Sector Performance",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmhVVElwc0pkMjBQMWFJSXBtWlNlekItOWhVSTZhOG01aFpCeHA1N3VUVjVQVWJzd1lUdG1nZEVNdTh0QVBkUkdSZ1lTeTZsS3JpSXVfb0VSaElzM19HTDZRU2c2OW5iM0F1eXdoVi1peF9yZHJhNmhBT3NDeDI0SmwwRllUTXF4YUIyeTVBNzNlQXA0RDFXZ014YUk1SE1TdkxaZkRybmlSQTRIeENwLW15blo3dXRMMTZLUXlBT3QtNGJPb2Nv?oc=5",
+   "source": "MarketsMojo",
+   "published": "2026-11-16T06:37:02+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmtyc01Xd3ZfWXRfdUVfSFJ2NHNETGVZNWJ5V2J1c2NWM1RjdW5vZXJfaF9TUHNkR0tHbGIxM3ItaEFoZTllUE1UZ1EyMG84dmxNelk3YWNkdlhmZ1UtN3RtcFE4OVRBMVdfaXFIRXRlRnFZa3BxTmdlT3lPaDFBbFhkSHBIT09od2ZhU284YWcyeU11X1AxX2RBLUdaNnJhaTRlQ19oa3JGdUEtZXlNdlhXdkNLMXdadmRBYXBqeGhSdmw0X0NQVXR3?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-16T08:11:35+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "TSMC (NYSE:TSM) Stock in Focus as Taiwan Market Plunges 6% Ahead of Nvidia Earnings",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YY3ZmZHdGc3d6cG9Qa3RZcmE4akZFUm5GY0xOcElqbnV2em1iQXlJbjJxaUt2VWxRbTRRN1h5bnNrS3FxWEwyMVlUeEpjZHdIdC1qRTVmNkUxOFI2RGtOVURuNjRiYVlrNkJEMFZiNUwzb0JsLWM3TU5aR3J2UQ?oc=5",
+   "source": "Stocks Down Under",
+   "published": "2026-11-16T08:10:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Fed Gov. Michelle Bowman: Risk of \"Large Correction\" in Stocks if AI Doesn't Pan Out",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVlpSktzNWlnSWJnMkhOY1phZ0FLQlpmUDJ1bEVXLU5BZ0hIclJZdFZPUk1YT1hhMHkxRXFCMGJrdDZUbkxCNmxnS1VlcGc4eFZ1cTdpdzRERTQ1SmRwZzhobTUtczV4eDZ5cW5BSzEzNHIwUEFHc3R6UHBPdXUxbDdLal85RnZmYzI2d25CdXd0aldiamxucGpyMlIwLW9LSGlrSFNBUWhvazd2MkNHNGNTTUhadUJKbWJQVENhMVlaUjQ3b05j?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-16T08:10:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "European shares flat as Nvidia turmoil lingers and markets brace for AI mega-tests",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0o4WHlib3NVWW8zc1k5OU56V1pRdUc1YkN0ZzZoUGxNcUJnYzlqazV6MDZPS25aZnVvRk5IanZqVGpuck9mSkMwZEY2Z0JqUFJ1WFpDbkhLdVlLTWR5bUlETUQtNG5xNjBnUWlBZlNRTHJwcll0bkU2ZW01WHlxV2F1U1BtcnFjckg0c0NaWDhtdU9VdUhKOXJlS05UN0FULTNrc2c4NV92aTNIOVBqamMtY2Uyck5XTEtYRlhRSWkzZjBYdU1UWmowMGRldUx3MzRSQQ?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-16T08:07:59+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
+   "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-11-16T08:06:00+00:00",
+   "snippet": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter."
+  },
+  {
+   "title": "Do Wall Street Analysts Like Citigroup Stock?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUhqbldfcFFOR2tUYWpCRXlNOGhsQ1NTdFRkSjAzdmlPOHF3RDI5b2luejgtQXdpRmV4bUVTV3FJVTVZVTZ3ZU1VTE5yS1BwaTdMblhILTFxSlJJQ2RQNkluU3dmaG04VHRQZFlCcElIZU9Tc3lMZlVhcmVIVjl4bkxsbkZvWEF4N2FOMWJZVzIyZw?oc=5",
+   "source": "Barchart.com",
+   "published": "2026-11-16T08:01:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Mizuho Financial Group, Inc. Sp (MFG) Stock Forecasts",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUVqZGtaY0p3bC1wX1N1dmZWVjhiZGQta0ZBT3NwU2RfaHNUYnBiTUdYM2J3N1U2Y2pFMThBMEdjN19oeElaUS1ibEpwOE9BOExwTjJmM2E2eTluUmFlckxTVVZTNVBJR3YxUmR5cV95VWN2N2E1QmZULUh1SFFKU2xUUlFjM1ZzNlhDSQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-16T07:59:05+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why is Elders stock surging today?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGFrTHNwMVlnMWF6NkRIWnI0UU13Uy02WWRMSEY4MGZWUEFYSmFzR2ZCb0ZldDVSb1k3NHZVRUtXaVgyeGtWaVJJM3dKNU5QdUFZbkJfSE9WLURfSW14VWdmaFcxcmxpNXEzNGs4Y2JWRDdMaEhhX3plcDh2X3FQc0tvdkNnYWtnaV9FQkxQZXk5aU9WS0cyR3NfOA?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-16T07:57:11+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Zcash Stays Ahead Of Bitcoin In 2026, But Traders Are Split On Whether Outperformance Can Last",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU52WW1vZ3EzMkEzTEE4LVZQWVNUS0JKS1BkMjBHSVNKa055c3Nlc0JSbXNvMUVaQmZ0VWhwQlZWY0hob01DTThjZDFYRS1BZjB3djJoaVlTT0FsaHhOXzQxclZFM1o4d2I1OW9WelRweDRnOXdIWlgyZXI3eWxTSjh4VFlvaUt0dHk0dXdSMzg1VmduRWpjckRlaw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-16T07:57:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Take Five: Huang's exit, Anthropic's entrance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDV6Y2VPMDl0MkMwempKMWtIZm5LUnY2Nk1BRVdDQ2I1UjhmMW1Mamp1aWYtSk4tMnVnTmxvbDN0eVUwZzJWMjloM2xPR2tTVktFMm51ZE9SaF9FQjYxNjJLODFWWkV0NTgxSmZkeWJqd2RHVnlEYUNDQ3NHTE5td0IweWc2emlMX3JJMGotd045Xzg4UWE3OGVwQm02bmY3OXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-16T07:51:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "US Dollar Regains Its Footing as Old Market Correlations Return. Forecast as of 16.11.2026",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVXJKZGJqMG5wQ0twS0NtZk1kSHFTVS1pYlNBSHhTWVZqOTVLSUVuMFZGX29PTF8zNV95Uk9YNmFidTFjeGdMakFZSXFoZU1HcFBBQXRrSHpqcE9peElNZjFWS1pKREluNDd3YzBXWEJ2SzVDNTZwTlphZWZPM3NkU2JBZ1JTenFLdjVKQ3JqSF9fMFFiclVYd1Q0aUh1SmtJT1pkamt4Y0U4ZVc0S09Iek9lT3BpRV9xMUo0N0JfaVpwcUhlOUxhZS1WbHV4MGNqdU10ZW1uTW80allrRDE3aDF5OU5fVFc2ZlhLY21obGJwcWNNS25GQXd5U0FZRUNJZllYVWkzMA?oc=5",
+   "source": "LiteFinance",
+   "published": "2026-11-16T07:50:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why is Adore Beauty stock collapsing today?",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG0yM3lLZGw2ZVhOTTVBZDRtTEh6ZS0xcXlHb2lvVEp6RXU1eEI5TVZXSm1Qd2MwVEs5RTEyek42VHpxcmd0d21YT0VETjFZNEpoSTFSYWNaR0pReGZRWVlHM2NiTXUtSDVjSjJxVG9FWGJZa193M0N0VHB0dHd4LUZWRC1mRWdtNFdVZEU3QTFQN0hTZHM2RU9YMjZjWU9fNnRKSjFGNA?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-16T07:50:06+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Record foreign inflows fuel Indian stocks' November surge",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjRGMFN3SE5Vdklnd2tiZHp6NUdkNWpNU3pDRHNyZXczNnRKWVMyNnJTVGhBYWwzOWltcC1xMHZrd09Vc0htZlRoNVNLSjFMWmJRUWlkdWZka1NwdTY0Nmlid3dncHF3ZUhEVDlRRHFmWVRUWXBhb0ttVlpZQ0ZXZjJzYUJKeTU2RFRYSER6TGZqOExoZFpfTWhDckRXS3NHNHctNXNWQQ?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-16T07:49:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Alibaba's T-Head IPO Plans Hit A Tougher Market As Chip Valuations Cool",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNER3dzFES2JhWEc3bHFlei13TklDY2JvQnJHalhIRXpGTlYta3kzMzl5NTJCdWo3WnpSNFE0Wkl0WllZMHZqd3JDa3pzbzBjMGlkTE5YRi1URGVDOElyYW5hOWpPRWZzeURjcTdsTzYwdGV2TjNZT2I5ek00a3dhT0lXOTdadFRmTGFWaUNmYjg2UklmWENxS2YxX3lSdTQxd3p3aDFNYUIwYnJ5aXFOeWhCdTZuTjhGcWc?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-16T07:48:58+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "SLB Stock: Analyst Estimates & Ratings",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX2VYZ1IzMTluZXVhamhtcEdwQVVocGhKTHBaVlVvQzVhbEV4aW94VHNBTzZ3WUthZm5YbXFaYmdnaFB3VWhXLXZoWnQ3c2l5dThWSzVEbk8wMlVZV3hjVGExZVdCZExqQk5ia3pZa3BUYkEzX3o5XzdBLS1RaW5ETklzcVNYdw?oc=5",
+   "source": "Barchart.com",
+   "published": "2026-11-16T07:47:54+00:00",
+   "snippet": ""
+  }
+ ]
+}
