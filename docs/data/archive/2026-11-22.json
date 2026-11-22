@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-22",
+ "updated": "2026-11-22T08:29:15.325131+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 25800.6,
+   "change_pct": 2.01
+  },
+  {
+   "name": "Sensex",
+   "price": 83919.71,
+   "change_pct": 2.21
+  },
+  {
+   "name": "S&P 500",
+   "price": 6910.39,
+   "change_pct": -8.61
+  },
+  {
+   "name": "Nasdaq",
+   "price": 22617.73,
+   "change_pct": -10.02
+  },
+  {
+   "name": "USD/INR",
+   "price": 92.67,
+   "change_pct": -1.66
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3515.4,
+   "change_pct": -9.03
+  }
+ ],
+ "india": [
+  {
+   "title": "WeWork India share price jumps 40% in 6 months; ICICI Direct sees 37% more gains ahead - Buy? Check Target",
+   "link": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
+   "source": "Mint",
+   "published": "2026-11-22T08:06:42+00:00",
+   "snippet": "WeWork India shares fell 1.60% to ₹683.30 on Friday, extending weekly losses, but have gained about 40% in six months. ICICI Securities expects the company to fund planned capex internally and forecasts 22% revenue and E..."
+  },
+  {
+   "title": "Nifty Eyes 26,000: FIIs Pour Record Rs 1.12 Lakh Crore as Banking Rally Leads Markets",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVFpMUpyVDA0b3B6MkpKSXgyazhUbXpPTnRxNElhMmRyVVFzR09kSU92cldwQ3RnYTlISlVadkw2a05RUWM4dEZOdG14NVo4QXR2MjF0MC1Wdm5lY3hpNUh5S1RZOVE1WDQxM05tT0xPbTNobWFxVGRyRkIyUFNDREZ2R0dIZw?oc=5",
+   "source": "theopenpress.in",
+   "published": "2026-11-22T07:20:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
+   "link": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-22T06:56:08+00:00",
+   "snippet": "Four to five privately placed Infrastructure Investment Trusts (InvITs) are expected to tap the public markets by March 2027 to raise a combined Rs 17,000 crore, as infrastructure developers increasingly turn to this rou..."
+  },
+  {
+   "title": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
+   "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+   "source": "Mint",
+   "published": "2026-11-22T06:54:55+00:00",
+   "snippet": "Gold fell for a fifth consecutive day, recording its steepest weekly decline since March as expectations of a US Federal Reserve rate hike, a stronger dollar, and a selloff in AI-linked stocks weighed on precious metals."
+  },
+  {
+   "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+   "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+   "source": "Economic Times",
+   "published": "2026-11-22T06:45:10+00:00",
+   "snippet": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to..."
+  },
+  {
+   "title": "Sensex, Nifty end week at nine-month highs as bank stocks lead rally | The Business Guardian - newspaper",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUtiSTZOb2lzVXQ3Z3llNlBRWkdRdkU3bC11T01zZ2ppdG03MXlETjdCRTdRTlh3bk5iVDRudEp0N2Fud1hPaGNxYUwwck1HaWxyWWhERGthcFRZbDdZSDJhR053OU9ZSW4xbE13cVNpOVN6MUI4RkoxNU5BN0NmMVdhTTR5Y3Z2VGhaN3BmRG1rMnRpR2NobHExTHFUQ3dNMXJDVDZPR1dmdmtTZEdFR004R3p5bEd3TmNDc09EWHgtcjRPMXVGZld3?oc=5",
+   "source": "Magzter",
+   "published": "2026-11-22T06:41:32+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+   "source": "Economic Times",
+   "published": "2026-11-22T06:33:45+00:00",
+   "snippet": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively."
+  },
+  {
+   "title": "Stock Market This Week: US Inflation Data, AI Sell-Off, FII Buying And Other Cues In Focus",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2wzc3FIN1BoQldJbXYzdXdYMGx6RnpuSEVielFoczFtS09wMVY5VWxoSC12YWF6c0Z6R2VEbXFHUTlBbjExTFpmMm5Xa3dYVVhrTG5fMm5qNVZZQXhCV3JWVTZLTTJYNmluU09PVEtfVkN4VUNTeXB5ZXpKMjdkVTZRejY1V1g5Y0ZlT3BBTGZoZjVWUXlHaTliQjBSZm9K0gGuAUFVX3lxTE91bHkyNzZlYXlxdFdfMTBUaXlyMmZOOF9qcEV0RjhuZnVKdWZCZXllZlllUkN0dy1xZTNNUGJ0TnFPcFk0QVFYYlZ4OVFLOTAyaG4xQk8wY3lXcHhrWGQ2Rk9Ucng4ZGpQWV9CVG9hQWw4TG0xMVp6aW5yVHBiRlc2RnJLNzRvb180MjhDNGh1ZGRxR3hIMnZmb3lrMngwQzZfZnBJT0NXWEdLSWFTdw?oc=5",
+   "source": "Outlook Money",
+   "published": "2026-11-22T06:22:40+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEJVYzNtdFR1ZEQyc2F4djZwMGJqeWNURUk4RHRmUmh2QnEyTWFvTm5CMHBCWDZCNEt3eWFMSlQ1VC1YN1A5Rl85cjBEbGNxTkRwMzUyaHdsVHZudXpiOTVPR1F0QVpGbERPT0ZJZzdONE52b0doNUI4WG9sRXprVExadEF3d3QtRUJ1bVktZkN4NkJXS3E1NXRzR0VPLURqdFR1bWZ2SFJkNUhERlI2UEZaNWR3LXlWMUd5Umt5RXhWanZCQ08zYnVBUGp3QWdVeFJUR1VNR09mLVREaEs4?oc=5",
+   "source": "The Hawk",
+   "published": "2026-11-22T06:08:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+   "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+   "source": "Economic Times",
+   "published": "2026-11-22T05:44:52+00:00",
+   "snippet": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate..."
+  },
+  {
+   "title": "Nifty Outlook for November 23: Can index cross 26,000 and move towards 26,500 in the week ahead?",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjBMVTVxelZ2azBhSkVLQW5SdWNlX0lCdVBIQ3BJSGxhbjdHc3MtOHN4RXZaWWNIWGpDYlR6ZWs1ZzhpYVBsX1Nya2phUU1mY1ZhTUJXc3J3eFFTRFdTbWtLNk41WVpDVzFfLTVTZVZrc0ltM04tN0V4SGE5enNpdXp6ejI1R1QzemxXOEVyZFV6ZWI4ci1XTWh3c2RiMERFRDJGUWtfcVdEcGRMTEludHQySHVSbDZuT012cER6MUVBZ21GbTdibVFsdWlNYVZKTFdtMEdwUdIB3AFBVV95cUxPbmRwck9QaE1TN1NUVkZWVHdCaGtUYW9WUEpwTmpXLTlOMkJiUXN4NU5IOWR1QkVUV1plNmhOSU1kOFdGdVRXNVZUU2M2S2FZdVdzQUZVNFNCQk5LNU15d1FWYURZZlpGalNqTjJkTTVwQ3A2bTVmVkxsbl9PdzVUbGJ6M2Jnem03ajQ2YUZlNGsxV0pGdVVTSk50T2ZYUnI1QUNndHBNbUFaaEFhdGdTYWNXYzBtN2l6Tnc3NzhMMkZuOTlIWFVreU42dGV1Ynl3RTl1Q2ZCUjZVU0R6?oc=5",
+   "source": "CNBC TV18",
+   "published": "2026-11-22T05:36:10+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Share Market News: Nifty 50 Outlook & Prediction",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFNDb3ZWZWhOeXZ2alhvR3daUUNoVk1vb2wzLUJVaks3VzJFd2pTT01RdmhGdjEyV01IVXhpLTl2dXBVV0pHUGs3cmVHUjU3dHZ0RkN5NVZkNFRmTVI4TXY3SUhpUVBHcHgteGJILXlIdi04X3hLZnlzdklwMmVZWGFuNk9ldl91TWo5anRBSXlpX1dlTlVjTGhn?oc=5",
+   "source": "Liquide Blog",
+   "published": "2026-11-22T05:32:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Top 3 stocks to buy: Swiggy, Tata Chemicals, Amber Enterprises by Ganesh Dongre of Anand Rathi | Targets, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-swiggy-tata-chemicals-amber-enterprises-by-ganesh-dongre-of-anand-rathi-targets-stoploss-11795312924053.html",
+   "source": "Mint",
+   "published": "2026-11-22T05:14:39+00:00",
+   "snippet": "Stock market prediction: Ganesh Dongre of Anand Rathi believes that Dalal Street bias has improved and a decisive breakout by the Nifty 50 above 26,500 would further strengthen the bullish outlook"
+  },
+  {
+   "title": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15%",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRWE3aWJhRFZhVWs3Z3FwcTVhOENPdjlHQWk3UzlpUG9wc0MtaGY5NG1faFQwckFKbGlOVU50Um5JMk15YnRETUJESjlOQkFpVHVkeEdEX0ljZFNPajR3aEFSeFhFelZicklGcmU2ZVgtZHpPdTJWV1JkOTllYllSb3ByR2N0cWotTWRnQ2w0TjFEeDZYU0F4MGo0LVk1OEFFLVNhbmZIWS1aenhjcXVlaDRkMmhfNWo1cDFoTC1OaGZ4Y2xjeW41VEFtczNxUW96cTRuSThFMUhLN2UzQlpjUlg3cUpNNms0S08xedIB8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Zw?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-11-22T05:03:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "31% returns in 2026 so far! This stock is giving 4 shares on every share - you too can get it; check record date",
+   "link": "https://www.livemint.com/market/stock-market-news/31-return-in-2026-so-far-smallcap-textile-stock-is-giving-4-shares-for-every-1-held-record-date-ahead-do-you-own-11795275604076.html",
+   "source": "Mint",
+   "published": "2026-11-22T04:43:16+00:00",
+   "snippet": "SP Apparels has approved a 1:5 stock split, converting each ₹10 share into five ₹2 shares without changing the total value of an investor’s holding. December 10 is the record date. The stock has gained about 31% in 2026..."
+  }
+ ],
+ "usa": [
+  {
+   "title": "Amid the recent decline in the stock market, the difference in returns of low-variance exchange-trad..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mY1BoTE9VYWNrZmZRWWNlYjl1d2hmOUxxamhSMkk3dl90QmhPaklGM0VHeTd2RE1pQlNlZXZSWF9PeF9OT2FoMmszakNkbW8?oc=5",
+   "source": "매일경제",
+   "published": "2026-11-22T08:16:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "5 big analyst AI moves: Nvidia downgrade, Anthropic seen as ’generational company’",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHlRU1FwQjV2Y3BmYVctNGNQUGtDX2piNlllLUpfWlV0clhZSFZtQ05qV01hQWNVeS1fejhsSjRVWmhoZG1ybzlBMXp1TVVjamsycmlkNER0NlV1MXlfLTBDVkdVdGNpWEZrOEE5SXFWNXI2TkVMYjlMc09WdVpaS09SOXR4dE1SbEVzeVRSREhseVhMWUFOV3hjSkJ2dDZJRnFKbUhUek93SGQ5MkR4ZGthMGNDdGIyWVd4c215UVJXZUZuWmtrWHotWXFzMmd2?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-22T08:00:52+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The S&P 500 Is 14 for 14 After Midterm Elections. Here’s How I’d Invest Now.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN05lMkV3RlczaERBVWI0bVpmV3NKR0gtcnd6eDU2LWFsYTRVNUdCQ2dkdTh1ZjVBeExJM3dkdUJkUzVVTGtWWExiUzdKakZVS1RHYVZ5Z3BIU0xGN0FjcHlqR1hhUWZuRlRUWlRLcjlULWEwUUF0X3ZxUXppZzJsNWxWMkJTU1RpWnZtZE4tREluTUZEa3VtSEVpdXpYbHlPaXIw?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-22T08:00:03+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe’s Shareholders Are Feeling the Pain.",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDVUM01WS1JJV3VQUHM4SmhhajRsaXZ0WHNYUTJueTA2blRzT2Iya2YyZGhzN2xVSmxaSG1maFJIdnowcC1RcERVR3NPelcweTBnWXN4cmtPbVBBQmZhYVJLUFktNjIxSEJobEJZelZzbWlCZWstbkNOZS1WZTM3YWhtTzViZzQzSU1XamV2RmZzT0Jh?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T07:43:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Ed Zitron Calls Anthropic IPO ‘Exit Liquidity’, Warns AI Sell-Off Could Get Worse — ‘Things Are Only Going To Keep Going Down’",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhCSWFJV1pKZ1N2a0EtcDNyTzVNUS1HeWZSdGZnaXJMdG94N1JwVUd1Ymp2N2Fta3N0X01XMEUtMXZWYUYyZjJCbnlXS2hieVVERmhjVmZtYUtXYTkxcWRITktYcjJ5a0k0NU1iUUNNLUc4MF9WeVgzcWNJM1VFMUMzNjRnazhwTURZa3kxekIwQkt3MGVZNg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T07:41:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 Software Stocks to Watch Before PCE Inflation Data Moves Rate Sensitive Growth",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3hKZ1k3bDVTZmxWV052N3VlRTNWS3lDaHpCRkFYWVZudGJtX2IyNzZCOUlsWWJGZjhTZkNPb2lhSG9yNWxLZVZubGkxclZrLThVTllpUFhFMUJIdVBPQmV6TV9WckZmQTFkeTY2and3WUp1bUdWS1ZyRE5FSkd1WEs1NHlLSUt4YVlrYlhseHcxQnBFNmdN?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T07:08:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Ross Gerber Tells Investors to 'Be Patient' on Anthropic Stock After Post-IPO Slide: ‘That Would Be a Gift’",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTF6X0Z0VmU4eFBNWGh4NlhDX2VzODFSNXZtZVJHWEZ3NTI0ejYzamFWNDZSV240ZHhIVDhKdEVGakVpYUYxWFA4d19KYkZfQmM3RVBJR1hUajZpQTdLY1BaQ0Q0b29BYm5YUzd4RmhqdXVCRzBUQnIwa1FxNm1LeWgySWM5Q05rd2wzcVpYSWZWdU4zME9zMzRvMHZXQmlXU1RJWi1ab0lMNGN0VWNmcnVIQzFWaE0?oc=5",
+   "source": "Benzinga",
+   "published": "2026-11-22T07:07:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Gladstone Commercial (GOOD) Stock Sees Fair Value Cut As Analysts Lower Targets",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZQUjhHc0FFakhDemU1Q1h2Y0JtMEJWZUVTLVBuR0hEdko3a1pZeUt6S0dJTHlSWEw2Vjh3bXFZQURlWF8wQ0tFemZzMjBLQUhHVFl6cnJPQ2xsaTgwNVgxWnhxYzVnRV9aUDJoWnVuVXRGQjlKV0dwWWdBMUVZbXhDNXVrSHdhN09zdGlqb0s4a0ZqN040RG5CdHVSVmV2R0dZ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T07:07:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Our Pick Of The Best Penny Stocks In November 2026",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0pIOExfc0FQVGpPY3U2LXVWMHZOZDQ0ZU1kOHBTQVpNcVlqdzZfZnVFM0NiUDNqQzdtbTV0QWZoQ05heDN1UVNrYW9JVUpnY1dmZXl0TUJwQzhlX09XN2U3MzMtQTJGQXlRYjM0TFR6bjVCS2dER3I2bHc4V2hnUzA1VG9BZHh1R1NLWWZyazA5MFg1Mk1paENnS24?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T07:07:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemxOUDRuZjN6UXpGVlBfZWdEd3JGdlRNVXFtaHR4bmRxdlpZdTNqaF9aa2lpTTRSR1Jtb3k4Slp3SHcxcllKNUxsdS1weVFDQy0wRENUSUZ0M1FVNFFaRDBCSy1xRTBRaXk1b0lGVS1vYTgybHA1V09ZUVduUFlnZlRkREN5MmFKTUJBQm5NLXZCek9BQ0xFaFhhTGo3dDV0bHRQZ1BHVVI5YTk1eEQxTlMtZTRwVHJjQlRsV0c2MWo4SkdPR25DRVBn?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-22T07:05:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "1 Reason to Buy e.l.f. Beauty Stock",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFBhU2FrUGxkZVhSVHp2eFBudmtGQ1BYNE15MG9PLURMSmhKMTl4RzlLS1FGcXdRWDBnZ0NQeXlUb0hTNGpTRkxGQnh5NjYwYWZNaXBwUTZPcS1Tb3cycFJLcGFLTnI3SlZUbkxwOWpuM1Z5ajBwaURCVGNpbXFzUGJLc2tXRnlW?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T06:54:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Super Micro: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeEpZVFBKTUt2S0w0Smc3VUJvOEZMM3daTjlnZ0Vxc19hZWxfb2owMlJ6eDk2RUQ0b2sycnhzRzlEdnFCNC00RjlIYU0ybFhmYzZlNTNCZGtXOWQ0UFBsZm1YOWVmZ0d6LVY3cU1VUTNla1k0d2JKVzhtRk9hTFlkWDMtRVEtU1p6UXF2cTJtbWQyR1NnblFjN002VjlaQUY5ekdyR2FR?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-22T06:51:16+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "1 Reason to Buy e.l.f. Beauty Stock",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalpIN2puam5PLVVrYVd1TS1wTV9qQmE5QjNwb0NKd3VYSFZkTDRWQWZmbUVpRTJyNWRSYkdWOWNLZG5UdXhnMG5MOVBuMjVlb3lKQUFmck9LZzlZNkc1SWVqbEl6VWFMVG80UlNnZTgxbW1ST1RoYWZlXzRGWmFUR0dWWQ?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-22T06:34:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "10% drop for stock market unnerving but not that unusual",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTVTelItUGVobTNOWnBLa01TMXd0UVExSTFRaDMxNFUzRTdrb0JfQkdHbS00eDdCbm1CdWhPVHhzRTRaeTVEcURPSEtTeW5EVms3ek9JWVR4UmVuQlV2R1Bya0lmWnpmRnRUZkRDLXBlMmIyb1lET0VDVmQzaXdOT0RTajgxYnpyOWxFb2ZSOGcxVVJEenBuNg?oc=5",
+   "source": "TelegraphHerald.com",
+   "published": "2026-11-22T06:30:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What's Behind Grail Stock's Wild Ride in 2026, and What Can Investors Expect in 2027?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE9TeEFadUtqd2ZtU0pqc05TSXhYTUN5bUl5eWwyU0FXVHhUbzNtQnhrZHFJMktBZEdXOTRzTWpQLUF6T0hweGVFd2lGYVZQenFrWFNJQU9BMFRJWE5SRmpQc1VnS3V0ZEhlNW9CU3drb0J3Zm1iVE9QQUZjVjB3NXBZMGVMWTF6UVFES1o4UzlnSkdtbGFRTThobw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-22T06:27:00+00:00",
+   "snippet": ""
+  }
+ ]
+}
