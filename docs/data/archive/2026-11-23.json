@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-23",
+ "updated": "2026-11-23T09:28:04.863527+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 25390.85,
+   "change_pct": 0.01
+  },
+  {
+   "name": "Sensex",
+   "price": 82623.15,
+   "change_pct": 0.11
+  },
+  {
+   "name": "S&P 500",
+   "price": 6910.39,
+   "change_pct": -8.61
+  },
+  {
+   "name": "Nasdaq",
+   "price": 22617.73,
+   "change_pct": -10.02
+  },
+  {
+   "name": "USD/INR",
+   "price": 92.96,
+   "change_pct": -1.07
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3625.9,
+   "change_pct": -3.1
+  }
+ ],
+ "india": [
+  {
+   "title": "Up 32% in one month! Small-cap stock under ₹50 hits 5% upper circuit despite weak trends on Dalal Street; do you have?",
+   "link": "https://www.livemint.com/market/stock-market-news/up-32-in-one-month-small-cap-stock-under-rs-50-hits-5-upper-circuit-despite-weak-trends-on-dalal-street-do-you-have-11795422451498.html",
+   "source": "Mint",
+   "published": "2026-11-23T09:11:24+00:00",
+   "snippet": "TAKE Limited shares hit their 5% upper circuit on 23 November, extending a sharp short-term rally despite steep losses over longer periods. Analysts see improving momentum but warn that low liquidity and circuit movement..."
+  },
+  {
+   "title": "Sensex Sheds 1,253 Points, Nifty 50 Falls 1.49 Per Cent as Metal and Banking Stocks Drag",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTBRZDNGWU9Lamp2NjktWjdsTml4cXRDLXBYMkl4ZVpOa1pUZ3ktT1c1ZEMyY04wWXNfcEdzTXhaa2h6T3QyQlI1S1puMFVEaWNCcjAyazZyajc1dWIwajEtU180SDZvV1JWSmIxN25QaHFETFJVNVhOM1FnUWtTQW1Gc3FiZjNaREh1SGFacExDSHhUMHdTVjdzTDByU0x4X0xCSjA5N1lEZFVQUWJMbGdRMVE4YzFSSDl2MDZsQTI2bGxmcXFFVkpYWWxkTlk?oc=5",
+   "source": "Dalal Street Investment Journal",
+   "published": "2026-11-23T09:08:03+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg",
+   "link": "https://www.business-standard.com/markets/news/stocks-at-52-week-low-tata-power-cochin-shipyard-apl-apollo-aadhar-housing-126112300552_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-23T09:07:44+00:00",
+   "snippet": "APL Apollo Tubes crashed over 20%; Tata Power, Inox Wind and Cochin Shipyard declined 3-4%, hitting fresh 52-week lows in Monday's intraday deals on the BSE."
+  },
+  {
+   "title": "Rs 56,87,09,59,00,000 Wiped Out: Sensex Sheds Over 1,200 Points, Nifty Falls Near 25,400",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHpZNmw3Mzd6R2liWDJhb05iWDBZTXRWd0k1QkpyRkRKTWZoVVZvSU5teXI0VzJzZVBXZXJORWVQQ1g5ejFOcV9CVXZ6VUYzYmc5OXIyMWdUU244MGJ0dzJfeXEzVk42R0dNOG5vOVg5T0Q3ZzhPR25KRHREbEViaWZxczlMcEZwTUg1cWREWVU1Z1hSd2RTOU9UbXJhTUY5OWtDMFJzdi1nRFAwTU9XX1ZramF1U3FHODQ2M0pIXzZQYlFjMGFkYXdR0gHSAUFVX3lxTE12WFJVQi02RUh0MUU1bkUzRVd0M1ZlY2JicU5FMHFDS1RYN1FoaURzVGRBMFF6Q0lROHdxT2dRZk5rUVRnTGZYODZXUlpZeUtMRS10Q3JFZjc5UTJsWnZrUTBCWXRXbTBxOGJ2YjQtWmZZT3lXOGdSZkFTclRCRTRQSlZTWjhNV0hCMzlDUk1OS2VHRDVtQmUtQ2JxZzAxM3RMcG9yako5SjR0ZE1pdFNpMXpjdUJ6VXZabVlQOXRYaTVlYjZPd29tNXk5dUM1UERtUQ?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-11-23T09:04:14+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Dalmia Bharat pares losses to trade flat after ₹700-cr buyback announcement",
+   "link": "https://www.business-standard.com/markets/news/dalmia-bharat-pares-losses-to-trade-flat-after-700-cr-buyback-announcement-126112300559_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-23T09:01:19+00:00",
+   "snippet": "Dalmia Bharat, the country's fourth-largest cement maker, has announced a share buyback programme, worth ₹700 crore via open-market route."
+  },
+  {
+   "title": "Who is killing Nifty 50 rally? SBI, RIL, HDFC Bank, Axis Bank, Hindalco, JSW among stocks dragging index into red",
+   "link": "https://www.livemint.com/market/stock-market-news/who-is-killing-the-nifty-50-rally-sbi-ril-hdfc-axis-bank-hindalco-tata-steel-jsw-steel-among-key-stocks-giving-r-11795422323375.html",
+   "source": "Mint",
+   "published": "2026-11-23T09:01:03+00:00",
+   "snippet": "Indian markets fell sharply on Monday after a five-session rally, with the Nifty 50 dropping below 25,500 and the Sensex losing about 1.5%. Metal, banking and finance stocks led the decline, as Tata Steel, Hindalco, Axis..."
+  },
+  {
+   "title": "Stock Market Crash: Why Sensex And Nifty Are Falling Today?",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGNMWm0tb2s3b0t6X1NPNEtuZmhNU1UyRkNRVFRwdHI5Yk9tdnk2ZlBGNzJBcWxTcmFZd0NpMnRrWjBjc0RZSGEwU0lISUJBQnMxSFVzZmRnRkJFb1BXVU8wbnE2bGhYc3pMWFFJdHRibXVKamhXQ2U0QnJCaVJ4YTVqUF9yd1dFUVZRVTFhdExOSWlRZHYyc2t5TnJ3dUVtaVBhb2NfTdIBrAFBVV95cUxNRG9fQ1FoRWZoSTI3bXg0d3l2Umd3S2xDNXNOdVp2Tjh5bEhLVDJZNzdlYmFvMlJWLW5iWXVWVWxmb2xtblpKQnRkZ0lKM0toaDhUSE52MUU5VlExamxYTndBc3gyTEZZaDBpVFUzMzMzNFdhTGJwSHJreFRtelkwSFE2aGhQMzVmQmtJNlF1NEFRVTJUdFJQQ1JTaWhIcGNiaGQ5WmFRWmFfclk5?oc=5",
+   "source": "ETV Bharat",
+   "published": "2026-11-23T09:00:56+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Up 115% in 6 months! Small-cap chemical stock under ₹200 jumps 11% despite stock market crash; reason for rise, target",
+   "link": "https://www.livemint.com/market/stock-market-news/up-115-in-6-months-small-cap-chemical-stock-under-200-jumps-11-despite-stock-market-crash-reason-for-rise-target-11795421422249.html",
+   "source": "Mint",
+   "published": "2026-11-23T08:51:22+00:00",
+   "snippet": "Small-cap stock under ₹200: Chemical stock opened at ₹107 apiece today, as compared to previous close of ₹97.42 on Friday last week and touched an intraday high of ₹116.80."
+  },
+  {
+   "title": "Bulls take a breather! Sensex dives 1,300 pts intraday; a short-term blip?",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWERJdkNuOWM4a0FwV3pyOVlkS3c0aWFSMVFIbE53RVl0LVNmeUdzSEZ0eWdIWHRZTExfb21WbTdVUTVCck0zNjNJV1FuQVhGRDNoa0lOVzBCYUI3LWNzN1h0NDVleHk0WXNnQzlIVHZJTEdpWGZDblF5SGk1azhIRk9WMXBwcTR0bGVlOFMwY19xVDRTRXBVcm9aUUU5LTdMckRKOUp5QXAzV21HS3pSc2gwWWVSb0t2MGVnNEpGaTRma2VEbU9KaGNLTmlNN2FzQUdFV9IB2gFBVV95cUxNalp2SlRqOWhseXZoalo3el9GMEh1aENpQVhiODEyU3V5Skl3ZzZmR0JLVUloT3VEc053NnZvTndDUGk1cE1zWXlYc29EMFA4RllnWFRlQVF6WjZuN0Z0WFpOR29rWmFROFd2MGszaFhYQVhLN1Nfdko2RDhJTlRGV1BOeHBtdlZJR196RDA5cTBQN0RqX2ZYakU2ODR2alBqdzRGMlNvVFM2M2xyNThtODBDV2FRZFZQWHBoSWdOUkZPeWVSdUVtTjY4dGV6SnJTbzZGQWFXY3htZw?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-23T08:46:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Nifty crashes by 350 points, Sensex down 1.35%. Why is the market down today?",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlF2c2w2WTRseTFxUEpNbjdPdEMwdUVXTFBaVFQ2MnRFeUtoaUhBMTJJNDUwRDJjYmpVbC01UGhqbF9pdFBwcXVINmlfOTROMjBzYUx0SGM4TktWeDZZSDdPVzhETi1KQ1cxaC1LOG1BdUpRZjk3VWRJWWxjQW9pcWhnaU95RW42NGVzcFlaT3dwaElhLXVkcURIS0Iwb2hvUXNwamdRREtjQ2R5VjZXZTA0U2pwTW8?oc=5",
+   "source": "India Infoline",
+   "published": "2026-11-23T08:40:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Four weeks of gains, one sharp fall: 4 reasons why Sensex and Nifty are falling today?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTZTR2FBZ3ZJS3RMUTJzbUpoQXd5X0ZDMTY3cEtnb081T3NqMUZNXzdNY1JTVVgtWjdyYVNjVE4tc3VzZkl1bmt5RjVGUUpoU0lZZGNBOERZWHp1MUpBUXNleG1yR0RvZ21kTkxxcW0wQTR2VEp3aDZyUGRwV1d6Sm01ZmlMNGFZMHQ1cG5QbnQ5UWpSTmlTRjUyQkZmVDNaWWJNV1BiaW5hRlk3N0IxSWFlWXA1bHhFUloyQ1Mwa9IBxgFBVV95cUxOTkNzaTd5N3haX3B5Z2pEa0pNamwwMUJyYTZNS1g1c1I2alFxd25Fc09NeUtwSGJtb3VIM09jTGJTTEcwX2FaRXZGdXJ0MXdvNk0yVDlfeTQ2U2Rac19qNkJ2WjBBLVF2MGtPem9mMmN4OGlBMWtocmFrbS01elA2MWpmdWFxSVdLUUxmaTQ5bHZXQWNBZDVHVDdpSDI5d0RMaW1nNjBCaWpuY0l0ajk4M3lSVmtROXJuV042d2JFQTJ6LUFVQ1E?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-11-23T08:39:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "PTC Industries rebounds, up 3% from day's low on major defence order win",
+   "link": "https://www.business-standard.com/markets/news/ptc-industries-rebounds-up-3-from-day-s-low-on-major-defence-order-win-126112300539_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-23T08:38:41+00:00",
+   "snippet": "PTC Industries hit a high of ₹25,540 as against the day's low of ₹23,825 in Monday's intraday trade after the company said it secured a major Indian Defence Order for 400 tonnes of titanium products."
+  },
+  {
+   "title": "Indian Stock Market Today: Sensex and Nifty Reverse Early G…",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MVElneUhmblhYUlpxYTJhOElSbmpQdVZRU21ZUjFJQ2JvSzFqNzZYODlnUDlTaDZsdnJuNHlEaFVHblAyZXdTcnc4QnIzdU9kR3VURFNOak9jMmVEbGNNSWpKRkIxeDZn?oc=5",
+   "source": "theopenpress.in",
+   "published": "2026-11-23T08:37:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "TCS vs Infosys vs Wipro shares: Despite global AI bloodbath, why are Indian IT stocks rising? Experts decode",
+   "link": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-shares-despite-global-ai-bloodbath-why-are-indian-it-stocks-rising-experts-decode-11795416602297.html",
+   "source": "Mint",
+   "published": "2026-11-23T08:29:48+00:00",
+   "snippet": "TCS vs Infosys vs Wipro shares: Experts believe global rotation out of expensive AI hardware/infrastructure plays into undervalued, asset-light IT services companies"
+  },
+  {
+   "title": "Premium demand, solid pipeline to spur residential realty growth: Brokerage",
+   "link": "https://www.business-standard.com/markets/news/premium-demand-solid-pipeline-to-spur-residential-realty-growth-brokerage-126112300521_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-23T08:28:06+00:00",
+   "snippet": "Going ahead, the combination of sustained demand for premium housing, disciplined project additions, healthy collections and a strong launch pipeline provides a supportive medium-term outlook."
+  }
+ ],
+ "usa": [
+  {
+   "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-23T09:25:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "As the AI trade stumbles, what can stop the stock market sell-off?",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95aS1DSVdGbDNvaEhjVkp3dU1Fdk15QjJpbnBfQ3ktYjVBR3FHZVh1d2JlaEEyOXF3RFNYX2VFWXFwY3dDMFlGSUVLRV9BdDJpQlZaTGhQZnV4cl9YNFpISjZaWk5kcnc?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-23T09:24:09+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The stock market faces a worrying scenario: a sell-off with no flight to safety",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XM0MwQXdCR0Y4WTJQb0xfTmRwaFExWWRFU2UtWUZvVEhYU3VQOXA0YTVYMzRydUM2Zlg3LUNkMlJlNlRIb3N4WjVCczFkOExMSjNjTHpHZzhHQWtQR3l6cWc3emZXSEdwR0h0S2lTY2JsTTRJS3pVZQ?oc=5",
+   "source": "Fortune",
+   "published": "2026-11-23T09:23:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why is Carclo stock surging today?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTBfR3lZa0Jpb002ZnNhUElXVjFobmVSNXVJb2Fnc2Q5Nmt0RXdqQWxCWjRmdHFITUp0ZldacDFUckVpY3Fqc2cyTFNQSGNBMEhiODZpajA4Q2hsb3pRWkxEb2ZieEEtRU9Lc0Z6ZzBxa3JuUFhvdExQdnI3R0VTTmFkVVVsWEdpcElaN2FvZ05CdUdCc04wa2k4UQ?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-23T09:17:08+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What Sent Intuit Stock Lower?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTVDS1l5eFRjSFRhRkdFOTFCTXA5MVo0RHh2dk9GaXM4am5wOE1rUWpiVXcyYkFMd3lWeUVwU0ZtdF9FLTZGamxVb3pRMl9zNnFWazFfNzV4SHNieExZejJwaGFzRk56VUhydVktbi1wRFNBY0tpWHlOM00wbzhnNzhJTTlHZmlXOGhJQk9qTTJydFk?oc=5",
+   "source": "Trefis",
+   "published": "2026-11-23T09:16:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Fed Chair Kevin Warsh and the FOMC Have a New Concern, and It Has Nothing to Do With Trumpflation",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVdHRUhYdnZkRlBObTBTanZjY3d6ZExLYWRuQ2c3eXZfaVJyMjBWRm9uM0Q2VGZ6enVBRGgtUjN2aGM5am9ESE5MV3VoRWU3d0dRT2luUzhKNjJ1Umg2SkJxNC12UFRtbW0xSGZsLXhnMXNqWmhpSTR6b2hibjVTN21XNF9mNWhBQlBhU0M4cUdiVldQQlFESy1WOXZGOVUtSjFBYXBLbzYwa1Y1ZHpSTnhueFdnN3dNQXc?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-23T09:06:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "U.S. Stock Market Moves | NVIDIA Surges Over 8% in Pre-Market Trading as Trump Posts Again in Support and U.S. Treasury Secretary Shifts Stance; Petition for Jensen Huang Gains Over 200,000 Signatures...",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk1MUTVYOEhoMmdDYlE5dlYwOEwzalpndXJVVmJ6UzJDTlpMN2FGNEZsdVJ2NnJLcWh5eloxbVZDeTNrOF9NTzJnQjkwRGxCYXBURlYxYlFrZWNwTU9jTjZBYmd5NGVCNEMxa0h4Q3M5MXBzXy1UU2t0bXpBRFVDc0QxTTN1NWd3VTZ0bG1ITUtpV09ZY1Vr?oc=5",
+   "source": "Google News",
+   "published": "2026-11-23T09:03:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stock Market Correction 2026: Is It 2018 All Over Again?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGotNGxtOUVtb242UEZJX1VybTdfZTdDVXE2UHFBR3BNUHZDeWpHNVRFelFXdHoxM3ZJTE5qWVlxN2NBRloxR0NDdWFGeEIya1htUUlnNDJCUnN4cGxNZXY2c05kb2VaSVNldUpnTDJzQjE0UWd5VWdmUXJCZW1IWmZ4cnVReGRRY05SeU5mMno5V3JvVEozb1cyUndQV285MlZ3NU93?oc=5",
+   "source": "Real Investment Advice",
+   "published": "2026-11-23T09:02:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Does Warren Buffett's Successor, Greg Abel, Know Something That Wall Street Doesn't? Berkshire Hathaway's New CEO Is Piling Into a Homebuilder Amid Rising Interest Rates",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTy1OQlpCeWh1UVZmT0ZEdk5EZ0t1MXBDa203d01XT3FkY2dBdUswMXdCNFZ6WVU4WVBfekwzdThrRGV2V0NZWVBTRmU2bkhqbEZCVG43NVFRazgyRFd6cmNYR3BCSEhNTTNKcDBNNG9KU0pkM09PVmI2RFVYQ0VubWZnQXRLYWFZb3IyakZqN1hMdVlaNEZlc2VFcVBQYUNuUWxoT1QtT2JNQlQ0REoxREhFdnIxdUpwaEMtaUVmNl9FUVNjR1hpcnRoaFpxZmJYczc3bi1wdDJIYmJyY1lEWmV5ZzNmYnFxbk1ncmVjeVN6VjhxS0NOTnVvTTNBbmUtNHJERkJqaEpnSDVfcjZUZEtGUzB3UHpkQ2FZTzg2Sy1YdFFRYzBldmFzcTF2UFdrbkYxRlVjS3NOaHZOX0NoSW05QXA?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-23T09:00:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Fidelity: Retirement balances dip amid market volatility, but workers keep saving",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1Vyd25idXNfWmxiLTNyVFJicGJZby1pSUtlaEZfY1YzbHdaTDd3UEVmRXdRWUdXRkpjZFdiZ2VrNElSdkd1anNhMy1LTUstSjZ5X2tYV1YxdVh5WW1XUVFoTHEyY2dhNzJqODN3SFR3NFFabl9GcG5DM2xKQUszTWM0bEJwcUJYUHR4elpyXzdHanBrVUpaVjQ4Q1lyRDJsMnlYck53YUZKVE9POUF6YUlfXzBTakFoa0hZdXpGWkdlSUdGUUZMd01wUUFxUTRxRXc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-23T09:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Taiwan loosens margin call rules in bid to steady market",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWJqWU1MWEVPTm00ME9BVVg3TXFscUlud0FGYm9PMVVXTm5ySmIyTUxnbE5MdzdYUW5wS2dkdTBiUHNPeXkyWGU3NS1yNFhRY1JPR1phUkZkOXV6dS1NUTBVNUpheUNOY2FZSnFOcExaLUtjaDhlSTNHdV9Ma3BwblMzRjVqQW5qYS1IazhnMHYyZ3I0YWtHTWFlUXZ6TG5OWWRCVUtGcktQUQ?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-23T08:53:30+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stock Rotation Will Go International: Market Analysis",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXVocFl5dEdLQ0NDTURrV2JRZDdnaC03RFIya2FyS3JJYm1IcTJ2eUFSYTNNeS1EVWFGZHJGUEVudUZTYkNWTGZpbnE2dFJzQURGNzRzVXE0LWEwa2JVazc0cXlCZlFuRnJpR3N1cjFYWlpzaTF5ODkzUUNmNmdmeGN1cXpRRkJocVBPY0xIdWdZWXJJYkE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-23T08:51:17+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Why Is Caterpillar Stock Falling?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3FOd0ZwTjh1elhhQzBHa3Q4VHRJTXVRRHc2b0pQekdtZVZUeHQyYjlqUnNUZF9aTGR5M0dzNFVzVUIwY1RuMUdRWGxnVTRRRUUxVURpT3BMMjhyNVJFamZMeDhqUl91bVhrV3NpNVBxc2tpNU1YcDRrZWtoUEZTYlZkazFzQXhaZ0MwcDRXamN0V00tMUQw?oc=5",
+   "source": "Trefis",
+   "published": "2026-11-23T08:49:14+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Rocket Lab and Nebius Are Each About 66% Below Their Highs. I'd Buy Both and Hold Through 2030.",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1AtR2p1RGJjWmNfSGNWUEZHN1oxV21LZ2tNSk5kZlkwT3BNSk04dnpzZ2hXZWxxXzR4LTNYQkhRTy1zT2xoUXNfZVo0Q1JLZ3dnY3UxNVA5ejFFa3JDZms0a2pYUFhsWVhBaEZmVldwS25oQ3UtQ0RHdUtTQmpxZVIwb0JJeVpXRmJwQUFzUzl2TTVFVG1vVnhBZDZKb3JMdklUSzBNQThac3pOY2h1TEdkTjhkOWh1WURJdkRUcnh5eHVGYTc3MVRZdmpPMVlt?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-23T08:47:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The S&P 500 Just Had Its Worst Week in 18 Months. Is This a Buying Opportunity?",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnQ0Mm11cXhJOVF5WXFVYjRnUjQwNnB2SUY1endnRmI1TFg2N0pMd2dIVTFlVGVKZ19GV1d0Uk5zTVZGWE5MNXJlX00zdndyazVIYzJOQ2cwM0wxYzdjaTgxUGVfNktaRS1rdzExR1NFZnA4Q3NGMVM5UzJ3QlJoejlSbFM4NHFpanEwZFNqYW04X0hqSGJGTnBKX3NsOXJyR25STDRCSUNUeWlLaFplRkdaSXZ1eUl3ckVLUWl2Tk1rUQ?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-23T08:45:02+00:00",
+   "snippet": ""
+  }
+ ]
+}
