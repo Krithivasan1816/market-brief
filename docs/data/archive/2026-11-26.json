@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-26",
+ "updated": "2026-11-26T09:50:48.461356+00:00",
+ "quotes": [
+  {
+   "name": "Nifty 50",
+   "price": 25897.4,
+   "change_pct": 1.5
+  },
+  {
+   "name": "Sensex",
+   "price": 84313.85,
+   "change_pct": 1.56
+  },
+  {
+   "name": "S&P 500",
+   "price": 7182.78,
+   "change_pct": -1.92
+  },
+  {
+   "name": "Nasdaq",
+   "price": 23585.8,
+   "change_pct": -3.46
+  },
+  {
+   "name": "USD/INR",
+   "price": 92.47,
+   "change_pct": -0.89
+  },
+  {
+   "name": "Gold (USD)",
+   "price": 3602.7,
+   "change_pct": 2.48
+  }
+ ],
+ "india": [
+  {
+   "title": "Gold price today in India ₹58,500 away from record high; right time to buy amid rebound from 14-month low?",
+   "link": "https://www.livemint.com/market/commodities/gold-price-today-in-india-rs-58-500-away-from-record-high-right-time-to-buy-amid-rebound-from-14-month-low-11795679635348.html",
+   "source": "Mint",
+   "published": "2026-11-26T09:29:23+00:00",
+   "snippet": "Gold price drop in 2026: The MCX gold rate today is around ₹1,22,2500 per 10 gm, around ₹58,500 below the record high of ₹1,80,779 made in January 2026"
+  },
+  {
+   "title": "BPCL vs IOCL vs HPCL: Jefferies names its top OMC stocks to buy as crude prices fall | Check target prices, rationale",
+   "link": "https://www.livemint.com/market/stock-market-news/bpcl-vs-iocl-vs-hpcl-jefferies-names-its-top-omc-stocks-to-buy-as-crude-prices-fall-check-target-prices-rationale-11795681099588.html",
+   "source": "Mint",
+   "published": "2026-11-26T09:25:46+00:00",
+   "snippet": "Jefferies turned bullish on BPCL and IOC, retaining Buy ratings and price targets of ₹380 and ₹175, respectively, as lower crude prices improve fuel marketing and refining margins. It kept HPCL at Underperform with a ₹31..."
+  },
+  {
+   "title": "Allied Blenders shares: After 50% jump in 6 months, Elara Securities sees 25% more returns; assigns Buy rating | Target",
+   "link": "https://www.livemint.com/market/stock-market-news/allied-blenders-shares-after-50-jump-in-6-months-elara-securities-sees-25-more-returns-assigns-buy-rating-target-11795682211839.html",
+   "source": "Mint",
+   "published": "2026-11-26T09:11:22+00:00",
+   "snippet": "Allied Blenders shares have risen nearly 50% in six months. Elara Securities sees further upside, setting a ₹1,000 target and forecasting 40% EPS CAGR through FY29. Its outlook rests on premium brands, new products, geog..."
+  },
+  {
+   "title": "Nifty Realty hits 52-wk high, up 3% led by Prestige, Brigade Enterprises",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNi1iVUNKcl9yclFUMC1Ua3BQcWRLSUItMTJidFNDSm9pZVlmMkxnY2g3NXNvMjRRS3FCMjE2NzJTTS05aUVEdk1BUGcybllyZUI4elVudDRfNXJSTUxHU2R0dkctRWoyNUpzVl9xQzRxV2FmM2pKUjVfaGszeTJpNEdEOEZOcnRrYXQ5SkdHZmZxWVVUbW1xUzBWbmpKUldab2UySmdRd3dOLUhzWWR6VlVFNDVtN0lYRUdlMlFGbUxUOEE1andnMURZR1c2ZUxTYXZpWlRKRVMzdXVyQ0lV0gHkAUFVX3lxTFBIWTdzSzY5THowX3gwRldZWEM0dHZuempxTG9NZnJaeFJxVENvVE02M1RpekV5QjJ2M05veTctTTZWTnV5SDJWa3lscFhaSmIzSGEwSVB3U1VHcVJMMk1XWTVBN3lNVkRITk13M2ZXRHhobWhuMHZKMWNtZEpyMGhIcWtRektVby1UaWVxZUFKRWJyWHVNOVhOUUN2ZHpDQXN6bkROdndCZlBfdVhpZ2xxcXdQU0Y2SWZqS29zdmZ1NlJBTmxhV3pYdW5EUi1jNF9TazI5RW9tZm82Y0lCb0l5TzBkRQ?oc=5",
+   "source": "Business Standard",
+   "published": "2026-11-26T09:10:53+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Nifty Realty hits 52-wk high, up 3% led by Prestige, Brigade Enterprises",
+   "link": "https://www.business-standard.com/markets/news/nifty-realty-hits-52-week-high-up-3-led-by-brigade-enterprises-prestige-estates-126112600658_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-26T09:10:01+00:00",
+   "snippet": "At 02:05 PM on Thursday, the Nifty Realty index was the top gainer among sectoral indices up 3% compared to a 0.14% decline in the Nifty 50."
+  },
+  {
+   "title": "NIFTY50 and SENSEX put a resilient show on Thursday; Wipro, ABSL AMC, KPIL, Abbot and others cross 200 EMA levels",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVmlvMnJZcGFDbEdidTRqWDFzNHNGMlZ3Uk1pallpT2Q4a3hwWWlmaEdJWl92ckdwZlh4Y2ZiWkltdGpZRVI5TVN0eE9ESTFCc3VDamRsN0NtNFp3R2NGUFA1QjVLVjZQOG5sWVdDMDlMbGZJcENwUTlPanpVamJWVzNTcTZ4UnBXcXlld2hyUUctWEpkM2s4VGpwYWxGLVVFSDFTTVZCYjNiOGRXa1drb3lEcmtXc3k2MDRwN3JITGlVcTZFMWd2ZGU0cUVMZ0xmRlVxa0FNQ1R4UHJuVVA5ZFZkSTR2SDZxSmRkcEpwZXNTWjlwRGVfRWRPOXNYUQ?oc=5",
+   "source": "Upstox",
+   "published": "2026-11-26T09:06:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "LCC Projects hits 10% upper band on order win; but 40% below IPO price",
+   "link": "https://www.business-standard.com/markets/news/lcc-projects-hits-10-upper-band-on-order-win-but-40-below-ipo-price-126112600648_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-26T09:03:47+00:00",
+   "snippet": "LCC Projects' stock listed on the Indian bourses on September 17. However, it remains 6.40 per cent below the initial public offering (IPO) price of ₹146 and 40 per cent off the all-time high of ₹191."
+  },
+  {
+   "title": "Gold rate today in Chennai, Hyderabad, Bangalore: Check 26 November MCX yellow metal prices details",
+   "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-chennai-hyderabad-bangalore-check-26-november-mcx-yellow-metal-prices-details-11795681144857.html",
+   "source": "Mint",
+   "published": "2026-11-26T08:55:55+00:00",
+   "snippet": "Gold rate today: On the domestic front, gold prices on the Multi Commodity Exchange (MCX) opened 1.2% higher at ₹1,22,740 per 10 grams."
+  },
+  {
+   "title": "NMDC battles weak offtake despite strong steel demand",
+   "link": "https://www.livemint.com/market/mark-to-market/nmdc-share-price-iron-ore-sales-fall-steel-demand-11795675631542.html",
+   "source": "Mint",
+   "published": "2026-11-26T08:49:11+00:00",
+   "snippet": "A global surplus amid a slowdown in China’s steel output is weighing on ore prices"
+  },
+  {
+   "title": "Nifty 24500 CE 01 DEC 2026: Option Premium, OI & Price",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZkFybGxITkNhQVZ4dFpnN0R0Rl9mU1laRzVkaUNWaFdGTDMxdnhoSjdzZ2FYQy1OM3dyOVE1SmVWNVQtX3JTMENsaUpXd1VESWxRbHc0d0Fha0Jfb3BaUzE2X2hpNmtVVF83eG5kQUVDQTVlT3dGVXdRaHA4SW92VTJnNA?oc=5",
+   "source": "Kotak Neo",
+   "published": "2026-11-26T08:45:58+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Gold prices crash ₹22,000 in a month: Is this the right time to buy to make profits when prices go up? Experts' advice",
+   "link": "https://www.livemint.com/market/commodities/gold-prices-crash-rs-22-000-in-a-month-is-this-the-right-time-to-buy-to-make-profits-when-prices-go-up-experts-advice-11795679163869.html",
+   "source": "Mint",
+   "published": "2026-11-26T08:27:45+00:00",
+   "snippet": "MCX gold has fallen nearly ₹22,000 per 10 grams in a month, easing costs for wedding-season buyers. Analysts see support around ₹1.15 lakh– ₹1.17 lakh but differ on further downside. They recommend staggered purchases, w..."
+  },
+  {
+   "title": "Order win impact: Multibagger stock Welspun Corp rises 5%, up 180% YTD",
+   "link": "https://www.business-standard.com/markets/news/order-win-impact-multibagger-stock-welspun-corp-rises-5-up-178-ytd-126112600592_1.html",
+   "source": "Business Standard",
+   "published": "2026-11-26T08:27:36+00:00",
+   "snippet": "Multibagger stock: Welspun Corp is one of the standout performers on Dalal Street this year. According to NSE data, the smallcap stock has zoomed 180 per cent in 2026 so far."
+  },
+  {
+   "title": "Indian Stock Market Rallies! Sensex Gains 200 Points, Nifty Crosses 25,800: What's Driving the Rise?",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmRZMzdMaHhiRGVvUUdPMXh5bzFkVjlDZnkxRjctY191Wkktem1oWVpZQTUxWFhhMkZsSEZwdWJmQl9kb3Z5UEpoelRiN09XeDlsbURYS2tncHBSZm1DNkVhcHA1c3NPaFpXUnNpNDhXOUIyWTQ4aGwxLVE1TkJpNVB0SksyaGlBR3YxUDhTanBKQ2d4WlpCNF92aXotTU9zcjZjd1lYY2k?oc=5",
+   "source": "jeevanutsahnews.in",
+   "published": "2026-11-26T08:09:55+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Trump Tariff Threat impact on Indian stocks: Gokaldas Exports to Welspun Living - Shares that could face biggest heat",
+   "link": "https://www.livemint.com/market/stock-market-news/trump-tariff-threat-impact-on-indian-stocks-gokaldas-exports-to-welspun-living-shares-that-could-face-biggest-heat-11795675402003.html",
+   "source": "Mint",
+   "published": "2026-11-26T07:56:05+00:00",
+   "snippet": "India-US trade deal: According to V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited, the tariff threat is unlikely to have any impact on the Indian stock market in the near-term."
+  },
+  {
+   "title": "Coforge Share Price Falls 5% Over Block Deal Fear",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1czR0FEU2U2dEZDS1RTTVBJVHZxc2lsQ3NGTVJIM3FaZnhFWEpmNkg4MnZiU0VzR0NhWnRrUnFqLVJ6SzdMV2g2cWhHRUlvenNVX01nVVo0Y3RJUDlGTmF4Q2ZiQ3VYS3lHR1FXVkFOVm8zcEY5R2NycjZyTm5nNGxiVHc?oc=5",
+   "source": "Equitypandit",
+   "published": "2026-11-26T07:56:04+00:00",
+   "snippet": ""
+  }
+ ],
+ "usa": [
+  {
+   "title": "ANT Stock Gains Overnight: US Exchange-Traded Funds’ Anthropic Holdings Swell To Over $2B",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXBpVmxTLXYxcC1pczdiZWs0Zkk4UWI0S2RmNjZzd3JjX1I0WFhTdkVTd0I1bUpaWUJHcmlQWTJvVHRWYThzN0w2ZjZLSk05Qld4V3BrNklSM0l4NjVHc0xza25PQWt1NHp5Sm1NdUxrMUJLUEMwMnBQbHZfUWxFUEkwblhDb2NLUm5qZWQyajNfTFhQblBRRA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:23:24+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Equifax (EFX) Could Be 9% Undervalued As Mortgage Weakness Tests Its Valuation",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXBJY29Ja1FrY0RhWWdHT09YcmF3MEtCY0Yzdkp5ZXhuRXRmNFNPTTRUT0N0RnlRS2tSOUdtX09NZ3lQQ2FxV3FGRUVlNGd0SG53aEwyTTk2X3o1ZmFKd2loNHdLSUdsVG5MTzI2ODQtV2ZvajZlWE1pR2E0azNwSWYtRVdIMlVDUy1DM1UtaVBzU1l1SlpTZEFLSlM?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:16:33+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "What Borr Drilling Holders Got Right",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEV6eDZCTWctY2M2SkhMZkZUeW5JcXpZYXNVdEYwamp2a1FWaUhmOFpTckNYSkg5RHc0WXdkYWw5eXpWWnduT1JIejlTbjRRdHdEOG51UzVqWHMzdVlOVVdhQU1DQ1pWZnRCTUJZSlBEUU51RVFYTWo0d09jZEJIUU5BVHR5RDZnMUVJRzZCM0RaVWdW?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:12:44+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "DarioHealth (DRIO) Stock Sees Fair Value Cut As Analysts Reset Execution Expectations",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1VpcllvVEdEM25iaGlBM0wyX0dSdmxwYTVlMXAybm1XNy1aZFU0TzJZMG0xQWh3QnNONUhuMDQzbDR6RmstS21kNjZIVGZwU2pSbExLdm1QbXBiNGlCdGFwaVJjMWVfMjg4VDU2bGNneDVuakVnNUFWdGwzRjZqdmpGWUo4M00tRmpZUktkWlNSY1BvV1FTb2g0UmNVUQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:10:49+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "DELL Stock Heads For Worst Month Since 2021: Morningstar Sees Risk Ahead For Dell Despite AI-Led Earnings Beat",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjZiV3ljWFBxSTB4NWRWS0FmZXEzRC1oMzk0UkxJdTB4Y0VlMEV1Wm5nZnl4a0ppenZsQy1qczBhQ1lhbDJTMjVEQWNFZGJTOVpiS2ZfWTdzMnhaclNad3lSWHdBMmlfd3FnUllEcVJkN1RhYlZPMzJydXN0ZTVDQk1JcC1TUnRpdnUyV2NJU0pxU2tIMUt5LQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:10:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlM1cEVZV2FiQzNweFlINDdoTDVGaDFnOS02eWpIV3BDUks0Q2FNc2dUWUkxOHl4LThWVXJCeXFRMHFETVpORjR2Y0lKSkh5YVN0Y2dUR0pTb1dmWUJoQmtCWTdETmpwYWtDZ1otOTlHb2lpdWNpSG5Kc3Z2QW94VjlWX1doeEJOLW01NU04aDBBYmxFY3RnLU1Vek9jdmEtVE9TTmFJZ1pWd0xLUXpnUnZjOEx3UQ?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-26T09:08:53+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Far Could the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite Plunge? Nearly 156 Years of History Offers an Answer.",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUxQNzNiQUN1Q2ZtNmtESHB2S0VPMFhyZ045Xzg0c2RKUWFWS2g5aDcybjVpTEVKOXBiWXpFa3Y2TmtsQmVUSHJEd2FQSURsOHZtM1RZcXNsdlZ5N3poQ2c1N2hFd1RvLW1ucHN5R1FGcUppTTNCNDByWk9uWDBheHF4NXZmRV9JMG12djM1blRUb2tYRjJETGt0WEdrLWY0TGFpdG1YV2pqenNWUnBNUkFNR2phVWVJb3RrYWRjMHZSLWNuLVFMYVJZZG9Jdw?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-11-26T09:06:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The Trade Desk Stock Is Headed for Its First Back-to-Back Losing Years. Its Only Other Full-Year Decline Was Followed by a 61% Gain.",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEZ1a3dCYzMtT3hWRDZhU1BlbEhBNVFCT0oyblJmcTFvNGx1a2stTVhaS1loa1RvVmlYM2hoZTYwQmgxVEhCRVNBQTFET0xrUUduSWhJV2FYT19jNHJuS3F3MU1RUnFTc1BJWmJ4LWIxZFVxRF9aRjZZcWxwVWFLX3ZEdUFqSkI1SDNUelVmQ1VyTXVSOXFfd0JR?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T09:03:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "World shares push higher, while markets in US will be closed for Thanksgiving",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWRQMmxMU1pBVEd3WHlrcUtPRGNPQ2ZwWWRLMHNTd3JYTklmV2VnYXY4MElQelozNWdZZ2IwZTlqemdJNkFXZ1NhWnJqSnlNc2ZiM2FGMjhUbzRfU3lBaF9HZFdfVzdDblByeVNaQTc1S3dCMFdfQ1VBclE0emZJSnR1YWVtWXJVTXBwclhjNFlBYVBDZ1N4Z0pwNmVMeWhySmhDYXBDcldiajdEbWxOOTk3S1RZZkdOaDNIRm8yWTJGbWhkNXROTXJXZENpQ1dRMks5blZ2V3pPREhqbTItSG9DOW1fcGFGQ2wzQ3ZQNVhaaXhiR3F0LXpmd2FOZUZ1dVY4dTV3dw?oc=5",
+   "source": "LancasterOnline",
+   "published": "2026-11-26T08:51:56+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The Nasdaq Fell Below Correction Territory: 2 Beaten-Down Nasdaq Stocks to Buy and Hold",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEZDdzJaXzI2djh4UFdsQy1JZkQ5SmxiekszdnZSUTA4Y3V5N2FsM2tURmhvZW8tSnhva2h0SkFXYi1uMUt1XzZCWmszWVdPcThISHN1d1p2UnhTekI2OGFZbjNEcjBxc215MnNpaGFhbW1KLVBsc2xib3hNM2FndVlKeE1Kd285RmtHX3F2WGc0ZXEyejc2Y1laWXhHZmJ1cWt0R2l3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T08:50:02+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkc4QzNZMFFxZFRzQ2ptU1EtZEJVVXFMRFp2ajhabE5Zb3hnN3VMVWNnUkRmSFQ3UFV5aDVsUXRGaTd5bXo3Yk5xWWwyQ2Z1WTBiei1jZExUQnJxUHA0ZFZsTmpKcUpqc3F0dHdna1ZvSGhjTjVXZnFXSDR0ZEZ2UjJsNVN2WUZYRGIwRS05N1NCMFYxZktKXw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T08:43:12+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Watch Asian Stock Markets Are Cheap Enough Now: Market Analysis",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTA2VE91TzBYWU1NYjhQZnNzcjIxZU1EaHVBdGlmWGstOG9wTXNMMDZXMnpFSnN5Rm8wc1ZXVUo3UmlDeVIwSVNFMDduZHNCUG1IT2NLR0JhZnB6a3RmeDNmNjYySzYwemMyTEw0YUo4eTlaQjJtdkNWRllGUnRTeTJNOEs1Ukw2NXZlSm0xd1d2b3hHR1pDVTFqVFpCNV81NGZlUlpFYTdFSUFleTlz?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-26T08:34:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "FX Daily Snapshot",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVGl3OVB1em1oT2h1ZUQ5alJ0a0s2SE5kQ01pUjVwcHg0YzhZS1JiR2RJSDc2WVI4M0d0eFNIZTVQQktyVlR5TzRzVUFhcmJENGZyUFhnd0EzdjRibGZaQWduMmgwalRjQnNmZkF6SHBOSVNDanc?oc=5",
+   "source": "MUFG Research",
+   "published": "2026-11-26T08:34:23+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-26T08:33:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "European stocks rally as tech and banks rebound, tariff fears ease",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-26T08:33:40+00:00",
+   "snippet": ""
+  }
+ ]
+}
